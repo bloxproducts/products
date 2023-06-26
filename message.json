@@ -1,0 +1,120 @@
+{
+  "groups": {
+    "Script-Ware": {
+      "logo": "https://media.discordapp.net/attachments/1020470040241389609/1021004510832889906/blue.bc5c6bae.png?width=676&height=676",
+      "items": [
+        {
+          "name": "Script-Ware Windows",
+          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+          "robux": {
+            "purchase": "https://www.roblox.com/catalog/12337450360",
+            "verify": "https://bloxproducts.com/checkout/robux/sw"
+          },
+          "price": {
+            "$": 19.39,
+            "⏣": 6600
+          },
+          "lifetime": true,
+          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+          "features": [
+            "Most popular",
+            "Script-Ware for Windows",
+            "Lifetime license",
+            "Free support",
+            "!Strings Attached"
+          ]
+        },
+        {
+          "name": "Script-Ware M",
+          "purchase": "https://rbxproduct.sellix.io/product/63b6e0e556410",
+          "robux": {
+            "purchase": "https://www.roblox.com/catalog/12337446756/Swept-Rare-Mac-Tshirt",
+            "verify": "https://bloxproducts.com/checkout/robux/swm"
+          },
+          "price": {
+            "$": 19.99,
+            "⏣": 6600
+          },
+          "lifetime": true,
+          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935824716136549/apple.png",
+          "features": [
+            "Script-Ware for MacOS",
+            "Script-Ware for iOS",
+            "Lifetime license",
+            "Free support",
+            "!Strings Attached"
+          ]
+        }
+      ]
+    },
+    "Fluxus": {
+      "logo": "https://cdn.discordapp.com/attachments/1020470040241389609/1122949279108055060/fluxus.png",
+      "items": [
+        {
+          "name": "Fluxus Windows",
+          "purchase": "https://rbxproduct.sellix.io/product/63b6f1ead0e12",
+          "robux": {
+            "purchase": "https://www.roblox.com/catalog/12337593825/Fluxcapacitor-Win",
+            "verify": "https://bloxproducts.com/checkout/robux/fluxwin"
+          },
+          "price": {
+            "$": 16.99,
+            "⏣": 4500
+          },
+          "lifetime": true,
+          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+          "features": [
+            "Most Popular",
+            "Fluxus Premium for Windows",
+            "Lifetime license",
+            "Free support",
+            "!Strings Attached"
+          ]
+        },
+        {
+          "name": "Fluxus Android Lifetime",
+          "purchase": "https://rbxproduct.sellix.io/product/63b6f2b008c8a",
+          "robux": {
+            "purchase": "https://www.roblox.com/catalog/12230910411/Fluxcapacitor-AnLife",
+            "verify": "https://bloxproducts.com/checkout/robux/fluxandroidlifetime"
+          },
+          "price": {
+            "$": 31.99,
+            "⏣": 10000
+          },
+          "lifetime": true,
+          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825039110246/android.png",
+          "features": [
+            "Fluxus Premium for Android",
+            "Stable engine",
+            "Lifetime license",
+            "Free support",
+            "!Strings Attached"
+          ]
+        },
+        {
+          "name": "Fluxus Android Monthly",
+          "purchase": "https://rbxproduct.sellix.io/product/6499e341e2272",
+          "robux": {
+            "purchase": "https://www.roblox.com/catalog/12337599048/Fluxcapacitor-AnMonth",
+            "verify": "https://bloxproducts.com/checkout/robux/fluxandroidmonthly"
+          },
+          "price": {
+            "$": 6.99,
+            "⏣": 2300
+          },
+          "lifetime": false,
+          "subscriptionPeriod": "Month",
+          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825039110246/android.png",
+          "features": [
+            "Fluxus Premium for Android",
+            "Stable engine",
+            "Monthly license",
+            "Free support",
+            "!Strings Attached"
+          ]
+        }
+      ]
+    }
+  }
+}
