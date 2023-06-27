@@ -22,7 +22,8 @@
             "Lifetime license",
             "Free support",
             "!Strings Attached"
-          ]
+          ],
+          "accent": "#1B3F66"
         },
         {
           "name": "Script-Ware M",
@@ -43,7 +44,8 @@
             "Lifetime license",
             "Free support",
             "!Strings Attached"
-          ]
+          ],
+          "accent": "#1B3F66"
         }
       ]
     },
@@ -69,7 +71,8 @@
             "Lifetime license",
             "Free support",
             "!Strings Attached"
-          ]
+          ],
+          "accent": "#524366;"
         },
         {
           "name": "Fluxus Android Lifetime",
@@ -90,7 +93,8 @@
             "Lifetime license",
             "Free support",
             "!Strings Attached"
-          ]
+          ],
+          "accent": "#524366;"
         },
         {
           "name": "Fluxus Android Monthly",
@@ -112,7 +116,8 @@
             "Monthly license",
             "Free support",
             "!Strings Attached"
-          ]
+          ],
+          "accent": "#524366;"
         }
       ]
     }
