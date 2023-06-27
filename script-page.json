@@ -1,0 +1,31 @@
+{
+  "groups": {
+    "Bread Hub": {
+      "logo": "https://gh.expo.moe/ScriptWare-Icons/blue/vector.svg",
+      "items": [
+        {
+          "name": "Bread",
+          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+          "robux": {
+            "purchase": "https://www.roblox.com/catalog/12337450360",
+            "verify": "https://bloxproducts.com/checkout/robux/sw"
+          },
+          "price": {
+            "$": 1.99,
+            "⏣": 690
+          },
+          "lifetime": true,
+          "device": "https://breadcity.github.io/ico/icon/vector.svg",
+          "features": [
+            "*Most popular",
+            "Beans",
+            "Lifetime license",
+            "Free Beans",
+            "!Strings Attached"
+          ],
+          "accent": "#1B3F66"
+        }
+      ]
+    }
+  }
+}
