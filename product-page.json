@@ -1,7 +1,7 @@
 {
   "groups": {
     "Script-Ware": {
-      "logo": "https://media.discordapp.net/attachments/1020470040241389609/1021004510832889906/blue.bc5c6bae.png?width=676&height=676",
+      "logo": "https://gh.expo.moe/ScriptWare-Icons/blue/vector.svg",
       "items": [
         {
           "name": "Script-Ware Windows",
@@ -50,7 +50,7 @@
       ]
     },
     "Fluxus": {
-      "logo": "https://cdn.discordapp.com/attachments/1020470040241389609/1122949279108055060/fluxus.png",
+      "logo": "https://fluxus-icons.femboy.cafe/white/vector.svg",
       "items": [
         {
           "name": "Windows Lifetime",
