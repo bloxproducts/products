@@ -8,7 +8,7 @@
           "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
           "robux": {
             "purchase": "https://www.roblox.com/catalog/12337450360",
-            "verify": "https://bloxproducts.com/checkout/robux/sw"
+            "verify": "https://bloxproducts.com/newcheckout/robux/sw"
           },
           "price": {
             "$": 19.39,
@@ -30,7 +30,7 @@
           "purchase": "https://rbxproduct.sellix.io/product/63b6e0e556410",
           "robux": {
             "purchase": "https://www.roblox.com/catalog/12337446756/Swept-Rare-Mac-Tshirt",
-            "verify": "https://bloxproducts.com/checkout/robux/swm"
+            "verify": "https://bloxproducts.com/newcheckout/robux/swm"
           },
           "price": {
             "$": 19.99,
@@ -57,7 +57,7 @@
           "purchase": "https://rbxproduct.sellix.io/product/63b6f1ead0e12",
           "robux": {
             "purchase": "https://www.roblox.com/catalog/12337593825/Fluxcapacitor-Win",
-            "verify": "https://bloxproducts.com/checkout/robux/fluxwin"
+            "verify": "https://bloxproducts.com/newcheckout/robux/fluxwin"
           },
           "price": {
             "$": 16.99,
@@ -79,7 +79,7 @@
           "purchase": "https://rbxproduct.sellix.io/product/63b6f2b008c8a",
           "robux": {
             "purchase": "https://www.roblox.com/catalog/12230910411/Fluxcapacitor-AnLife",
-            "verify": "https://bloxproducts.com/checkout/robux/fluxandroidlifetime"
+            "verify": "https://bloxproducts.com/newcheckout/robux/fluxandroidlifetime"
           },
           "price": {
             "$": 31.99,
@@ -101,7 +101,7 @@
           "purchase": "https://rbxproduct.sellix.io/product/6499e341e2272",
           "robux": {
             "purchase": "https://www.roblox.com/catalog/12337599048/Fluxcapacitor-AnMonth",
-            "verify": "https://bloxproducts.com/checkout/robux/fluxandroidmonthly"
+            "verify": "https://bloxproducts.com/newcheckout/robux/fluxandroidmonthly"
           },
           "price": {
             "$": 6.99,
