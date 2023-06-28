@@ -1,5 +1,6 @@
 {
   "groups": {
+    "accent": "#8D73B0",
     "Script-Ware": {
       "logo": "https://gh.expo.moe/ScriptWare-Icons/blue/vector.svg",
       "items": [
@@ -50,6 +51,7 @@
       ]
     },
     "Fluxus": {
+      "accent": "#8D73B0",
       "logo": "https://fluxus-icons.femboy.cafe/white/vector.svg",
       "items": [
         {
