@@ -1,7 +1,8 @@
 {
+  "accent-bottom": "#ffffff88",
   "groups": {
-    "accent": "#8D73B0",
     "Script-Ware": {
+      "accent": "#68AFF2",
       "logo": "https://gh.expo.moe/ScriptWare-Icons/blue/vector.svg",
       "items": [
         {
