@@ -1,0 +1,33 @@
+{
+    "accent-bottom": "#ffffff88",
+    "groups": {
+      "Hydrogen": {
+        "accent": "#2596be",
+        "logo": "https://media.discordapp.net/attachments/1122730416059715604/1126772653005471744/231_bl.png?width=655&height=655",
+        "items": [
+          {
+            "name": "Hydrogen AdLess",
+            "purchase": "https://rbxproduct.sellix.io/product/64aeaaf0718d5",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/14040672719",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/hydrogen"
+            },
+            "price": {
+              "$": 6.99,
+              "⏣":  2300
+            },
+            "lifetime": true,
+            "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1128686455892496424/iosandroid.png",
+            "features": [
+              "*Most popular",
+              "Hydrogen for MacOS",
+              "Hydrogen for Android",
+              "Monthly License",
+              "!Strings Attached"
+            ],
+            "accent": "#1B3F66"
+          }
+        ]
+      }
+    }
+  }
