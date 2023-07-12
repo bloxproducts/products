@@ -8,7 +8,7 @@
             "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
             "robux": {
               "purchase": "https://www.roblox.com/catalog/12337450360",
-              "verify": "https://bloxproducts.com/checkout/robux/sw"
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
             },
             "price": {
               "$": 1.99,
@@ -36,7 +36,7 @@
             "purchase": "https://rbxproduct.sellix.io/product/64aea5d18bd84",
             "robux": {
               "purchase": "https://www.roblox.com/catalog/14040220460",
-              "verify": "https://bloxproducts.com/checkout/robux/xenburg"
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/xenburg"
             },
             "price": {
               "$": 1.99,
