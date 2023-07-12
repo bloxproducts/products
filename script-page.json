@@ -1,31 +1,61 @@
 {
-  "groups": {
-    "Bread Hub": {
-      "logo": "https://gh.expo.moe/ScriptWare-Icons/blue/vector.svg",
-      "items": [
-        {
-          "name": "Bread",
-          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/12337450360",
-            "verify": "https://bloxproducts.com/checkout/robux/sw"
-          },
-          "price": {
-            "$": 1.99,
-            "⏣": 690
-          },
-          "lifetime": true,
-          "device": "https://breadcity.github.io/ico/icon/vector.svg",
-          "features": [
-            "*Most popular",
-            "Beans",
-            "Lifetime license",
-            "Free Beans",
-            "!Strings Attached"
-          ],
-          "accent": "#1B3F66"
-        }
-      ]
+    "groups": {
+      "Bread Hub": {
+        "logo": "https://gh.expo.moe/ScriptWare-Icons/blue/vector.svg",
+        "items": [
+          {
+            "name": "Bread",
+            "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/12337450360",
+              "verify": "https://bloxproducts.com/checkout/robux/sw"
+            },
+            "price": {
+              "$": 1.99,
+              "⏣": 690
+            },
+            "lifetime": true,
+            "device": "https://breadcity.github.io/ico/icon/vector.svg",
+            "features": [
+              "*Most popular",
+              "Beans",
+              "Lifetime license",
+              "Free Beans",
+              "!Strings Attached"
+            ],
+            "accent": "#1B3F66"
+          }
+        ]
+      },
+      
+      "XenBurg": {
+        "logo": "https://media.discordapp.net/attachments/1125841019250938009/1126065486145273936/47a595a07d295d772b9a7bf7c0a7c5ed_1.png?width=120&height=120",
+        "items": [
+          {
+            "name": "XenBurg",
+            "purchase": "https://rbxproduct.sellix.io/product/64aea5d18bd84",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/14040220460",
+              "verify": "https://bloxproducts.com/checkout/robux/xenburg"
+            },
+            "price": {
+              "$": 1.99,
+              "⏣": 690
+            },
+            "lifetime": true,
+            "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1128652071936217188/alldevices.png",
+            "features": [
+              "*Most popular",
+              "Best BloxBurg Script",
+              "Lifetime license",
+              "Infinite Cash",
+              "!Strings Attached"
+            ],
+            "accent": "#2596be"
+          }
+        ]
+      }
+
     }
   }
-}
+  
