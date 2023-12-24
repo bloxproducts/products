@@ -1,12 +1,78 @@
 {
   "accent-bottom": "#ffffff88",
   "groups": {
-    "Rise": {
+    "Betteralts": {
       "accent": "#68AFF2",
       "logo": "https://gh.expo.moe/ScriptWare-Icons/blue/vector.svg",
       "items": [
         {
-          "name": "Rise",
+          "name": "Betteralts 1 Alt",
+          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+          "robux": {
+            "purchase": "https://www.roblox.com/catalog/14843524247",
+            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+          },
+          "price": {
+            "$": 19.39,
+            "⏣": 6600
+          },
+          "lifetime": true,
+          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+          "features": [
+            "*Most popular",
+            "Ur mother",
+            "Lifetime license",
+            "Free support",
+            "!Strings Attached"
+          ],
+          "accent": "#1B3F66"
+        },
+        {
+          "name": "Betteralts 2 Alts",
+          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+          "robux": {
+            "purchase": "https://www.roblox.com/catalog/14843524247",
+            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+          },
+          "price": {
+            "$": 19.39,
+            "⏣": 6600
+          },
+          "lifetime": true,
+          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+          "features": [
+            "*Most popular",
+            "Ur mother",
+            "Lifetime license",
+            "Free support",
+            "!Strings Attached"
+          ],
+          "accent": "#1B3F66"
+        },
+        {
+          "name": "Betteralts 3 Alts",
+          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+          "robux": {
+            "purchase": "https://www.roblox.com/catalog/14843524247",
+            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+          },
+          "price": {
+            "$": 19.39,
+            "⏣": 6600
+          },
+          "lifetime": true,
+          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+          "features": [
+            "*Most popular",
+            "Ur mother",
+            "Lifetime license",
+            "Free support",
+            "!Strings Attached"
+          ],
+          "accent": "#1B3F66"
+        },
+        {
+          "name": "Betteralts 4 Alts",
           "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
           "robux": {
             "purchase": "https://www.roblox.com/catalog/14843524247",
