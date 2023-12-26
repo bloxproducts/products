@@ -23,7 +23,7 @@
             "!Strings Attached"
           ],
           "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189171190988820490/bass7979_None_aeb22f2c-1494-4f93-bd26-75848304c393.png"
+          "banner": "https://cdn.discordapp.com/attachments/1075795904952549386/1188568342211067964/6g3oB0S.gif?ex=659aff87&is=65888a87&hm=2e04955e6ee36bc7dda677d12edba02b6ace132c10f78fb10e1abfa32c48d11d&"
         },
         {
           "name": "Betteralts 1 Alt",
@@ -43,7 +43,6 @@
             "!Strings Attached"
           ],
           "accent": "#1B3F66"
-          "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189171190988820490/bass7979_None_aeb22f2c-1494-4f93-bd26-75848304c393.png"
         },
         {
           "name": "Betteralts 2 Alts",
@@ -63,7 +62,6 @@
             "!Strings Attached"
           ],
           "accent": "#1B3F66"
-          "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189171190988820490/bass7979_None_aeb22f2c-1494-4f93-bd26-75848304c393.png"
         },
         {
           "name": "Betteralts 3 Alts",
@@ -83,7 +81,6 @@
             "!Strings Attached"
           ],
           "accent": "#1B3F66"
-          "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189171190988820490/bass7979_None_aeb22f2c-1494-4f93-bd26-75848304c393.png"
         },
         {
           "name": "Betteralts 4 Alts",
@@ -103,7 +100,6 @@
             "!Strings Attached"
           ],
           "accent": "#1B3F66"
-          "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189171190988820490/bass7979_None_aeb22f2c-1494-4f93-bd26-75848304c393.png"
         },
         {
           "name": "Betteralts 5 Alts",
@@ -123,11 +119,53 @@
             "!Strings Attached"
           ],
           "accent": "#1B3F66"
-          "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189171190988820490/bass7979_None_aeb22f2c-1494-4f93-bd26-75848304c393.png"
+        },
+        {
+          "name": "Betteralts 6 Alts",
+          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+          "robux": {
+            "purchase": "https://www.roblox.com/catalog/14843524247",
+            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+          },
+          "price": { "$": 19.39, "⏣": 6600 },
+          "lifetime": true,
+          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+          "features": [
+            "*Most popular",
+            "Ur mother",
+            "Lifetime license",
+            "Free support",
+            "!Strings Attached"
+          ],
+          "accent": "#1B3F66"
         }
       ]
     },
-
+    "Rise": {
+      "accent": "#68AFF2",
+      "logo": "https://gh.expo.moe/ScriptWare-Icons/blue/vector.svg",
+      "items": [
+        {
+          "name": "Rise Client",
+          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+          "robux": {
+            "purchase": "https://www.roblox.com/catalog/14843524247",
+            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+          },
+          "price": { "$": 19.39, "⏣": 6600 },
+          "lifetime": true,
+          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+          "features": [
+            "*Most popular",
+            "Ur mother",
+            "Lifetime license",
+            "Free support",
+            "!Strings Attached"
+          ],
+          "accent": "#1B3F66"
+        }
+      ]
+    },
     "Akira": {
       "accent": "#68AFF2",
       "logo": "https://gh.expo.moe/ScriptWare-Icons/blue/vector.svg",
@@ -150,7 +188,6 @@
             "!Strings Attached"
           ],
           "accent": "#1B3F66"
-          "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189171190070267984/bass7979_None_dbb180d3-c493-40d8-8c37-bf33a94bab5d.png"
         }
       ]
     }
