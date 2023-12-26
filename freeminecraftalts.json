@@ -3,10 +3,10 @@
     "groups": {
       "Localts": {
         "accent": "#68AFF2",
-        "logo": "https://gh.expo.moe/ScriptWare-Icons/blue/vector.svg",
+        "logo": "https://media.discordapp.net/attachments/1020470040241389609/1189171190456139836/image3.png",
         "items": [
           {
-            "name": "100 Credits",
+            "name": "100 credits",
             "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
             "robux": {
               "purchase": "https://www.roblox.com/catalog/14843524247",
@@ -23,10 +23,11 @@
               "!Strings Attached"
             ],
             "accent": "#1B3F66",
-            "banner": "https://cdn.discordapp.com/attachments/1075795904952549386/1188568342211067964/6g3oB0S.gif?ex=659aff87&is=65888a87&hm=2e04955e6ee36bc7dda677d12edba02b6ace132c10f78fb10e1abfa32c48d11d&"
+            "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189171190988820490/bass7979_None_aeb22f2c-1494-4f93-bd26-75848304c393.png"
           },
           {
-            "name": "200 Credits",
+            "name": "200 credits",
+            
             "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
             "robux": {
               "purchase": "https://www.roblox.com/catalog/14843524247",
@@ -42,10 +43,12 @@
               "Free support",
               "!Strings Attached"
             ],
-            "accent": "#1B3F66"
+            "accent": "#1B3F66",
+            "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189171190988820490/bass7979_None_aeb22f2c-1494-4f93-bd26-75848304c393.png"
           },
           {
-            "name": "400 Credits",
+            "name": "400 credits",
+            
             "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
             "robux": {
               "purchase": "https://www.roblox.com/catalog/14843524247",
@@ -61,10 +64,12 @@
               "Free support",
               "!Strings Attached"
             ],
-            "accent": "#1B3F66"
+            "accent": "#1B3F66",
+            "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189171190988820490/bass7979_None_aeb22f2c-1494-4f93-bd26-75848304c393.png"
           },
           {
-            "name": "1000 Credits",
+            "name": "1000 credits",
+            
             "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
             "robux": {
               "purchase": "https://www.roblox.com/catalog/14843524247",
@@ -80,10 +85,12 @@
               "Free support",
               "!Strings Attached"
             ],
-            "accent": "#1B3F66"
+            "accent": "#1B3F66",
+            "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189171190988820490/bass7979_None_aeb22f2c-1494-4f93-bd26-75848304c393.png"
           },
           {
-            "name": "2000 Credits",
+            "name": "2000 credits",
+            
             "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
             "robux": {
               "purchase": "https://www.roblox.com/catalog/14843524247",
@@ -99,7 +106,8 @@
               "Free support",
               "!Strings Attached"
             ],
-            "accent": "#1B3F66"
+            "accent": "#1B3F66",
+            "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189171190988820490/bass7979_None_aeb22f2c-1494-4f93-bd26-75848304c393.png"
           }
         ]
       },
@@ -109,6 +117,7 @@
         "items": [
           {
             "name": "Rise Client",
+            
             "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
             "robux": {
               "purchase": "https://www.roblox.com/catalog/14843524247",
@@ -124,13 +133,14 @@
               "Free support",
               "!Strings Attached"
             ],
-            "accent": "#1B3F66"
+            "accent": "#1B3F66",
+            "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189171190988820490/bass7979_None_aeb22f2c-1494-4f93-bd26-75848304c393.png"
           }
         ]
       },
       "Akira": {
         "accent": "#68AFF2",
-        "logo": "https://gh.expo.moe/ScriptWare-Icons/blue/vector.svg",
+        "logo": "https://media.discordapp.net/attachments/1020470040241389609/1189171190728753233/akira_logo.png",
         "items": [
           {
             "name": "Akira Client",
@@ -149,7 +159,8 @@
               "Free support",
               "!Strings Attached"
             ],
-            "accent": "#1B3F66"
+            "accent": "#1B3F66",
+            "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189171190070267984/bass7979_None_dbb180d3-c493-40d8-8c37-bf33a94bab5d.png"
           }
         ]
       }
