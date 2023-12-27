@@ -39,7 +39,7 @@
           "name": "Monthly Standard",
           "purchase": "https://rbxproduct.mysellix.io/product/658c979e58e96",
           "price": { "$": 9.99, "⏣": 3000 },
-          "lifetime": false,
+          "lifetime": true,
           "features": [
             "Monthly access to Breeze gaming enhancements",
             "Regular updates and support",
