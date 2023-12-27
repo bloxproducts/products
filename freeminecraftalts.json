@@ -8,7 +8,7 @@
         {
           "name": "Lifetime Standard",
           "purchase": "https://rbxproduct.mysellix.io/product/658c95e64ea46",
-          "price": { "$": 22.99 },
+          "price": { "$": 22.99, "⏣": 7200 },
           "lifetime": true,
           "features": [
             "Enhanced gaming with cheats and visuals for platforms like Hypixel",
@@ -23,7 +23,7 @@
         {
           "name": "Lifetime PLUS",
           "purchase": "https://rbxproduct.mysellix.io/product/658c967553021",
-          "price": { "$": 32.99 },
+          "price": { "$": 32.99, "⏣": 10000 },
           "lifetime": true,
           "features": [
             "Enhanced version with additional exclusive benefits",
@@ -38,7 +38,7 @@
         {
           "name": "Monthly Standard",
           "purchase": "https://rbxproduct.mysellix.io/product/658c979e58e96",
-          "price": { "$": 9.99 },
+          "price": { "$": 9.99, "⏣": 3000 },
           "lifetime": false,
           "features": [
             "Monthly access to Breeze gaming enhancements",
