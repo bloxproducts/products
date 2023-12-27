@@ -10,6 +10,7 @@
           "purchase": "https://rbxproduct.mysellix.io/product/658c95e64ea46",
           "price": { "$": 22.99, "⏣": 7200 },
           "lifetime": true,
+          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
           "features": [
             "Enhanced cheats",
             "Customizable UI",
@@ -25,6 +26,7 @@
           "purchase": "https://rbxproduct.mysellix.io/product/658c967553021",
           "price": { "$": 32.99, "⏣": 10000 },
           "lifetime": true,
+          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
           "features": [
             "Enhanced Breeze",
             "Early access to new features",
@@ -41,6 +43,7 @@
           "price": { "$": 9.99, "⏣": 3000 },
           "lifetime": false,
           "subscriptionPeriod": "Month",
+          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
           "features": [
             "Enhanced cheats",
             "Customizable UI",
