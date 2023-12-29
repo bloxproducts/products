@@ -1,213 +1,72 @@
 {
-  "accent-bottom": "#ffffff88",
-  "groups": {
-    "Breeze": {
-      "accent": "#68AFF2",
-      "logo": "https://cdn.discordapp.com/attachments/1020470040241389609/1189685361383846009/logo_2.png",
-      "items": [
-        {
-          "name": "Lifetime Standard",
-          "purchase": "https://rbxproduct.mysellix.io/product/658c95e64ea46",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843524247",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+    "accent-bottom": "#ffffff88",
+    "groups": {
+      "Breeze": {
+        "accent": "#68AFF2",
+        "logo": "https://cdn.discordapp.com/attachments/1020470040241389609/1189685361383846009/logo_2.png",
+        "items": [
+          {
+            "name": "Lifetime Standard",
+            "purchase": "https://rbxproduct.mysellix.io/product/658c95e64ea46",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/15800654641",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+            },
+            "price": { "$": 22.99, "⏣": 7200 },
+            "lifetime": true,
+            "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+            "features": [
+              "Enhanced cheats",
+              "Customizable UI",
+              "Advanced cloud config",
+              "Sophisticated HUD system",
+              "Seamless integration"
+            ],
+            "accent": "#1B3F66",
+            "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189685361140584510/bass7979_None_254ef13f-4f91-4642-af02-547368d7fbad.png"
           },
-          "price": { "$": 22.99, "⏣": 7200 },
-          "lifetime": true,
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
-          "features": [
-            "Enhanced cheats",
-            "Customizable UI",
-            "Advanced cloud config",
-            "Sophisticated HUD system",
-            "Seamless integration"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189685361140584510/bass7979_None_254ef13f-4f91-4642-af02-547368d7fbad.png"
-        },
-        {
-          "name": "Lifetime PLUS",
-          "purchase": "https://rbxproduct.mysellix.io/product/658c967553021",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843524247",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+          {
+            "name": "Lifetime PLUS",
+            "purchase": "https://rbxproduct.mysellix.io/product/658c967553021",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/15800657258",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+            },
+            "price": { "$": 32.99, "⏣": 10000 },
+            "lifetime": true,
+            "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+            "features": [
+              "Enhanced Breeze",
+              "Early access to new features",
+              "Multi-Computer Access",
+              "Exclusive modules & capes",
+              "Custom UI themes"
+            ],
+            "accent": "#1B3F66",
+            "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189685361140584510/bass7979_None_254ef13f-4f91-4642-af02-547368d7fbad.png"
           },
-          "price": { "$": 32.99, "⏣": 10000 },
-          "lifetime": true,
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
-          "features": [
-            "Enhanced Breeze",
-            "Early access to new features",
-            "Multi-Computer Access",
-            "Exclusive modules & capes",
-            "Custom UI themes"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189685361140584510/bass7979_None_254ef13f-4f91-4642-af02-547368d7fbad.png"
-        },
-        {
-          "name": "Monthly Standard",
-          "purchase": "https://rbxproduct.mysellix.io/product/658c979e58e96",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843524247",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
-          },
-          "price": { "$": 9.99, "⏣": 3000 },
-          "lifetime": false,
-          "subscriptionPeriod": "Month",
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
-          "features": [
-            "Enhanced cheats",
-            "Customizable UI",
-            "Advanced cloud config",
-            "Sophisticated HUD system",
-            "Seamless integration"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189685361140584510/bass7979_None_254ef13f-4f91-4642-af02-547368d7fbad.png"
-        }
-      ]
-    },
-    "Localts": {
-      "accent": "#68AFF2",
-      "logo": "https://media.discordapp.net/attachments/1020470040241389609/1189171190456139836/image3.png",
-      "items": [
-        {
-          "name": "100 credits",
-          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843524247",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
-          },
-          "price": { "$": 19.39, "⏣": 6600 },
-          "lifetime": false,
-          "subscriptionPeriod": "One-time Purchase",
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
-          "features": [
-            "*Most popular",
-            "Test",
-            "Lifetime license",
-            "Free support",
-            "!Strings Attached"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1189167011293581313/1189304639515005089/bass7979_None_4dbc7f2e-8ce2-48af-a540-fad188532b86.png"
-        },
-        {
-          "name": "200 credits",
-          
-          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843524247",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
-          },
-          "price": { "$": 19.39, "⏣": 6600 },
-          "lifetime": false,
-          "subscriptionPeriod": "One-time Purchase",
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
-          "features": [
-            "*Most popular",
-            "Test",
-            "Lifetime license",
-            "Free support",
-            "!Strings Attached"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1189167011293581313/1189304639515005089/bass7979_None_4dbc7f2e-8ce2-48af-a540-fad188532b86.png"
-        },
-        {
-          "name": "400 credits",
-          
-          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843524247",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
-          },
-          "price": { "$": 19.39, "⏣": 6600 },
-          "lifetime": false,
-          "subscriptionPeriod": "One-time Purchase",
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
-          "features": [
-            "*Most popular",
-            "Test",
-            "Lifetime license",
-            "Free support",
-            "!Strings Attached"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1189167011293581313/1189304639515005089/bass7979_None_4dbc7f2e-8ce2-48af-a540-fad188532b86.png"
-        },
-        {
-          "name": "1000 credits",
-          
-          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843524247",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
-          },
-          "price": { "$": 19.39, "⏣": 6600 },
-          "lifetime": false,
-          "subscriptionPeriod": "One-time Purchase",
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
-          "features": [
-            "*Most popular",
-            "Test",
-            "Lifetime license",
-            "Free support",
-            "!Strings Attached"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1189167011293581313/1189304639515005089/bass7979_None_4dbc7f2e-8ce2-48af-a540-fad188532b86.png"
-        },
-        {
-          "name": "2000 credits",
-          
-          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843524247",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
-          },
-          "price": { "$": 19.39, "⏣": 6600 },
-          "lifetime": false,
-          "subscriptionPeriod": "One-time Purchase",
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
-          "features": [
-            "*Most popular",
-            "Test",
-            "Lifetime license",
-            "Free support",
-            "!Strings Attached"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1189167011293581313/1189304639515005089/bass7979_None_4dbc7f2e-8ce2-48af-a540-fad188532b86.png"
-        }
-      ]
-    },
-    "Akira": {
-      "accent": "#68AFF2",
-      "logo": "https://media.discordapp.net/attachments/1020470040241389609/1189171190728753233/akira_logo.png",
-      "items": [
-        {
-          "name": "Akira Client",
-          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843524247",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
-          },
-          "price": { "$": 19.39, "⏣": 6600 },
-          "lifetime": true,
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
-          "features": [
-            "*Most popular",
-            "Test",
-            "Lifetime license",
-            "Free support",
-            "!Strings Attached"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189171190070267984/bass7979_None_dbb180d3-c493-40d8-8c37-bf33a94bab5d.png"
-        }
-      ]
+          {
+            "name": "Monthly Standard",
+            "purchase": "https://rbxproduct.mysellix.io/product/658c979e58e96",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/15800659512",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+            },
+            "price": { "$": 9.99, "⏣": 3000 },
+            "lifetime": false,
+            "subscriptionPeriod": "Month",
+            "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+            "features": [
+              "Enhanced cheats",
+              "Customizable UI",
+              "Advanced cloud config",
+              "Sophisticated HUD system",
+              "Seamless integration"
+            ],
+            "accent": "#1B3F66",
+            "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189685361140584510/bass7979_None_254ef13f-4f91-4642-af02-547368d7fbad.png"
+          }
+        ]
+      }
     }
   }
-}
