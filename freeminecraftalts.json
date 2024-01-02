@@ -122,10 +122,6 @@
         {
           "name": "100 credits",
           "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843524247",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
-          },
           "price": { "$": 1.9 },
           "lifetime": false,
           "subscriptionPeriod": "One-time Purchase",
@@ -144,10 +140,6 @@
           "name": "200 credits",
           
           "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843524247",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
-          },
           "price": { "$": 3.8 },
           "lifetime": false,
           "subscriptionPeriod": "One-time Purchase",
@@ -166,10 +158,6 @@
           "name": "400 credits",
           
           "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843524247",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
-          },
           "price": { "$": 7.6 },
           "lifetime": false,
           "subscriptionPeriod": "One-time Purchase",
@@ -188,10 +176,6 @@
           "name": "1000 credits",
           
           "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843524247",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
-          },
           "price": { "$": 18.99 },
           "lifetime": false,
           "subscriptionPeriod": "One-time Purchase",
@@ -210,10 +194,6 @@
           "name": "2000 credits",
           
           "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843524247",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
-          },
           "price": { "$": 37.99 },
           "lifetime": false,
           "subscriptionPeriod": "One-time Purchase",
