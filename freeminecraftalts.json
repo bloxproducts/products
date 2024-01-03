@@ -1,236 +1,236 @@
 {
-  "accent-bottom": "#ffffff88",
-  "groups": {
-    "Breeze": {
-      "accent": "#68AFF2",
-      "logo": "https://files.catbox.moe/bp4j0r.png",
-      "items": [
-        {
-          "name": "Lifetime Standard",
-          "purchase": "https://rbxproduct.mysellix.io/product/658c95e64ea46",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/15800654641",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+    "accent-bottom": "#ffffff88",
+    "groups": {
+      "Breeze": {
+        "accent": "#68AFF2",
+        "logo": "https://files.catbox.moe/bp4j0r.png",
+        "items": [
+          {
+            "name": "Lifetime Standard",
+            "purchase": "https://rbxproduct.mysellix.io/product/658c95e64ea46",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/15800654641",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+            },
+            "price": { "$": 22.99, "⏣": 7200 },
+            "lifetime": true,
+            "device": "https://files.catbox.moe/67bnjf.png",
+            "features": [
+              "Enhanced cheats",
+              "Customizable UI",
+              "Advanced cloud config",
+              "Sophisticated HUD system",
+              "Seamless integration"
+            ],
+            "accent": "#1B3F66",
+            "banner": "https://files.catbox.moe/i93lu7.png"
           },
-          "price": { "$": 22.99, "⏣": 7200 },
-          "lifetime": true,
-          "device": "https://files.catbox.moe/67bnjf.png",
-          "features": [
-            "Enhanced cheats",
-            "Customizable UI",
-            "Advanced cloud config",
-            "Sophisticated HUD system",
-            "Seamless integration"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://files.catbox.moe/i93lu7.png"
-        },
-        {
-          "name": "Lifetime PLUS",
-          "purchase": "https://rbxproduct.mysellix.io/product/658c967553021",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/15800657258",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+          {
+            "name": "Lifetime PLUS",
+            "purchase": "https://rbxproduct.mysellix.io/product/658c967553021",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/15800657258",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+            },
+            "price": { "$": 32.99, "⏣": 10000 },
+            "lifetime": true,
+            "device": "https://files.catbox.moe/67bnjf.png",
+            "features": [
+              "Enhanced Breeze",
+              "Early access to new features",
+              "Multi-Computer Access",
+              "Exclusive modules & capes",
+              "Custom UI themes"
+            ],
+            "accent": "#1B3F66",
+            "banner": "https://files.catbox.moe/i93lu7.png"
           },
-          "price": { "$": 32.99, "⏣": 10000 },
-          "lifetime": true,
-          "device": "https://files.catbox.moe/67bnjf.png",
-          "features": [
-            "Enhanced Breeze",
-            "Early access to new features",
-            "Multi-Computer Access",
-            "Exclusive modules & capes",
-            "Custom UI themes"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://files.catbox.moe/i93lu7.png"
-        },
-        {
-          "name": "Monthly Standard",
-          "purchase": "https://rbxproduct.mysellix.io/product/658c979e58e96",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/15800659512",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+          {
+            "name": "Monthly Standard",
+            "purchase": "https://rbxproduct.mysellix.io/product/658c979e58e96",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/15800659512",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+            },
+            "price": { "$": 9.99, "⏣": 3000 },
+            "lifetime": false,
+            "subscriptionPeriod": "Month",
+            "device": "https://files.catbox.moe/67bnjf.png",
+            "features": [
+              "Enhanced cheats",
+              "Customizable UI",
+              "Advanced cloud config",
+              "Sophisticated HUD system",
+              "Seamless integration"
+            ],
+            "accent": "#1B3F66",
+            "banner": "https://files.catbox.moe/i93lu7.png"
+          }
+        ]
+      },
+      "Rise": {
+        "accent": "#68AFF2",
+        "logo": "https://files.catbox.moe/p4uypk.png",
+        "items": [
+          {
+            "name": "Lifetime Client",
+            "purchase": "https://rbxproduct.mysellix.io/product/6594698564e94",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/15849317240",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+            },
+            "price": { "$": 27.99, "⏣": 9000 },
+            "lifetime": true,
+            "device": "https://files.catbox.moe/67bnjf.png",
+            "features": [
+              "*Undetected",
+              "Customizable",
+              "Feature-filled",
+              "Multi-server bypass",
+              "Frequent updates"
+            ],
+            "accent": "#1B3F66",
+            "banner": "https://files.catbox.moe/b486pp.png"
+          }
+        ]
+      },
+      "Akira": {
+        "accent": "#68AFF2",
+        "logo": "https://files.catbox.moe/rqlx4c.webp",
+        "items": [
+          {
+            "name": "Lifetime Client",
+            "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/15847867018",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+            },
+            "price": { "$": 17.99, "⏣": 6000 },
+            "lifetime": true,
+            "device": "https://files.catbox.moe/67bnjf.png",
+            "features": [
+              "*Undetected",
+              "Advanced client",
+              "Dominate servers",
+              "Free support",
+              "Multiple modules"
+            ],
+            "accent": "#1B3F66",
+            "banner": "https://files.catbox.moe/xgtg3e.png"
           },
-          "price": { "$": 9.99, "⏣": 3000 },
-          "lifetime": false,
-          "subscriptionPeriod": "Month",
-          "device": "https://files.catbox.moe/67bnjf.png",
-          "features": [
-            "Enhanced cheats",
-            "Customizable UI",
-            "Advanced cloud config",
-            "Sophisticated HUD system",
-            "Seamless integration"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://files.catbox.moe/i93lu7.png"
-        }
-      ]
-    },
-    "Rise": {
-      "accent": "#68AFF2",
-      "logo": "https://files.catbox.moe/p4uypk.png",
-      "items": [
-        {
-          "name": "Lifetime Client",
-          "purchase": "https://rbxproduct.mysellix.io/product/6594698564e94",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/15849317240",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+          {
+            "name": "Monthly Client",
+            "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/15847880120",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+            },
+            "price": { "$": 2.4, "⏣": 800 },
+            "lifetime": false,
+            "subscriptionPeriod": "Month",
+            "device": "https://files.catbox.moe/67bnjf.png",
+            "features": [
+              "*Undetected",
+              "Advanced client",
+              "Dominate servers",
+              "Free support",
+              "Multiple modules"
+            ],
+            "accent": "#1B3F66",
+            "banner": "https://files.catbox.moe/b486pp.png"
+          }
+        ]
+      },
+      "Localts": {
+        "accent": "#68AFF2",
+        "logo": "https://cdn.discordapp.com/avatars/1186365955216003154/5f4f3c7c5f3e6886a901fdb203c9e203.png",
+        "items": [
+          {
+            "name": "100 credits",
+            "purchase": "https://rbxproduct.mysellix.io/product/65959af212945",
+            "price": { "$": 1.9 },
+            "lifetime": false,
+            "subscriptionPeriod": "One-time Purchase",
+            "device": "https://files.catbox.moe/67bnjf.png",
+            "features": [
+              "Easy to use",
+              "Client-compatible",
+              "Cheapest on the market",
+              "Free support",
+              "Bypass bans"
+            ],
+            "accent": "#1B3F66",
+            "banner": "https://media.discordapp.net/attachments/1189167011293581313/1189304639515005089/bass7979_None_4dbc7f2e-8ce2-48af-a540-fad188532b86.png"
           },
-          "price": { "$": 27.99, "⏣": 9000 },
-          "lifetime": true,
-          "device": "https://files.catbox.moe/67bnjf.png",
-          "features": [
-            "*Undetected",
-            "Customizable",
-            "Feature-filled",
-            "Multi-server bypass",
-            "Frequent updates"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://files.catbox.moe/b486pp.png"
-        }
-      ]
-    },
-    "Akira": {
-      "accent": "#68AFF2",
-      "logo": "https://files.catbox.moe/rqlx4c.webp",
-      "items": [
-        {
-          "name": "Lifetime Client",
-          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/15847867018",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+          {
+            "name": "200 credits",
+            "purchase": "https://rbxproduct.mysellix.io/product/65959c0878684",
+            "price": { "$": 3.8 },
+            "lifetime": false,
+            "subscriptionPeriod": "One-time Purchase",
+            "device": "https://files.catbox.moe/67bnjf.png",
+            "features": [
+              "Easy to use",
+              "Client-compatible",
+              "Cheapest on the market",
+              "Free support",
+              "Bypass bans"
+            ],
+            "accent": "#1B3F66",
+            "banner": "https://media.discordapp.net/attachments/1189167011293581313/1189304639515005089/bass7979_None_4dbc7f2e-8ce2-48af-a540-fad188532b86.png"
           },
-          "price": { "$": 17.99, "⏣": 6000 },
-          "lifetime": true,
-          "device": "https://files.catbox.moe/67bnjf.png",
-          "features": [
-            "*Undetected",
-            "Advanced client",
-            "Dominate servers",
-            "Free support",
-            "Multiple modules"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://files.catbox.moe/xgtg3e.png"
-        },
-        {
-          "name": "Monthly Client",
-          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/15847880120",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+          {
+            "name": "400 credits",
+            "purchase": "https://rbxproduct.mysellix.io/product/65959c0bd7e0e",
+            "price": { "$": 7.6 },
+            "lifetime": false,
+            "subscriptionPeriod": "One-time Purchase",
+            "device": "https://files.catbox.moe/67bnjf.png",
+            "features": [
+              "Easy to use",
+              "Client-compatible",
+              "Cheapest on the market",
+              "Free support",
+              "Bypass bans"
+            ],
+            "accent": "#1B3F66",
+            "banner": "https://media.discordapp.net/attachments/1189167011293581313/1189304639515005089/bass7979_None_4dbc7f2e-8ce2-48af-a540-fad188532b86.png"
           },
-          "price": { "$": 2.4, "⏣": 800 },
-          "lifetime": false,
-          "subscriptionPeriod": "Month",
-          "device": "https://files.catbox.moe/67bnjf.png",
-          "features": [
-            "*Undetected",
-            "Advanced client",
-            "Dominate servers",
-            "Free support",
-            "Multiple modules"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://files.catbox.moe/b486pp.png"
-        }
-      ]
-    },
-    "Localts": {
-      "accent": "#68AFF2",
-      "logo": "https://cdn.discordapp.com/avatars/1186365955216003154/5f4f3c7c5f3e6886a901fdb203c9e203.png",
-      "items": [
-        {
-          "name": "100 credits",
-          "purchase": "https://rbxproduct.mysellix.io/product/65959af212945",
-          "price": { "$": 1.9 },
-          "lifetime": false,
-          "subscriptionPeriod": "One-time Purchase",
-          "device": "https://files.catbox.moe/67bnjf.png",
-          "features": [
-            "Easy to use",
-            "Client-compatible",
-            "Cheapest on the market",
-            "Free support",
-            "Bypass bans"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png"
-        },
-        {
-          "name": "200 credits",
-          "purchase": "https://rbxproduct.mysellix.io/product/65959c0878684",
-          "price": { "$": 3.8 },
-          "lifetime": false,
-          "subscriptionPeriod": "One-time Purchase",
-          "device": "https://files.catbox.moe/67bnjf.png",
-          "features": [
-            "Easy to use",
-            "Client-compatible",
-            "Cheapest on the market",
-            "Free support",
-            "Bypass bans"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png"
-        },
-        {
-          "name": "400 credits",
-          "purchase": "https://rbxproduct.mysellix.io/product/65959c0bd7e0e",
-          "price": { "$": 7.6 },
-          "lifetime": false,
-          "subscriptionPeriod": "One-time Purchase",
-          "device": "https://files.catbox.moe/67bnjf.png",
-          "features": [
-            "Easy to use",
-            "Client-compatible",
-            "Cheapest on the market",
-            "Free support",
-            "Bypass bans"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png"
-        },
-        {
-          "name": "1000 credits",
-          "purchase": "https://rbxproduct.mysellix.io/product/65959c0e99d2a",
-          "price": { "$": 18.99 },
-          "lifetime": false,
-          "subscriptionPeriod": "One-time Purchase",
-          "device": "https://files.catbox.moe/67bnjf.png",
-          "features": [
-            "Easy to use",
-            "Client-compatible",
-            "Cheapest on the market",
-            "Free support",
-            "Bypass bans"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png"
-        },
-        {
-          "name": "2000 credits",
-          "purchase": "https://rbxproduct.mysellix.io/product/65959c135a29b",
-          "price": { "$": 37.99 },
-          "lifetime": false,
-          "subscriptionPeriod": "One-time Purchase",
-          "device": "https://files.catbox.moe/67bnjf.png",
-          "features": [
-            "*Most popular",
-            "Client-compatible",
-            "Cheapest on the market",
-            "Free support",
-            "Bypass bans"
-          ],
-          "accent": "#1B3F66",
-          "banner": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png"
-        }
-      ]
+          {
+            "name": "1000 credits",
+            "purchase": "https://rbxproduct.mysellix.io/product/65959c0e99d2a",
+            "price": { "$": 18.99 },
+            "lifetime": false,
+            "subscriptionPeriod": "One-time Purchase",
+            "device": "https://files.catbox.moe/67bnjf.png",
+            "features": [
+              "Easy to use",
+              "Client-compatible",
+              "Cheapest on the market",
+              "Free support",
+              "Bypass bans"
+            ],
+            "accent": "#1B3F66",
+            "banner": "https://media.discordapp.net/attachments/1189167011293581313/1189304639515005089/bass7979_None_4dbc7f2e-8ce2-48af-a540-fad188532b86.png"
+          },
+          {
+            "name": "2000 credits",
+            "purchase": "https://rbxproduct.mysellix.io/product/65959c135a29b",
+            "price": { "$": 37.99 },
+            "lifetime": false,
+            "subscriptionPeriod": "One-time Purchase",
+            "device": "https://files.catbox.moe/67bnjf.png",
+            "features": [
+              "*Most popular",
+              "Client-compatible",
+              "Cheapest on the market",
+              "Free support",
+              "Bypass bans"
+            ],
+            "accent": "#1B3F66",
+            "banner": "https://media.discordapp.net/attachments/1189167011293581313/1189304639515005089/bass7979_None_4dbc7f2e-8ce2-48af-a540-fad188532b86.png"
+          }
+        ]
+      }
     }
   }
-}
