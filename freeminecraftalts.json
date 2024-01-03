@@ -147,7 +147,7 @@
       "items": [
         {
           "name": "100 credits",
-          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+          "purchase": "https://rbxproduct.mysellix.io/product/65959af212945",
           "price": { "$": 1.9 },
           "lifetime": false,
           "subscriptionPeriod": "One-time Purchase",
@@ -164,7 +164,7 @@
         },
         {
           "name": "200 credits",
-          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+          "purchase": "https://rbxproduct.mysellix.io/product/65959c0878684",
           "price": { "$": 3.8 },
           "lifetime": false,
           "subscriptionPeriod": "One-time Purchase",
@@ -181,7 +181,7 @@
         },
         {
           "name": "400 credits",
-          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+          "purchase": "https://rbxproduct.mysellix.io/product/65959c0bd7e0e",
           "price": { "$": 7.6 },
           "lifetime": false,
           "subscriptionPeriod": "One-time Purchase",
@@ -198,7 +198,7 @@
         },
         {
           "name": "1000 credits",
-          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+          "purchase": "https://rbxproduct.mysellix.io/product/65959c0e99d2a",
           "price": { "$": 18.99 },
           "lifetime": false,
           "subscriptionPeriod": "One-time Purchase",
@@ -215,7 +215,7 @@
         },
         {
           "name": "2000 credits",
-          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+          "purchase": "https://rbxproduct.mysellix.io/product/65959c135a29b",
           "price": { "$": 37.99 },
           "lifetime": false,
           "subscriptionPeriod": "One-time Purchase",
