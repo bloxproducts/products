@@ -3,7 +3,7 @@
   "groups": {
     "Breeze": {
       "accent": "#68AFF2",
-      "logo": "https://cdn.discordapp.com/attachments/1020470040241389609/1189685361383846009/logo_2.png",
+      "logo": "https://files.catbox.moe/bp4j0r.png",
       "items": [
         {
           "name": "Lifetime Standard",
@@ -14,7 +14,7 @@
           },
           "price": { "$": 22.99, "⏣": 7200 },
           "lifetime": true,
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+          "device": "https://files.catbox.moe/67bnjf.png",
           "features": [
             "Enhanced cheats",
             "Customizable UI",
@@ -23,7 +23,7 @@
             "Seamless integration"
           ],
           "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189685361140584510/bass7979_None_254ef13f-4f91-4642-af02-547368d7fbad.png"
+          "banner": "https://files.catbox.moe/i93lu7.png"
         },
         {
           "name": "Lifetime PLUS",
@@ -34,7 +34,7 @@
           },
           "price": { "$": 32.99, "⏣": 10000 },
           "lifetime": true,
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+          "device": "https://files.catbox.moe/67bnjf.png",
           "features": [
             "Enhanced Breeze",
             "Early access to new features",
@@ -43,7 +43,7 @@
             "Custom UI themes"
           ],
           "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189685361140584510/bass7979_None_254ef13f-4f91-4642-af02-547368d7fbad.png"
+          "banner": "https://files.catbox.moe/i93lu7.png"
         },
         {
           "name": "Monthly Standard",
@@ -55,7 +55,7 @@
           "price": { "$": 9.99, "⏣": 3000 },
           "lifetime": false,
           "subscriptionPeriod": "Month",
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+          "device": "https://files.catbox.moe/67bnjf.png",
           "features": [
             "Enhanced cheats",
             "Customizable UI",
@@ -64,7 +64,7 @@
             "Seamless integration"
           ],
           "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189685361140584510/bass7979_None_254ef13f-4f91-4642-af02-547368d7fbad.png"
+          "banner": "https://files.catbox.moe/i93lu7.png"
         }
       ]
     },
@@ -81,7 +81,7 @@
           },
           "price": { "$": 27.99, "⏣": 9000 },
           "lifetime": true,
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+          "device": "https://files.catbox.moe/67bnjf.png",
           "features": [
             "*Undetected",
             "Customizable",
@@ -90,7 +90,7 @@
             "Frequent updates"
           ],
           "accent": "#1B3F66",
-          "banner": "https://cdn.discordapp.com/attachments/1020470040241389609/1191813320005664788/bass7979_None_a5de8669-8f8d-458f-9db7-37aa2201093d.png"
+          "banner": "https://files.catbox.moe/b486pp.png"
         }
       ]
     },
@@ -107,7 +107,7 @@
           },
           "price": { "$": 17.99, "⏣": 6000 },
           "lifetime": true,
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+          "device": "https://files.catbox.moe/67bnjf.png",
           "features": [
             "*Undetected",
             "Advanced client",
@@ -116,7 +116,7 @@
             "Multiple modules"
           ],
           "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1020470040241389609/1191809085125955604/bass7979_None_ff78d0b0-aec3-48eb-80c7-b57afc931a22.png"
+          "banner": "https://files.catbox.moe/b486pp.png"
         },
         {
           "name": "Monthly Client",
@@ -128,7 +128,7 @@
           "price": { "$": 2.4, "⏣": 800 },
           "lifetime": false,
           "subscriptionPeriod": "Month",
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+          "device": "https://files.catbox.moe/67bnjf.png",
           "features": [
             "*Undetected",
             "Advanced client",
@@ -137,13 +137,13 @@
             "Multiple modules"
           ],
           "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1020470040241389609/1191809085125955604/bass7979_None_ff78d0b0-aec3-48eb-80c7-b57afc931a22.png"
+          "banner": "https://files.catbox.moe/b486pp.png"
         }
       ]
     },
     "Localts": {
       "accent": "#68AFF2",
-      "logo": "https://media.discordapp.net/attachments/1020470040241389609/1189171190456139836/image3.png",
+      "logo": "https://files.catbox.moe/s5hl39.png",
       "items": [
         {
           "name": "100 credits",
@@ -151,7 +151,7 @@
           "price": { "$": 1.9 },
           "lifetime": false,
           "subscriptionPeriod": "One-time Purchase",
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+          "device": "https://files.catbox.moe/67bnjf.png",
           "features": [
             "Easy to use",
             "Client-compatible",
@@ -160,7 +160,7 @@
             "Bypass bans"
           ],
           "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1189167011293581313/1189304639515005089/bass7979_None_4dbc7f2e-8ce2-48af-a540-fad188532b86.png"
+          "banner": "https://files.catbox.moe/uwwomn.png"
         },
         {
           "name": "200 credits",
@@ -168,7 +168,7 @@
           "price": { "$": 3.8 },
           "lifetime": false,
           "subscriptionPeriod": "One-time Purchase",
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+          "device": "https://files.catbox.moe/67bnjf.png",
           "features": [
             "Easy to use",
             "Client-compatible",
@@ -177,7 +177,7 @@
             "Bypass bans"
           ],
           "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1189167011293581313/1189304639515005089/bass7979_None_4dbc7f2e-8ce2-48af-a540-fad188532b86.png"
+          "banner": "https://files.catbox.moe/uwwomn.png"
         },
         {
           "name": "400 credits",
@@ -185,7 +185,7 @@
           "price": { "$": 7.6 },
           "lifetime": false,
           "subscriptionPeriod": "One-time Purchase",
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+          "device": "https://files.catbox.moe/67bnjf.png",
           "features": [
             "Easy to use",
             "Client-compatible",
@@ -194,16 +194,15 @@
             "Bypass bans"
           ],
           "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1189167011293581313/1189304639515005089/bass7979_None_4dbc7f2e-8ce2-48af-a540-fad188532b86.png"
+          "banner": "https://files.catbox.moe/uwwomn.png"
         },
         {
           "name": "1000 credits",
-          
           "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
           "price": { "$": 18.99 },
           "lifetime": false,
           "subscriptionPeriod": "One-time Purchase",
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+          "device": "https://files.catbox.moe/67bnjf.png",
           "features": [
             "Easy to use",
             "Client-compatible",
@@ -212,7 +211,7 @@
             "Bypass bans"
           ],
           "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1189167011293581313/1189304639515005089/bass7979_None_4dbc7f2e-8ce2-48af-a540-fad188532b86.png"
+          "banner": "https://files.catbox.moe/uwwomn.png"
         },
         {
           "name": "2000 credits",
@@ -220,7 +219,7 @@
           "price": { "$": 37.99 },
           "lifetime": false,
           "subscriptionPeriod": "One-time Purchase",
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+          "device": "https://files.catbox.moe/67bnjf.png",
           "features": [
             "*Most popular",
             "Client-compatible",
@@ -229,7 +228,7 @@
             "Bypass bans"
           ],
           "accent": "#1B3F66",
-          "banner": "https://media.discordapp.net/attachments/1189167011293581313/1189304639515005089/bass7979_None_4dbc7f2e-8ce2-48af-a540-fad188532b86.png"
+          "banner": "https://files.catbox.moe/uwwomn.png"
         }
       ]
     }
