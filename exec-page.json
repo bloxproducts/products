@@ -1,128 +1,177 @@
 {
-  "accent-bottom": "#ffffff88",
-  "groups": {
-    "Script-Ware": {
-      "accent": "#68AFF2",
-      "logo": "https://gh.expo.moe/ScriptWare-Icons/blue/vector.svg",
-      "items": [
-        {
-          "name": "Script-Ware Windows",
-          "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843524247",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+    "accent-bottom": "#ffffff88",
+    "groups": {
+      "Script-Ware": {
+        "accent": "#68AFF2",
+        "logo": "https://cdn.discordapp.com/attachments/1020470040241389609/1206679482270883901/ro-exec-high-resolution-logo-transparent.png?ex=65dce2d7&is=65ca6dd7&hm=711557f27d1f03a17d0edf9615b14f19843131d625f968df83071fc180f53739&",
+        "items": [
+          {
+            "name": "RO-EXEC 7 Days",
+            "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/14843524247",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+            },
+            "price": {
+              "$": 7.99,
+              "⏣": 2700
+            },
+            "lifetime": false,
+            "subscriptionPeriod": "7 Days",
+            "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+            "features": [
+              "*Cheapest",
+              "RO-EXEC for Windows",
+              "Weekly license",
+              "Free support",
+              "!Strings Attached"
+            ],
+            "accent": "#1B3F66"
           },
-          "price": {
-            "$": 19.39,
-            "⏣": 6600
+          {
+            "name": "RO-EXEC 30 Days",
+            "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/14843524247",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+            },
+            "price": {
+              "$": 24.99,
+              "⏣": 8300
+            },
+            "lifetime": false,
+            "subscriptionPeriod": "30 Days",
+            "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+            "features": [
+              "*Most popular",
+              "RO-EXEC for Windows",
+              "Monthly license",
+              "Free support",
+              "!Strings Attached"
+            ],
+            "accent": "#1B3F66"
           },
-          "lifetime": true,
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
-          "features": [
-            "*Most popular",
-            "Script-Ware for Windows",
-            "Lifetime license",
-            "Free support",
-            "!Strings Attached"
-          ],
-          "accent": "#1B3F66"
-        },
-        {
-          "name": "Script-Ware M",
-          "purchase": "https://rbxproduct.sellix.io/product/63b6e0e556410",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843523067",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/swm"
+          {
+            "name": "RO-EXEC 90 Days",
+            "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/14843524247",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+            },
+            "price": {
+              "$": 49.99,
+              "⏣": 16000
+            },
+            "lifetime": false,
+            "subscriptionPeriod": "90 Days",
+            "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+            "features": [
+              "Undetected",
+              "RO-EXEC for Windows",
+              "Quarterly license",
+              "Free support",
+              "!Strings Attached"
+            ],
+            "accent": "#1B3F66"
           },
-          "price": {
-            "$": 19.99,
-            "⏣": 6600
+          {
+            "name": "RO-EXEC 365 Days",
+            "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/14843524247",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+            },
+            "price": {
+              "$": 99.99,
+              "⏣": 30000
+            },
+            "lifetime": false,
+            "subscriptionPeriod": "365 Days",
+            "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+            "features": [
+              "*Most value",
+              "RO-EXEC for Windows",
+              "Yearly license",
+              "Free support",
+              "!Strings Attached"
+            ],
+            "accent": "#1B3F66"
           },
-          "lifetime": true,
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935824716136549/apple.png",
-          "features": [
-            "Script-Ware for MacOS",
-            "Script-Ware for iOS",
-            "Lifetime license",
-            "Free support",
-            "!Strings Attached"
-          ],
-          "accent": "#1B3F66"
-        }
-      ]
-    },
-    "Fluxus": {
-      "accent": "#8D73B0",
-      "logo": "https://fluxus-icons.femboy.cafe/white/vector.svg",
-      "items": [
-        {
-          "name": "Windows Lifetime",
-          "purchase": "https://rbxproduct.sellix.io/product/63b6f1ead0e12",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843498928",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/fluxwin"
+        ]
+      },
+      "Fluxus": {
+        "accent": "#8D73B0",
+        "logo": "https://fluxus-icons.femboy.cafe/white/vector.svg",
+        "items": [
+          {
+            "name": "Windows Lifetime",
+            "purchase": "https://rbxproduct.sellix.io/product/63b6f1ead0e12",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/14843498928",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/fluxwin"
+            },
+            "price": {
+              "$": 16.99,
+              "⏣": 4500
+            },
+            "lifetime": true,
+            "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
+            "features": [
+              "Most Popular",
+              "Fluxus Premium for Windows",
+              "Lifetime license",
+              "Free support",
+              "!Strings Attached"
+            ],
+            "accent": "#524366;"
           },
-          "price": {
-            "$": 16.99,
-            "⏣": 4500
+          {
+            "name": "Android Lifetime",
+            "purchase": "https://rbxproduct.sellix.io/product/63b6f2b008c8a",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/14843504902",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/fluxandroidlifetime"
+            },
+            "price": {
+              "$": 31.99,
+              "⏣": 10000
+            },
+            "lifetime": true,
+            "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825039110246/android.png",
+            "features": [
+              "Fluxus Premium for Android",
+              "Stable engine",
+              "One-Time Payment",
+              "Free support",
+              "!Strings Attached"
+            ],
+            "accent": "#524366;"
           },
-          "lifetime": true,
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825345282181/windows.png",
-          "features": [
-            "Most Popular",
-            "Fluxus Premium for Windows",
-            "Lifetime license",
-            "Free support",
-            "!Strings Attached"
-          ],
-          "accent": "#524366;"
-        },
-        {
-          "name": "Android Lifetime",
-          "purchase": "https://rbxproduct.sellix.io/product/63b6f2b008c8a",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843504902",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/fluxandroidlifetime"
-          },
-          "price": {
-            "$": 31.99,
-            "⏣": 10000
-          },
-          "lifetime": true,
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825039110246/android.png",
-          "features": [
-            "Fluxus Premium for Android",
-            "Stable engine",
-            "One-Time Payment",
-            "Free support",
-            "!Strings Attached"
-          ],
-          "accent": "#524366;"
-        },
-        {
-          "name": "Android Monthly",
-          "purchase": "https://rbxproduct.sellix.io/product/6499e341e2272",
-          "robux": {
-            "purchase": "https://www.roblox.com/catalog/14843506933",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/fluxandroidmonthly"
-          },
-          "price": {
-            "$": 6.99,
-            "⏣": 2300
-          },
-          "lifetime": false,
-          "subscriptionPeriod": "Month",
-          "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825039110246/android.png",
-          "features": [
-            "Fluxus Premium for Android",
-            "Stable engine",
-            "Monthly license",
-            "Free support",
-            "!Strings Attached"
-          ],
-          "accent": "#524366;"
-        }
-      ]
+          {
+            "name": "Android Monthly",
+            "purchase": "https://rbxproduct.sellix.io/product/6499e341e2272",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/14843506933",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/fluxandroidmonthly"
+            },
+            "price": {
+              "$": 6.99,
+              "⏣": 2300
+            },
+            "lifetime": false,
+            "subscriptionPeriod": "Month",
+            "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1122935825039110246/android.png",
+            "features": [
+              "Fluxus Premium for Android",
+              "Stable engine",
+              "Monthly license",
+              "Free support",
+              "!Strings Attached"
+            ],
+            "accent": "#524366;"
+          }
+        ]
+      }
     }
   }
-}
+  
