@@ -1,0 +1,33 @@
+{
+    "groups": {
+      "Delta": {
+        "logo": "https://media.discordapp.net/attachments/1125841019250938009/1126065486145273936/47a595a07d295d772b9a7bf7c0a7c5ed_1.png?width=120&height=120",
+        "items": [
+          {
+            "name": "Delta",
+            "purchase": "https://rbxproduct.sellix.io/product/64aea5d18bd84",
+            "robux": {
+              "purchase": "https://www.roblox.com/catalog/14040220460",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/delta"
+            },
+            "price": {
+              "$": 327.68,
+              "⏣": 32768
+            },
+            "lifetime": true,
+            "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1128652071936217188/alldevices.png",
+            "features": [
+              "*Most popular",
+              "Hi :3",
+              "Lifetime license",
+              "Infinite Cash",
+              "!Strings Attached"
+            ],
+            "accent": "#2596be"
+          }
+        ]
+      }
+
+    }
+  }
+  
