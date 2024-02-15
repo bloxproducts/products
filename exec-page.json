@@ -34,7 +34,7 @@
             "purchase": "https://rbxproduct.mysellix.io/product/65ca7829e6019",
             "robux": {
               "purchase": "https://www.roblox.com/catalog/16375320900",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/roexec30"
             },
             "price": {
               "$": 24.99,
@@ -57,8 +57,8 @@
             "name": "RO-EXEC 90 Days",
             "purchase": "https://rbxproduct.mysellix.io/product/65ca782e05da5",
             "robux": {
-              "purchase": "https://www.roblox.com/catalog/16346115791",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+              "purchase": "https://www.roblox.com/catalog/16376415722",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/roexec90"
             },
             "price": {
               "$": 49.99,
@@ -81,8 +81,8 @@
             "name": "RO-EXEC 365 Days",
             "purchase": "https://rbxproduct.mysellix.io/product/65ca7831c1f37",
             "robux": {
-              "purchase": "https://www.roblox.com/catalog/16346117637",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+              "purchase": "https://www.roblox.com/catalog/16376417669",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/roexec365"
             },
             "price": {
               "$": 99.99,
