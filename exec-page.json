@@ -9,8 +9,8 @@
             "name": "RO-EXEC 7 Days",
             "purchase": "https://rbxproduct.mysellix.io/product/65ca781b4019c",
             "robux": {
-              "purchase": "https://www.roblox.com/catalog/16346111670",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+              "purchase": "https://www.roblox.com/catalog/16375316815",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/roexec7"
             },
             "price": {
               "$": 7.99,
@@ -33,7 +33,7 @@
             "name": "RO-EXEC 30 Days",
             "purchase": "https://rbxproduct.mysellix.io/product/65ca7829e6019",
             "robux": {
-              "purchase": "https://www.roblox.com/catalog/16346113627",
+              "purchase": "https://www.roblox.com/catalog/16375320900",
               "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
             },
             "price": {
