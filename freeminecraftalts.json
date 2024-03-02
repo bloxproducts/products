@@ -3,7 +3,7 @@
     "groups": {
       "Breeze": {
         "accent": "#68AFF2",
-        "logo": "https://media.discordapp.net/attachments/1020470040241389609/1189685361383846009/logo_2.png",
+        "logo": "https://i.imgur.com/CwIgzVE.png",
         "items": [
           {
             "name": "Lifetime Standard",
@@ -23,7 +23,7 @@
               "Seamless integration"
             ],
             "accent": "#1B3F66",
-            "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189685361140584510/bass7979_None_254ef13f-4f91-4642-af02-547368d7fbad.png"
+            "banner": "https://i.imgur.com/C3b9Q8p.png"
           },
           {
             "name": "Lifetime PLUS",
@@ -43,7 +43,7 @@
               "Custom UI themes"
             ],
             "accent": "#1B3F66",
-            "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189685361140584510/bass7979_None_254ef13f-4f91-4642-af02-547368d7fbad.png"
+            "banner": "https://i.imgur.com/C3b9Q8p.png"
           },
           {
             "name": "Monthly Standard",
@@ -64,13 +64,13 @@
               "Seamless integration"
             ],
             "accent": "#1B3F66",
-            "banner": "https://media.discordapp.net/attachments/1020470040241389609/1189685361140584510/bass7979_None_254ef13f-4f91-4642-af02-547368d7fbad.png"
+            "banner": "https://i.imgur.com/C3b9Q8p.png"
           }
         ]
       },
       "Rise": {
         "accent": "#68AFF2",
-        "logo": "https://cdn.discordapp.com/attachments/1020470040241389609/1191813319661735956/rise.png",
+        "logo": "https://i.imgur.com/PbHUPHT.png",
         "items": [
           {
             "name": "Lifetime Client",
@@ -90,7 +90,7 @@
               "Frequent updates"
             ],
             "accent": "#1B3F66",
-            "banner": "https://cdn.discordapp.com/attachments/1020470040241389609/1191813320005664788/bass7979_None_a5de8669-8f8d-458f-9db7-37aa2201093d.png"
+            "banner": "https://i.imgur.com/QhBcfUx.png"
           }
         ]
       },
