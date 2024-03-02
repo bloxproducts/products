@@ -3,7 +3,7 @@
     "groups": {
       "RO-EXEC": {
         "accent": "#68AFF2",
-        "logo": "https://cdn.discordapp.com/attachments/1020470040241389609/1206684597795029054/liveicon.png?ex=65dce79b&is=65ca729b&hm=910d4b42b2daa16d6f6c01175f60c9f8ca0369dd8cb08d86b947e004cb351c95&",
+        "logo": "https://i.imgur.com/O5jfEFH.png",
         "items": [
           {
             "name": "RO-EXEC 7 Days",
@@ -27,7 +27,7 @@
               "!Strings Attached"
             ],
             "accent": "#1B3F66",
-            "banner": "https://cdn.discordapp.com/attachments/1020470040241389609/1206688246185332778/roexecbanner.png?ex=65dceb01&is=65ca7601&hm=581592a84a3d98406de2f72d6db36266751c4f4eb113b929f5517033a9194534&"
+            "banner": "https://i.imgur.com/48cpYRe.png"
           },
           {
             "name": "RO-EXEC 30 Days",
@@ -51,7 +51,7 @@
               "!Strings Attached"
             ],
             "accent": "#1B3F66",
-            "banner": "https://cdn.discordapp.com/attachments/1020470040241389609/1206688246185332778/roexecbanner.png?ex=65dceb01&is=65ca7601&hm=581592a84a3d98406de2f72d6db36266751c4f4eb113b929f5517033a9194534&"
+            "banner": "https://i.imgur.com/48cpYRe.png"
           },
           {
             "name": "RO-EXEC 90 Days",
@@ -75,7 +75,7 @@
               "!Strings Attached"
             ],
             "accent": "#1B3F66",
-            "banner": "https://cdn.discordapp.com/attachments/1020470040241389609/1206688246185332778/roexecbanner.png?ex=65dceb01&is=65ca7601&hm=581592a84a3d98406de2f72d6db36266751c4f4eb113b929f5517033a9194534&"
+            "banner": "https://i.imgur.com/48cpYRe.png"
           },
           {
             "name": "RO-EXEC 365 Days",
@@ -99,7 +99,7 @@
               "!Strings Attached"
             ],
             "accent": "#1B3F66",
-            "banner": "https://cdn.discordapp.com/attachments/1020470040241389609/1206688246185332778/roexecbanner.png?ex=65dceb01&is=65ca7601&hm=581592a84a3d98406de2f72d6db36266751c4f4eb113b929f5517033a9194534&"
+            "banner": "https://i.imgur.com/48cpYRe.png"
           }
         ]
       }
