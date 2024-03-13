@@ -14,7 +14,7 @@
             },
             "price": {
               "$": 7.99,
-              "⏣": 2700
+              "R": 2700
             },
             "lifetime": false,
             "subscriptionPeriod": "7 Days",
@@ -38,7 +38,7 @@
             },
             "price": {
               "$": 24.99,
-              "⏣": 8300
+              "R": 8300
             },
             "lifetime": false,
             "subscriptionPeriod": "30 Days",
@@ -62,7 +62,7 @@
             },
             "price": {
               "$": 49.99,
-              "⏣": 16000
+              "R": 16000
             },
             "lifetime": false,
             "subscriptionPeriod": "90 Days",
@@ -86,7 +86,7 @@
             },
             "price": {
               "$": 99.99,
-              "⏣": 30000
+              "R": 30000
             },
             "lifetime": false,
             "subscriptionPeriod": "365 Days",
