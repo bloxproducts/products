@@ -9,12 +9,12 @@
             "name": "RO-EXEC 7 Days",
             "purchase": "https://rbxproduct.mysellix.io/product/65ca781b4019c",
             "robux": {
-              "purchase": "https://bloxproducts.com/soon",
+              "purchase": "https://www.roblox.com/game-pass/261210445",
               "verify": "https://bloxproducts.com/api/newcheckout/robux/roexec7"
             },
             "price": {
               "$": 7.99,
-              "R": 2700
+              "⏣": 2700
             },
             "lifetime": false,
             "subscriptionPeriod": "7 Days",
@@ -33,12 +33,12 @@
             "name": "RO-EXEC 30 Days",
             "purchase": "https://rbxproduct.mysellix.io/product/65ca7829e6019",
             "robux": {
-              "purchase": "https://bloxproducts.com/soon",
+              "purchase": "https://www.roblox.com/game-pass/261211085",
               "verify": "https://bloxproducts.com/api/newcheckout/robux/roexec30"
             },
             "price": {
               "$": 24.99,
-              "R": 8300
+              "⏣": 8300
             },
             "lifetime": false,
             "subscriptionPeriod": "30 Days",
@@ -57,12 +57,12 @@
             "name": "RO-EXEC 90 Days",
             "purchase": "https://rbxproduct.mysellix.io/product/65ca782e05da5",
             "robux": {
-              "purchase": "https://bloxproducts.com/soon",
+              "purchase": "https://www.roblox.com/game-pass/261208673",
               "verify": "https://bloxproducts.com/api/newcheckout/robux/roexec90"
             },
             "price": {
               "$": 49.99,
-              "R": 16000
+              "⏣": 16000
             },
             "lifetime": false,
             "subscriptionPeriod": "90 Days",
@@ -81,12 +81,12 @@
             "name": "RO-EXEC 365 Days",
             "purchase": "https://rbxproduct.mysellix.io/product/65ca7831c1f37",
             "robux": {
-              "purchase": "https://bloxproducts.com/soon",
+              "purchase": "https://www.roblox.com/game-pass/261207624",
               "verify": "https://bloxproducts.com/api/newcheckout/robux/roexec365"
             },
             "price": {
               "$": 99.99,
-              "R": 30000
+              "⏣": 30000
             },
             "lifetime": false,
             "subscriptionPeriod": "365 Days",
@@ -105,4 +105,3 @@
       }
     }
   }
-  
