@@ -1,105 +1,80 @@
 {
     "accent-bottom": "#ffffff88",
     "groups": {
-      "RO-EXEC": {
+      "Codex": {
         "accent": "#68AFF2",
-        "logo": "https://i.imgur.com/O5jfEFH.png",
+        "logo": "https://www.codex.lol/static/icons/icon.svg",
         "items": [
           {
-            "name": "RO-EXEC 7 Days",
-            "purchase": "https://rbxproduct.mysellix.io/product/65ca781b4019c",
+            "name": "Codex 30 Days",
+            "purchase": "https://rbxproduct.mysellix.io/product/66452f49c1a52",
             "robux": {
-              "purchase": "https://www.roblox.com/game-pass/261210445",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/roexec7"
+              "purchase": "https://www.roblox.com/game-pass/261207051",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/codex30"
             },
             "price": {
-              "$": 7.99,
-              "⏣": 2700
-            },
-            "lifetime": false,
-            "subscriptionPeriod": "7 Days",
-            "device": "https://i.imgur.com/SqcIr7C.png",
-            "features": [
-              "*Cheapest",
-              "RO-EXEC for Windows",
-              "Weekly license",
-              "Free support",
-              "!Strings Attached"
-            ],
-            "accent": "#1B3F66",
-            "banner": "https://i.imgur.com/48cpYRe.png"
-          },
-          {
-            "name": "RO-EXEC 30 Days",
-            "purchase": "https://rbxproduct.mysellix.io/product/65ca7829e6019",
-            "robux": {
-              "purchase": "https://www.roblox.com/game-pass/261211085",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/roexec30"
-            },
-            "price": {
-              "$": 24.99,
-              "⏣": 8300
+              "$": 4.97,
+              "⏣": 2500
             },
             "lifetime": false,
             "subscriptionPeriod": "30 Days",
-            "device": "https://i.imgur.com/SqcIr7C.png",
+            "device": "https://i.imgur.com/SWbRkbZ.png",
             "features": [
               "*Most popular",
-              "RO-EXEC for Windows",
+              "Codex for all compatible devices",
               "Monthly license",
               "Free support",
               "!Strings Attached"
             ],
             "accent": "#1B3F66",
-            "banner": "https://i.imgur.com/48cpYRe.png"
+            "banner": "https://i.imgur.com/mZ2Syfv.png"
           },
           {
-            "name": "RO-EXEC 90 Days",
-            "purchase": "https://rbxproduct.mysellix.io/product/65ca782e05da5",
+            "name": "Codex 90 Days",
+            "purchase": "https://rbxproduct.mysellix.io/product/66452f6733d63",
             "robux": {
-              "purchase": "https://www.roblox.com/game-pass/261208673",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/roexec90"
+              "purchase": "https://www.roblox.com/game-pass/261207926",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/codex90"
             },
             "price": {
-              "$": 49.99,
-              "⏣": 16000
+              "$": 9.97,
+              "⏣": 5000
             },
             "lifetime": false,
             "subscriptionPeriod": "90 Days",
-            "device": "https://i.imgur.com/SqcIr7C.png",
+            "device": "https://i.imgur.com/SWbRkbZ.png",
             "features": [
               "Undetected",
-              "RO-EXEC for Windows",
+              "Codex for all compatible devices",
               "Quarterly license",
               "Free support",
               "!Strings Attached"
             ],
             "accent": "#1B3F66",
-            "banner": "https://i.imgur.com/48cpYRe.png"
+            "banner": "https://i.imgur.com/mZ2Syfv.png"
           },
           {
-            "name": "RO-EXEC 365 Days",
-            "purchase": "https://rbxproduct.mysellix.io/product/65ca7831c1f37",
+            "name": "Codex Lifetime",
+            "purchase": "https://rbxproduct.mysellix.io/product/66452fc8ec9b2",
             "robux": {
-              "purchase": "https://www.roblox.com/game-pass/261207624",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/roexec365"
+              "purchase": "https://www.roblox.com/game-pass/261208319",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/codexlife"
             },
             "price": {
-              "$": 99.99,
-              "⏣": 30000
+              "$": 22.47,
+              "⏣": 10000
             },
-            "lifetime": false,
-            "subscriptionPeriod": "365 Days",
-            "device": "https://i.imgur.com/SqcIr7C.png",
+            "lifetime": true,
+            "device": "https://i.imgur.com/SWbRkbZ.png",
             "features": [
               "*Most value",
-              "RO-EXEC for Windows",
-              "Yearly license",
+              "Codex for all compatible devices",
+              "Lifetime License",
               "Free support",
               "!Strings Attached"
             ],
             "accent": "#1B3F66",
-            "banner": "https://i.imgur.com/48cpYRe.png"
+            "banner": "https://i.imgur.com/mZ2Syfv.png"
           }
         ]
       }
