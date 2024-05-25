@@ -77,6 +77,35 @@
             "banner": "https://i.imgur.com/mZ2Syfv.png"
           }
         ]
+      },
+        "MacSploit": {
+        "accent": "#68AFF2",
+        "logo": "https://i.imgur.com/7Ph3p74.png",
+        "items": [
+          {
+            "name": "MacSploit Lifetime",
+            "purchase": "https://rbxproduct.mysellix.io/product/macsploit-lifetime-license",
+            "robux": {
+              "purchase": "https://www.roblox.com/game-pass/261209619",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/macsploit"
+            },
+            "price": {
+              "$": 9.99,
+              "⏣": 5000
+            },
+            "lifetime": true,
+            "device": "https://i.imgur.com/VmemrA5.png",
+            "features": [
+              "*MacOS execution",
+              "Cheapest on market",
+              "Lifetime License",
+              "Free support",
+              "!Strings Attached"
+            ],
+            "accent": "#1B3F66",
+            "banner": "https://i.imgur.com/mZ2Syfv.png"
+          }
+        ]
       }
     }
   }
