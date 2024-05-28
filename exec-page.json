@@ -1,35 +1,6 @@
 {
     "accent-bottom": "#ffffff88",
     "groups": {
-        "Oxycontin": {
-            "accent": "#68AFF2",
-            "logo": "https://i.imgur.com/nAcBpWh.png",
-            "items": [
-              {
-                "name": "Oxycontin Lifetime",
-                "purchase": "https://rbxproduct.mysellix.io/product/oxycontin-lifetime-license",
-                "robux": {
-                  "purchase": "https://www.roblox.com/game-pass/261209002",
-                  "verify": "https://bloxproducts.com/api/newcheckout/robux/oxy"
-                },
-                "price": {
-                  "$": 14.99,
-                  "⏣": 7000
-                },
-                "lifetime": true,
-                "device": "https://i.imgur.com/SqcIr7C.png",
-                "features": [
-                  "*Windows execution",
-                  "Undetected",
-                  "Lifetime License",
-                  "Free support",
-                  "!Strings Attached"
-                ],
-                "accent": "#1B3F66",
-                "banner": "https://i.imgur.com/GdJvMql.png"
-              }
-            ]
-          },
       "Codex": {
         "accent": "#68AFF2",
         "logo": "https://www.codex.lol/static/icons/icon.svg",
