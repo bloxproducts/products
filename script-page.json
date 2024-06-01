@@ -1,57 +1,53 @@
 {
     "groups": {
-      "Bread Hub": {
-        "logo": "https://gh.expo.moe/ScriptWare-Icons/blue/vector.svg",
+      "Bloxburg Epic Thing ": {
+        "logo": "https://i.imgur.com/3Mid4iq.png",
         "items": [
           {
-            "name": "Bread",
-            "purchase": "https://rbxproduct.sellix.io/product/63b6f1445d61d",
+            "name": "Standard",
+            "purchase": "https://rbxproduct.mysellix.io/product/bloxburg-epic-thing-standard",
             "robux": {
-              "purchase": "https://www.roblox.com/catalog/12337450360",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/sw"
+              "purchase": "https://www.roblox.com/game-pass/261209002",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/bet"
             },
             "price": {
-              "$": 1.99,
-              "⏣": 690
+              "$": 19.99,
+              "⏣": 7000
             },
             "lifetime": true,
-            "device": "https://breadcity.github.io/ico/icon/vector.svg",
-            "features": [
-              "*Most popular",
-              "Beans",
-              "Lifetime license",
-              "Free Beans",
-              "!Strings Attached"
-            ],
-            "accent": "#1B3F66"
-          }
-        ]
-      },
-      
-      "XenBurg": {
-        "logo": "https://media.discordapp.net/attachments/1125841019250938009/1126065486145273936/47a595a07d295d772b9a7bf7c0a7c5ed_1.png?width=120&height=120",
-        "items": [
-          {
-            "name": "XenBurg",
-            "purchase": "https://rbxproduct.sellix.io/product/64aea5d18bd84",
-            "robux": {
-              "purchase": "https://www.roblox.com/catalog/14040220460",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/xenburg"
-            },
-            "price": {
-              "$": 1.99,
-              "⏣": 690
-            },
-            "lifetime": true,
-            "device": "https://cdn.discordapp.com/attachments/1020470040241389609/1128652071936217188/alldevices.png",
+            "device": "https://i.imgur.com/5VHh2oY.png",
             "features": [
               "*Most popular",
               "Best BloxBurg Script",
-              "Lifetime license",
+              "Autobuild",
               "Infinite Cash",
-              "!Strings Attached"
+              "Works on all devices"
             ],
             "accent": "#2596be"
+            "banner": "https://i.imgur.com/Riaq5nF.png"
+          },
+            {
+            "name": "Premium",
+            "purchase": "https://rbxproduct.mysellix.io/product/bloxburg-epic-thing-premium",
+            "robux": {
+              "purchase": "https://www.roblox.com/game-pass/261210720",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/pbet"
+            },
+            "price": {
+              "$": 39.99,
+              "⏣": 14000
+            },
+            "lifetime": true,
+            "device": "https://i.imgur.com/5VHh2oY.png",
+            "features": [
+              "*Best Bloxburg Script",
+              "*Everything in Standard",
+              "AFK Build",
+              "Legit autofarm",
+              "Undetected"
+            ],
+            "accent": "#2596be"
+            "banner": "https://i.imgur.com/Riaq5nF.png"
           }
         ]
       }
