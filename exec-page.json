@@ -91,7 +91,7 @@
             },
             "price": {
               "$": 9.99,
-              "⏣": 5000
+              "⏣": 3500
             },
             "lifetime": true,
             "device": "https://i.imgur.com/VmemrA5.png",
