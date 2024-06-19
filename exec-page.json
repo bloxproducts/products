@@ -1,188 +1,216 @@
 {
-    "accent-bottom": "#ffffff88",
-    "groups": {
-      "Codex": {
-        "accent": "#68AFF2",
-        "logo": "https://i.imgur.com/nkcJpv3.png",
-        "items": [
-          {
-            "name": "Codex 30 Days",
-            "purchase": "https://rbxproduct.mysellix.io/product/66452f49c1a52",
-            "robux": {
-              "purchase": "https://www.roblox.com/game-pass/261207051",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/codex30"
-            },
-            "price": {
-              "$": 4.97,
-              "⏣": 2500
-            },
-            "lifetime": false,
-            "subscriptionPeriod": "30 Days",
-            "device": "https://i.imgur.com/SWbRkbZ.png",
-            "features": [
-              "*Most popular",
-              "Codex for all compatible devices",
-              "Monthly license",
-              "Free support",
-              "!Strings Attached"
-            ],
-            "accent": "#1B3F66",
-            "banner": "https://i.imgur.com/mZ2Syfv.png"
-          },
-          {
-            "name": "Codex 90 Days",
-            "purchase": "https://rbxproduct.mysellix.io/product/66452f6733d63",
-            "robux": {
-              "purchase": "https://www.roblox.com/game-pass/261207926",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/codex90"
-            },
-            "price": {
-              "$": 9.97,
-              "⏣": 5000
-            },
-            "lifetime": false,
-            "subscriptionPeriod": "90 Days",
-            "device": "https://i.imgur.com/SWbRkbZ.png",
-            "features": [
-              "Undetected",
-              "Codex for all compatible devices",
-              "Quarterly license",
-              "Free support",
-              "!Strings Attached"
-            ],
-            "accent": "#1B3F66",
-            "banner": "https://i.imgur.com/mZ2Syfv.png"
-          },
-          {
-            "name": "Codex Lifetime",
-            "purchase": "https://rbxproduct.mysellix.io/product/66452fc8ec9b2",
-            "robux": {
-              "purchase": "https://www.roblox.com/game-pass/261208319",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/codexlife"
-            },
-            "price": {
-              "$": 22.47,
-              "⏣": 10000
-            },
-            "lifetime": true,
-            "device": "https://i.imgur.com/SWbRkbZ.png",
-            "features": [
-              "*Most value",
-              "Codex for all compatible devices",
-              "Lifetime License",
-              "Free support",
-              "!Strings Attached"
-            ],
-            "accent": "#1B3F66",
-            "banner": "https://i.imgur.com/mZ2Syfv.png"
-          }
-        ]
-      },
-        "MacSploit": {
-        "accent": "#68AFF2",
-        "logo": "https://i.imgur.com/7Ph3p74.png",
-        "items": [
-          {
-            "name": "MacSploit Lifetime",
-            "purchase": "https://rbxproduct.mysellix.io/product/macsploit-lifetime-license",
-            "robux": {
-              "purchase": "https://www.roblox.com/game-pass/261209619",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/macsploit"
-            },
-            "price": {
-              "$": 9.99,
-              "⏣": 3500
-            },
-            "lifetime": true,
-            "device": "https://i.imgur.com/VmemrA5.png",
-            "features": [
-              "*MacOS execution",
-              "Cheapest on market",
-              "Lifetime License",
-              "Free support",
-              "!Strings Attached"
-            ],
-            "accent": "#1B3F66",
-            "banner": "https://i.imgur.com/mZ2Syfv.png"
-          }
-        ]
-      },
-        "Delta": {
-      "logo": "https://i.imgur.com/8ymyGyl.png",
+  "accent-bottom": "#ffffff88",
+  "groups": {
+    "Wave": {
+      "accent": "#68AFF2",
+      "logo": "https://i.imgur.com/9GsSfTc.png",
       "items": [
         {
-          "name": "Delta 30 Days",
-          "purchase": "https://rbxproduct.mysellix.io/product/delta-premium-30-day-license",
+          "name": "Wave 7 Days",
+          "purchase": "https://rbxproduct.mysellix.io/product/65ca781b4019c",
           "robux": {
-            "purchase": "https://www.roblox.com/game-pass/261210229",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/delta30"
+            "purchase": "https://bloxproducts.com/soon",
+            "verify": "https://bloxproducts.com/api/newcheckout/robux/wave7"
           },
           "price": {
-            "$": 4.99,
-            "⏣": 2200
+            "$": 6.99,
+            "R": 2300
+          },
+          "lifetime": false,
+          "subscriptionPeriod": "7 Days",
+          "device": "https://i.imgur.com/SqcIr7C.png",
+          "features": [
+            "*Cheapest",
+            "Wave for Windows",
+            "Weekly license",
+            "Free support",
+            "!Strings Attached"
+          ],
+          "accent": "#388ce8",
+          "banner": "https://i.imgur.com/njsuC6C.png"
+        },
+        {
+          "name": "Wave 30 Days",
+          "purchase": "https://rbxproduct.mysellix.io/product/65ca7829e6019",
+          "robux": {
+            "purchase": "https://bloxproducts.com/soon",
+            "verify": "https://bloxproducts.com/api/newcheckout/robux/wave30"
+          },
+          "price": {
+            "$": 19.99,
+            "R": 6600
+          },
+          "lifetime": false,
+          "subscriptionPeriod": "30 Days",
+          "device": "https://i.imgur.com/SqcIr7C.png",
+          "features": [
+            "*Most popular",
+            "Wave for Windows",
+            "Monthly license",
+            "Free support",
+            "!Strings Attached"
+          ],
+          "accent": "#388ce8",
+          "banner": "https://i.imgur.com/njsuC6C.png"
+        },
+        {
+          "name": "Wave 90 Days",
+          "purchase": "https://rbxproduct.mysellix.io/product/65ca782e05da5",
+          "robux": {
+            "purchase": "https://bloxproducts.com/soon",
+            "verify": "https://bloxproducts.com/api/newcheckout/robux/wave90"
+          },
+          "price": {
+            "$": 40.99,
+            "R": 13500
+          },
+          "lifetime": false,
+          "subscriptionPeriod": "90 Days",
+          "device": "https://i.imgur.com/SqcIr7C.png",
+          "features": [
+            "Undetected",
+            "Wave for Windows",
+            "Quarterly license",
+            "Free support",
+            "!Strings Attached"
+          ],
+          "accent": "#388ce8",
+          "banner": "https://i.imgur.com/njsuC6C.png"
+        },
+        {
+          "name": "Wave 365 Days",
+          "purchase": "https://rbxproduct.mysellix.io/product/65ca7831c1f37",
+          "robux": {
+            "purchase": "https://bloxproducts.com/soon",
+            "verify": "https://bloxproducts.com/api/newcheckout/robux/wave365"
+          },
+          "price": {
+            "$": 82.99,
+            "R": 27000
+          },
+          "lifetime": false,
+          "subscriptionPeriod": "365 Days",
+          "device": "https://i.imgur.com/SqcIr7C.png",
+          "features": [
+            "*Most value",
+            "Wave for Windows",
+            "Yearly license",
+            "Free support",
+            "!Strings Attached"
+          ],
+          "accent": "#388ce8",
+          "banner": "https://i.imgur.com/njsuC6C.png"
+        }
+      ]
+    },
+    "Codex": {
+      "accent": "#68AFF2",
+      "logo": "https://i.imgur.com/nkcJpv3.png",
+      "items": [
+        {
+          "name": "Codex 30 Days",
+          "purchase": "https://rbxproduct.mysellix.io/product/66452f49c1a52",
+          "robux": {
+            "purchase": "https://www.roblox.com/game-pass/261207051",
+            "verify": "https://bloxproducts.com/api/newcheckout/robux/codex30"
+          },
+          "price": {
+            "$": 4.97,
+            "⏣": 2500
           },
           "lifetime": false,
           "subscriptionPeriod": "30 Days",
           "device": "https://i.imgur.com/SWbRkbZ.png",
           "features": [
-            "Monthly License",
-            "Android compatible",
-            "Execute on Windows w/ Emulator",
+            "*Most popular",
+            "Codex for all compatible devices",
+            "Monthly license",
             "Free support",
             "!Strings Attached"
           ],
-          "accent": "#2596be",
-          "banner": "https://i.imgur.com/8Jiy9tL.png"
+          "accent": "#1B3F66",
+          "banner": "https://i.imgur.com/mZ2Syfv.png"
         },
-          {
-          "name": "Delta 90 Days",
-          "purchase": "https://rbxproduct.mysellix.io/product/delta-premium-90-day-license",
+        {
+          "name": "Codex 90 Days",
+          "purchase": "https://rbxproduct.mysellix.io/product/66452f6733d63",
           "robux": {
-            "purchase": "https://www.roblox.com/game-pass/261209300",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/delta90"
+            "purchase": "https://www.roblox.com/game-pass/261207926",
+            "verify": "https://bloxproducts.com/api/newcheckout/robux/codex90"
           },
           "price": {
-            "$": 11.99,
-            "⏣": 4500
+            "$": 9.97,
+            "⏣": 5000
           },
           "lifetime": false,
           "subscriptionPeriod": "90 Days",
           "device": "https://i.imgur.com/SWbRkbZ.png",
           "features": [
-            "Quarterly License",
-            "Android compatible",
-            "Execute on Windows w/ Emulator",
+            "Undetected",
+            "Codex for all compatible devices",
+            "Quarterly license",
             "Free support",
             "!Strings Attached"
           ],
-          "accent": "#2596be",
-          "banner": "https://i.imgur.com/8Jiy9tL.png"
+          "accent": "#1B3F66",
+          "banner": "https://i.imgur.com/mZ2Syfv.png"
         },
-          {
-          "name": "Delta 365 Days",
-          "purchase": "https://rbxproduct.mysellix.io/product/delta-premium-365-day-license",
+        {
+          "name": "Codex Lifetime",
+          "purchase": "https://rbxproduct.mysellix.io/product/66452fc8ec9b2",
           "robux": {
-            "purchase": "https://www.roblox.com/game-pass/827425745",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/delta365"
+            "purchase": "https://www.roblox.com/game-pass/261208319",
+            "verify": "https://bloxproducts.com/api/newcheckout/robux/codexlife"
           },
           "price": {
-            "$": 21.99,
-            "⏣": 8000
+            "$": 22.47,
+            "⏣": 10000
           },
-          "lifetime": false,
-          "subscriptionPeriod": "365 Days",
+          "lifetime": true,
           "device": "https://i.imgur.com/SWbRkbZ.png",
           "features": [
-            "Yearly License",
-            "Android compatible",
-            "Execute on Windows w/ Emulator",
+            "*Most value",
+            "Codex for all compatible devices",
+            "Lifetime License",
             "Free support",
             "!Strings Attached"
           ],
-          "accent": "#2596be",
-          "banner": "https://i.imgur.com/8Jiy9tL.png"
+          "accent": "#1B3F66",
+          "banner": "https://i.imgur.com/mZ2Syfv.png"
+        }
+      ]
+    },
+      "MacSploit": {
+      "accent": "#68AFF2",
+      "logo": "https://i.imgur.com/7Ph3p74.png",
+      "items": [
+        {
+          "name": "MacSploit Lifetime",
+          "purchase": "https://rbxproduct.mysellix.io/product/macsploit-lifetime-license",
+          "robux": {
+            "purchase": "https://www.roblox.com/game-pass/261209619",
+            "verify": "https://bloxproducts.com/api/newcheckout/robux/macsploit"
+          },
+          "price": {
+            "$": 9.99,
+            "⏣": 3500
+          },
+          "lifetime": true,
+          "device": "https://i.imgur.com/VmemrA5.png",
+          "features": [
+            "*MacOS execution",
+            "Cheapest on market",
+            "Lifetime License",
+            "Free support",
+            "!Strings Attached"
+          ],
+          "accent": "#1B3F66",
+          "banner": "https://i.imgur.com/mZ2Syfv.png"
         }
       ]
     }
-    }
+      
+    
+  
   }
+}
