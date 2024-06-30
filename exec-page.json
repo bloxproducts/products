@@ -180,6 +180,58 @@
         }
       ]
     },
+    "Aureus": {
+      "accent": "#68AFF2",
+      "logo": "https://i.imgur.com/eHE7vxm.png",
+      "items": [
+        {
+          "name": "Standard",
+          "purchase": "https://rbxproduct.mysellix.io/product/aureus-standard-lifetime",
+          "robux": {
+            "purchase": "https://www.roblox.com/game-pass/846999372",
+            "verify": "https://bloxproducts.com/api/newcheckout/robux/aureusstandard"
+          },
+          "price": {
+            "$": 14.99,
+            "⏣": 5200
+          },
+          "lifetime": true,
+          "device": "https://i.imgur.com/5VHh2oY.png",
+          "features": [
+            "*Affordable",
+            "Budget-friendly version",
+            "Lifetime License",
+            "Free support",
+            "Undetected"
+          ],
+          "accent": "#fa4639",
+          "banner": "https://i.imgur.com/4uqcsKI.png"
+        },
+        {
+          "name": "Premium",
+          "purchase": "https://rbxproduct.mysellix.io/product/aureus-premium-lifetime",
+          "robux": {
+            "purchase": "https://www.roblox.com/game-pass/847208073",
+            "verify": "https://bloxproducts.com/api/newcheckout/robux/aureuspremium"
+          },
+          "price": {
+            "$": 49.99,
+            "⏣": 17300
+          },
+          "lifetime": true,
+          "device": "https://i.imgur.com/5VHh2oY.png",
+          "features": [
+            "*Overpowered",
+            "Best Serverside",
+            "Lifetime License",
+            "Free support",
+            "Undetected"
+          ],
+          "accent": "#fa4639",
+          "banner": "https://i.imgur.com/4uqcsKI.png"
+        }
+      ]
+    },
       "MacSploit": {
       "accent": "#68AFF2",
       "logo": "https://i.imgur.com/7Ph3p74.png",
