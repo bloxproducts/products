@@ -103,6 +103,36 @@
         }
       ]
     },
+    "Electron": {
+      "accent": "#0345fc",
+      "logo": "https://i.imgur.com/Q9jCZP9.png",
+      "items": [
+        {
+          "name": "Electron Lifetime",
+          "purchase": "https://rbxproduct.mysellix.io/product/electron-lifetime-license",
+          "robux": {
+            "purchase": "https://www.roblox.com/game-pass/838701836",
+            "verify": "https://bloxproducts.com/api/newcheckout/robux/electron"
+          },
+          "price": {
+            "$": 11.99,
+            "⏣": 4100
+          },
+          "lifetime": false,
+          "subscriptionPeriod": "30 Days",
+          "device": "https://i.imgur.com/SqcIr7C.png",
+          "features": [
+            "*Undetected",
+            "Cheapest Windows Executor",
+            "Monthly License",
+            "Free support",
+            "!Strings Attached"
+          ],
+          "accent": "#0345fc",
+          "banner": "https://i.imgur.com/6VciW8X.png"
+        }
+      ]
+    },
     "Codex": {
       "accent": "#68AFF2",
       "logo": "https://i.imgur.com/nkcJpv3.png",
