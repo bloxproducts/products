@@ -6,6 +6,7 @@
           {
             "name": "Standard",
             "purchase": "https://rbxproduct.mysellix.io/product/bloxburg-epic-thing-standard",
+            "purchaseCard": "https://astra.cx/bet",
             "robux": {
               "purchase": "https://www.roblox.com/game-pass/261209002",
               "verify": "https://bloxproducts.com/api/newcheckout/robux/bet"
@@ -29,6 +30,7 @@
             {
             "name": "Premium",
             "purchase": "https://rbxproduct.mysellix.io/product/bloxburg-epic-thing-premium",
+                "purchaseCard": "https://astra.cx/pbet",
             "robux": {
               "purchase": "https://www.roblox.com/game-pass/261210720",
               "verify": "https://bloxproducts.com/api/newcheckout/robux/pbet"
