@@ -8,7 +8,7 @@
         {
           "name": "Wave 7 Days",
           "purchase": "https://rbxproduct.mysellix.io/product/wave-7-days",
-          "purchaseCard": "https://example.com/example/example/example",
+          "purchaseCard": "https://astra.cx/wave7",
           "robux": {
             "purchase": "https://www.roblox.com/game-pass/838744756",
             "verify": "https://bloxproducts.com/api/newcheckout/robux/wave7"
@@ -33,6 +33,7 @@
         {
           "name": "Wave 30 Days",
           "purchase": "https://rbxproduct.mysellix.io/product/wave-30-days",
+          "purchaseCard": "https://astra.cx/wave30",
           "robux": {
             "purchase": "https://www.roblox.com/game-pass/838687807",
             "verify": "https://bloxproducts.com/api/newcheckout/robux/wave30"
@@ -101,36 +102,6 @@
           ],
           "accent": "#388ce8",
           "banner": "https://i.imgur.com/njsuC6C.png"
-        }
-      ]
-    },
-    "Electron": {
-      "accent": "#0345fc",
-      "logo": "https://i.imgur.com/Q9jCZP9.png",
-      "items": [
-        {
-          "name": "Electron Lifetime",
-          "purchase": "https://rbxproduct.mysellix.io/product/electron-monthly-license",
-          "robux": {
-            "purchase": "https://www.roblox.com/game-pass/838701836",
-            "verify": "https://bloxproducts.com/api/newcheckout/robux/electron"
-          },
-          "price": {
-            "$": 11.99,
-            "⏣": 4100
-          },
-          "lifetime": false,
-          "subscriptionPeriod": "30 Days",
-          "device": "https://i.imgur.com/SqcIr7C.png",
-          "features": [
-            "*Undetected",
-            "Cheapest Windows Executor",
-            "Monthly License",
-            "Free support",
-            "!Strings Attached"
-          ],
-          "accent": "#0345fc",
-          "banner": "https://i.imgur.com/6VciW8X.png"
         }
       ]
     },
