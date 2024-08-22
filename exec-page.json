@@ -7,6 +7,7 @@
         "items": [
           {
             "name": "Wave 7 Days",
+            "purchasePaypal": "https://astra.cx/paypal/wave7",
             "purchase": "https://rbxproduct.mysellix.io/product/wave-7-days",
             "purchaseCard": "https://astra.cx/wave7",
             "robux": {
