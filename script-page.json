@@ -5,6 +5,7 @@
         "items": [
           {
             "name": "Standard",
+            "purchasePaypal": "https://astra.cx/paypal/bet",
             "purchase": "https://rbxproduct.mysellix.io/product/bloxburg-epic-thing-standard",
             "purchaseCard": "https://astra.cx/bet",
             "robux": {
@@ -29,8 +30,9 @@
           },
             {
             "name": "Premium",
+            "purchasePaypal": "https://astra.cx/paypal/pbet",
             "purchase": "https://rbxproduct.mysellix.io/product/bloxburg-epic-thing-premium",
-                "purchaseCard": "https://astra.cx/pbet",
+            "purchaseCard": "https://astra.cx/pbet",
             "robux": {
               "purchase": "https://www.roblox.com/game-pass/261210720",
               "verify": "https://bloxproducts.com/api/newcheckout/robux/pbet"
