@@ -33,6 +33,7 @@
           },
           {
             "name": "Wave 30 Days",
+            "purchasePaypal": "https://astra.cx/paypal/wave30",
             "purchase": "https://rbxproduct.mysellix.io/product/wave-30-days",
             "purchaseCard": "https://astra.cx/wave30",
             "robux": {
@@ -112,6 +113,7 @@
         "items": [
           {
             "name": "Codex 30 Days",
+            "purchasePaypal": "https://astra.cx/paypal/codex30",
             "purchase": "https://rbxproduct.mysellix.io/product/66452f49c1a52",
             "purchaseCard": "https://astra.cx/codex30",
             "robux": {
@@ -137,6 +139,7 @@
           },
           {
             "name": "Codex 90 Days",
+            "purchasePaypal": "https://astra.cx/paypal/codex90",
             "purchase": "https://rbxproduct.mysellix.io/product/66452f6733d63",
             "purchaseCard": "https://astra.cx/codex90",
             "robux": {
@@ -162,6 +165,7 @@
           },
           {
             "name": "Codex Lifetime",
+            "purchasePaypal": "https://astra.cx/paypal/codexlife",
             "purchase": "https://rbxproduct.mysellix.io/product/66452fc8ec9b2",
             "purchaseCard": "https://astra.cx/codexlife",
             "robux": {
@@ -192,6 +196,7 @@
         "items": [
           {
             "name": "Standard",
+            "purchasePaypal": "https://astra.cx/paypal/aureusstandard",
             "purchase": "https://rbxproduct.mysellix.io/product/aureus-standard-lifetime",
             "purchaseCard": "https://astra.cx/aureusstandard",
             "robux": {
@@ -216,6 +221,7 @@
           },
           {
             "name": "Premium",
+            "purchasePaypal": "https://astra.cx/paypal/aureuspremium",
             "purchase": "https://rbxproduct.mysellix.io/product/aureus-premium-lifetime",
             "purchaseCard": "https://astra.cx/aureuspremium",
             "robux": {
