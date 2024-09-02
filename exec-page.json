@@ -107,6 +107,128 @@
           }
         ]
       },
+
+
+      "Synapse Z": {
+        "accent": "#68AFF2",
+        "logo": "https://i.imgur.com/912JdCo.png",
+        "items": [
+          {
+            "name": "Synapse Z 7 Days",
+            "purchasePaypal": "https://astra.cx/paypal/synz7",
+            "purchase": "https://rbxproduct.mysellix.io/product/synapse-z-weekly-license",
+            "purchaseCard": "https://astra.cx/synz7",
+            "robux": {
+              "purchase": "https://www.roblox.com/game-pass/913455755",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/synz7"
+            },
+            "price": {
+              "$": 6.49,
+              "⏣": 2300
+            },
+            "lifetime": false,
+            "subscriptionPeriod": "7 Days",
+            "device": "https://i.imgur.com/SqcIr7C.png",
+            "features": [
+              "*Cheapest",
+              "Synapse Z for Windows",
+              "Weekly license",
+              "Free support",
+              "!Strings Attached"
+            ],
+            "accent": "#388ce8",
+            "banner": "https://i.imgur.com/92zrQpa.png"
+          },
+          {
+            "name": "Synapse Z 30 Days",
+            "purchasePaypal": "https://astra.cx/paypal/synz30",
+            "purchase": "https://rbxproduct.mysellix.io/product/synapse-z-monthly-license",
+            "purchaseCard": "https://astra.cx/synz30",
+            "robux": {
+              "purchase": "https://www.roblox.com/game-pass/913678217",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/synz30"
+            },
+            "price": {
+              "$": 19.99,
+              "⏣": 6900
+            },
+            "lifetime": false,
+            "subscriptionPeriod": "30 Days",
+            "device": "https://i.imgur.com/SqcIr7C.png",
+            "features": [
+              "*Most popular",
+              "Synapse Z for Windows",
+              "Monthly license",
+              "Free support",
+              "!Strings Attached"
+            ],
+            "accent": "#388ce8",
+            "banner": "https://i.imgur.com/92zrQpa.png"
+          }
+        ]
+      },
+
+      "Calibri": {
+        "accent": "#68AFF2",
+        "logo": "https://i.imgur.com/Jdxg3Qt.png",
+        "items": [
+          {
+            "name": "Calibri 7 Days",
+            "purchasePaypal": "https://astra.cx/paypal/calibri7",
+            "purchase": "https://rbxproduct.mysellix.io/product/calibri-weekly-license",
+            "purchaseCard": "https://astra.cx/calibri7",
+            "robux": {
+              "purchase": "https://www.roblox.com/game-pass/913440789",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/calibri7"
+            },
+            "price": {
+              "$": 2.99,
+              "⏣": 1000
+            },
+            "lifetime": false,
+            "subscriptionPeriod": "7 Days",
+            "device": "https://i.imgur.com/SqcIr7C.png",
+            "features": [
+              "*Cheapest on market",
+              "Calibri for Windows",
+              "Weekly license",
+              "Free support",
+              "!Strings Attached"
+            ],
+            "accent": "#388ce8",
+            "banner": "https://i.imgur.com/72OSrRr.png"
+          },
+          {
+            "name": "Calibri 30 Days",
+            "purchasePaypal": "https://astra.cx/paypal/calibri30",
+            "purchase": "https://rbxproduct.mysellix.io/product/calibri-monthly-license",
+            "purchaseCard": "https://astra.cx/calibri30",
+            "robux": {
+              "purchase": "https://www.roblox.com/game-pass/913684395",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/calibri30"
+            },
+            "price": {
+              "$": 11.99,
+              "⏣": 4000
+            },
+            "lifetime": false,
+            "subscriptionPeriod": "30 Days",
+            "device": "https://i.imgur.com/SqcIr7C.png",
+            "features": [
+              "*Most popular",
+              "Calibri for Windows",
+              "Monthly license",
+              "Free support",
+              "!Strings Attached"
+            ],
+            "accent": "#388ce8",
+            "banner": "https://i.imgur.com/72OSrRr.png"
+          }
+        ]
+      },
+
+
+
       "Codex": {
         "accent": "#68AFF2",
         "logo": "https://i.imgur.com/nkcJpv3.png",
