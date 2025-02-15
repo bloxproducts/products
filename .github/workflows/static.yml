@@ -26,13 +26,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          ref: ${{ github.sha }} 
+          ref: ${{ github.sha }}  # Force checkout the exact commit for a clean build
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4  
+        uses: actions/upload-artifact@v4  # Correct version v4 of the upload-artifact action
         with:
-          path: '.'  
+          path: '.'  # Adjust path if you need a specific folder like './build'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
