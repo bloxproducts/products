@@ -12,7 +12,7 @@
                   "purchaseCard": "https://astra.cx/wave7",
                   "purchaseCashApp": "https://rbxproduct.mysellix.io/product/wave-7-days",
                   "robux": {
-                      "purchase": "https://www.roblox.com/game-pass/1041409345",
+                      "purchase": "https://www.roblox.com/game-pass/1067893816",
                       "verify": "https://bloxproducts.com/api/newcheckout/robux/wave7"
                   },
                   "price": {
@@ -39,7 +39,7 @@
                   "purchaseCard": "https://astra.cx/wave30",
                   "purchaseCashApp": "https://rbxproduct.mysellix.io/product/wave-30-days",
                   "robux": {
-                      "purchase": "https://www.roblox.com/game-pass/1041758686",
+                      "purchase": "https://www.roblox.com/game-pass/1068654881",
                       "verify": "https://bloxproducts.com/api/newcheckout/robux/wave30"
                   },
                   "price": {
@@ -72,7 +72,7 @@
             "purchaseCard": "https://astra.cx/awp7",
             "purchaseCashApp": "https://rbxproduct.mysellix.io/product/awp-7-days",
             "robux": {
-              "purchase": "https://www.roblox.com/game-pass/1041970404",
+              "purchase": "https://www.roblox.com/game-pass/1068740745",
               "verify": "https://bloxproducts.com/api/newcheckout/robux/awp7"
             },
             "price": {
@@ -99,7 +99,7 @@
             "purchaseCard": "https://astra.cx/awp30",
             "purchaseCashApp": "https://rbxproduct.mysellix.io/product/awp-7-days-copy",
             "robux": {
-              "purchase": "https://www.roblox.com/game-pass/1041572877",
+              "purchase": "https://www.roblox.com/game-pass/1068037355",
               "verify": "https://bloxproducts.com/api/newcheckout/robux/awp30"
             },
             "price": {
@@ -132,7 +132,7 @@
                   "purchaseCard": "https://astra.cx/synz7",
                   "purchaseCashApp": "https://rbxproduct.mysellix.io/product/synapse-z-weekly-license",
                   "robux": {
-                      "purchase": "https://www.roblox.com/game-pass/1041114016",
+                      "purchase": "https://www.roblox.com/game-pass/1068351183",
                       "verify": "https://bloxproducts.com/api/newcheckout/robux/synz7"
                   },
                   "price": {
@@ -159,7 +159,7 @@
                   "purchaseCard": "https://astra.cx/synz30",
                   "purchaseCashApp": "https://rbxproduct.mysellix.io/product/synapse-z-monthly-license",
                   "robux": {
-                      "purchase": "https://www.roblox.com/game-pass/1041718651",
+                      "purchase": "https://www.roblox.com/game-pass/1068630850",
                       "verify": "https://bloxproducts.com/api/newcheckout/robux/synz30"
                   },
                   "price": {
@@ -192,7 +192,7 @@
                   "purchaseCard": "https://astra.cx/matcha",
                   "purchaseCashApp": "https://rbxproduct.mysellix.io/product/matcha-lifetime-674a033b62915",
                   "robux": {
-                      "purchase": "https://www.roblox.com/game-pass/1043714757",
+                      "purchase": "https://www.roblox.com/game-pass/1068482989",
                       "verify": "https://bloxproducts.com/api/newcheckout/robux/matcha"
                   },
                   "price": {
@@ -213,38 +213,6 @@
               }
           ]
       },
-      "Horizon": {
-          "accent": "#68AFF2",
-          "logo": "https://i.imgur.com/5wBRkQ1.png",
-          "items": [
-              {
-                  "name": "Horizon Lifetime",
-                  "purchasePaypal": "https://astra.cx/paypal/horizon",
-                  "purchase": "https://rbxproduct.mysellix.io/product/horizon-lifetime-copy",
-                  "purchaseCard": "https://astra.cx/horizon",
-                  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/horizon-lifetime-copy",
-                  "robux": {
-                      "purchase": "https://www.roblox.com/game-pass/1040984174",
-                      "verify": "https://bloxproducts.com/api/newcheckout/robux/horizon"
-                  },
-                  "price": {
-                      "$": 9.99,
-                      "⏣": 3500
-                  },
-                  "lifetime": true,
-                  "device": "https://i.imgur.com/SqcIr7C.png",
-                  "features": [
-                      "*External",
-                      "Aimbot",
-                      "Lifetime License",
-                      "Free support",
-                      "Undetectable"
-                  ],
-                  "accent": "#388ce8",
-                  "banner": "https://i.imgur.com/518REUR.png"
-              }
-          ]
-      },
       "Cryptic": {
           "accent": "#68AFF2",
           "logo": "https://i.imgur.com/DuK3xl7.png",
@@ -256,7 +224,7 @@
                   "purchaseCard": "https://astra.cx/cryptic30",
                   "purchaseCashApp": "https://rbxproduct.mysellix.io/product/cryptic",
                   "robux": {
-                      "purchase": "https://www.roblox.com/game-pass/1041159822",
+                      "purchase": "https://www.roblox.com/game-pass/1069042708",
                       "verify": "https://bloxproducts.com/api/newcheckout/robux/cryptic30"
                   },
                   "price": {
@@ -283,7 +251,7 @@
                   "purchaseCard": "https://astra.cx/cryptic90",
                   "purchaseCashApp": "https://rbxproduct.mysellix.io/product/cryptic-copy",
                   "robux": {
-                      "purchase": "https://www.roblox.com/game-pass/1041177663",
+                      "purchase": "https://www.roblox.com/game-pass/1069847122",
                       "verify": "https://bloxproducts.com/api/newcheckout/robux/cryptic90"
                   },
                   "price": {
@@ -310,7 +278,7 @@
                   "purchaseCard": "https://astra.cx/crypticlife",
                   "purchaseCashApp": "https://rbxproduct.mysellix.io/product/cryptic-90d-license-copy",
                   "robux": {
-                      "purchase": "https://www.roblox.com/game-pass/1041874539",
+                      "purchase": "https://www.roblox.com/game-pass/1068323102",
                       "verify": "https://bloxproducts.com/api/newcheckout/robux/crypticlife"
                   },
                   "price": {
@@ -342,7 +310,7 @@
                   "purchaseCard": "https://astra.cx/codex30",
                   "purchaseCashApp": "https://rbxproduct.mysellix.io/product/66452f49c1a52",
                   "robux": {
-                      "purchase": "https://www.roblox.com/game-pass/1041880313",
+                      "purchase": "https://www.roblox.com/game-pass/1068265111",
                       "verify": "https://bloxproducts.com/api/newcheckout/robux/codex30"
                   },
                   "price": {
@@ -369,7 +337,7 @@
                   "purchaseCard": "https://astra.cx/codex90",
                   "purchaseCashApp": "https://rbxproduct.mysellix.io/product/66452f6733d63",
                   "robux": {
-                      "purchase": "https://www.roblox.com/game-pass/1041429274",
+                      "purchase": "https://www.roblox.com/game-pass/1067760074",
                       "verify": "https://bloxproducts.com/api/newcheckout/robux/codex90"
                   },
                   "price": {
@@ -396,7 +364,7 @@
                   "purchaseCard": "https://astra.cx/codexlife",
                   "purchaseCashApp": "https://rbxproduct.mysellix.io/product/66452fc8ec9b2",
                   "robux": {
-                      "purchase": "https://www.roblox.com/game-pass/1041461119",
+                      "purchase": "https://www.roblox.com/game-pass/1067857812",
                       "verify": "https://bloxproducts.com/api/newcheckout/robux/codexlife"
                   },
                   "price": {
@@ -428,7 +396,7 @@
                   "purchaseCard": "https://astra.cx/aureusstandard",
                   "purchaseCashApp": "https://rbxproduct.mysellix.io/product/aureus-standard-lifetime",
                   "robux": {
-                      "purchase": "https://www.roblox.com/game-pass/1041467268",
+                      "purchase": "https://www.roblox.com/game-pass/1068858672",
                       "verify": "https://bloxproducts.com/api/newcheckout/robux/aureusstandard"
                   },
                   "price": {
@@ -454,7 +422,7 @@
                   "purchaseCard": "https://astra.cx/aureuspremium",
                   "purchaseCashApp": "https://rbxproduct.mysellix.io/product/aureus-premium-lifetime",
                   "robux": {
-                      "purchase": "https://www.roblox.com/game-pass/1041267667",
+                      "purchase": "https://www.roblox.com/game-pass/1068646912",
                       "verify": "https://bloxproducts.com/api/newcheckout/robux/aureuspremium"
                   },
                   "price": {
@@ -486,7 +454,7 @@
                   "purchaseCard": "https://astra.cx/macsploit",
                   "purchaseCashApp": "https://rbxproduct.mysellix.io/product/66452fc8ec9b2",
                   "robux": {
-                      "purchase": "https://www.roblox.com/game-pass/1040912208",
+                      "purchase": "https://www.roblox.com/game-pass/1068582909",
                       "verify": "https://bloxproducts.com/api/newcheckout/robux/macsploit"
                   },
                   "price": {
