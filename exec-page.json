@@ -121,66 +121,66 @@
           }
         ]
     },
-      "Synapse Z": {
+      "Zenith": {
           "accent": "#68AFF2",
-          "logo": "https://i.imgur.com/912JdCo.png",
+          "logo": "https://i.imgur.com/Q7emBX7.png",
           "items": [
-              {
-                  "name": "Synapse Z 7 Days",
-                  "purchasePaypal": "https://astra.cx/paypal/synz7",
-                  "purchase": "https://rbxproduct.mysellix.io/product/synapse-z-weekly-license",
-                  "purchaseCard": "https://astra.cx/synz7",
-                  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/synapse-z-weekly-license",
-                  "robux": {
-                      "purchase": "https://www.roblox.com/game-pass/1068351183",
-                      "verify": "https://bloxproducts.com/api/newcheckout/robux/synz7"
-                  },
-                  "price": {
-                      "$": 6.49,
-                      "⏣": 2300
-                  },
-                  "lifetime": false,
-                  "subscriptionPeriod": "7 Days",
-                  "device": "https://i.imgur.com/SqcIr7C.png",
-                  "features": [
-                      "*Cheapest",
-                      "Synapse Z for Windows",
-                      "Weekly license",
-                      "Free support",
-                      "!Strings Attached"
-                  ],
-                  "accent": "#388ce8",
-                  "banner": "https://i.imgur.com/92zrQpa.png"
-              },
-              {
-                  "name": "Synapse Z 30 Days",
-                  "purchasePaypal": "https://astra.cx/paypal/synz30",
-                  "purchase": "https://rbxproduct.mysellix.io/product/synapse-z-monthly-license",
-                  "purchaseCard": "https://astra.cx/synz30",
-                  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/synapse-z-monthly-license",
-                  "robux": {
-                      "purchase": "https://www.roblox.com/game-pass/1068630850",
-                      "verify": "https://bloxproducts.com/api/newcheckout/robux/synz30"
-                  },
-                  "price": {
-                      "$": 19.99,
-                      "⏣": 6900
-                  },
-                  "lifetime": false,
-                  "subscriptionPeriod": "30 Days",
-                  "device": "https://i.imgur.com/SqcIr7C.png",
-                  "features": [
-                      "*Most popular",
-                      "Synapse Z for Windows",
-                      "Monthly license",
-                      "Free support",
-                      "!Strings Attached"
-                  ],
-                  "accent": "#388ce8",
-                  "banner": "https://i.imgur.com/92zrQpa.png"
-              }
-          ]
-      },
+                {
+                    "name": "Zenith 7 Days",
+                    "purchasePaypal": "https://astra.cx/paypal/zenith7",
+                    "purchase": "https://zenith-win.mysellauth.com/product/zenith",
+                    "purchaseCard": "https://astra.cx/zenith7",
+                    "purchaseCashApp": "https://rbxproduct.mysellix.io/product/zenith-7-days",
+                    "robux": {
+                        "purchase": "https://www.roblox.com/game-pass/1081757569",
+                        "verify": "https://bloxproducts.com/api/newcheckout/robux/zenith7"
+                    },
+                    "price": {
+                        "$": 6.49,
+                        "⏣": 2300
+                    },
+                    "lifetime": false,
+                    "subscriptionPeriod": "7 Days",
+                    "device": "https://i.imgur.com/SqcIr7C.png",
+                    "features": [
+                        "*Cheapest",
+                        "Zenith for Windows",
+                        "Weekly license",
+                        "Free support",
+                        "Best exploit"
+                    ],
+                    "accent": "#388ce8",
+                    "banner": "https://i.imgur.com/I5Ij9Dx.png"
+                },
+                {
+                    "name": "Zenith 30 Days",
+                    "purchasePaypal": "https://astra.cx/paypal/zenith30",
+                    "purchase": "https://zenith-win.mysellauth.com/product/zenith",
+                    "purchaseCard": "https://astra.cx/zenith30",
+                    "purchaseCashApp": "https://rbxproduct.mysellix.io/product/zenith-7-days-copy",
+                    "robux": {
+                        "purchase": "https://www.roblox.com/game-pass/1081182133",
+                        "verify": "https://bloxproducts.com/api/newcheckout/robux/zenith30"
+                    },
+                    "price": {
+                        "$": 19.99,
+                        "⏣": 6900
+                    },
+                    "lifetime": false,
+                    "subscriptionPeriod": "30 Days",
+                    "device": "https://i.imgur.com/SqcIr7C.png",
+                    "features": [
+                        "*Most popular",
+                        "Zenith for Windows",
+                        "Monthly license",
+                        "Free support",
+                        "Best exploit"
+                    ],
+                    "accent": "#388ce8",
+                    "banner": "https://i.imgur.com/I5Ij9Dx.png"
+                }
+            ]
+        },
       "Matcha": {
           "accent": "#68AFF2",
           "logo": "https://i.imgur.com/ZSMHmQe.png",
