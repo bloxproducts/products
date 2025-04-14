@@ -1,569 +1,569 @@
 {
-  "accent-bottom": "#ffffff88",
-  "groups": {
-      "Wave": {
-          "accent": "#68AFF2",
-          "logo": "https://i.imgur.com/9GsSfTc.png",
-          "items": [
-              {
-                  "name": "Wave 7 Days",
-                  "purchasePaypal": "https://astra.cx/paypal/wave7",
-                  "purchase": "https://rbxproduct.mysellix.io/product/wave-7-days",
-                  "purchaseCard": "https://astra.cx/wave7",
-                  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/wave-7-days",
-                  "robux": {
-                      "purchase": "https://bloxproducts.com/soon?1143561358",
-                      "verify": "https://bloxproducts.com/api/newcheckout/robux/wave7"
-                  },
-                  "price": {
-                      "$": 7.49,
-                      "⏣": 2600
-                  },
-                  "lifetime": false,
-                  "subscriptionPeriod": "7 Days",
-                  "device": "https://i.imgur.com/SqcIr7C.png",
-                  "features": [
-                      "*Cheapest",
-                      "Wave for Windows",
-                      "Weekly license",
-                      "Free support",
-                      "!Strings Attached"
-                  ],
-                  "accent": "#388ce8",
-                  "banner": "https://i.imgur.com/njsuC6C.png"
-              },
-              {
-                  "name": "Wave 30 Days",
-                  "purchasePaypal": "https://astra.cx/paypal/wave30",
-                  "purchase": "https://rbxproduct.mysellix.io/product/wave-30-days",
-                  "purchaseCard": "https://astra.cx/wave30",
-                  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/wave-30-days",
-                  "robux": {
-                      "purchase": "https://bloxproducts.com/soon?1143495679",
-                      "verify": "https://bloxproducts.com/api/newcheckout/robux/wave30"
-                  },
-                  "price": {
-                      "$": 24.99,
-                      "⏣": 7700
-                  },
-                  "lifetime": false,
-                  "subscriptionPeriod": "30 Days",
-                  "device": "https://i.imgur.com/SqcIr7C.png",
-                  "features": [
-                      "*Most popular",
-                      "Wave for Windows",
-                      "Monthly license",
-                      "Free support",
-                      "!Strings Attached"
-                  ],
-                  "accent": "#388ce8",
-                  "banner": "https://i.imgur.com/njsuC6C.png"
-              }
-          ]
-      },
-      "AWP": {
-        "accent": "#68AFF2",
-        "logo": "https://i.imgur.com/MmNxRcl.png",
-        "items": [
-          {
-            "name": "7 Days",
-            "purchasePaypal": "https://astra.cx/paypal/awp7",
-            "purchase": "https://rbxproduct.mysellix.io/product/awp-7-days",
-            "purchaseCard": "https://astra.cx/awp7",
-            "purchaseCashApp": "https://rbxproduct.mysellix.io/product/awp-7-days",
-            "robux": {
-              "purchase": "https://bloxproducts.com/soon?1143691259",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/awp7"
-            },
-            "price": {
-              "$": 6.99,
-              "⏣": 2500
-            },
-            "lifetime": false,
-            "subscriptionPeriod": "7 Days",
-            "device": "https://i.imgur.com/SqcIr7C.png",
-            "features": [
-              "*Undetected",
-              "AWP for Windows",
-              "Weekly license",
-              "Free support",
-              "Easy setup"
-            ],
-            "accent": "#1B3F66",
-            "banner": "https://i.imgur.com/P385A5G.jpeg"
-          },
-          {
-            "name": "30 Days",
-            "purchasePaypal": "https://astra.cx/paypal/awp30",
-            "purchase": "https://rbxproduct.mysellix.io/product/awp-7-days-copy",
-            "purchaseCard": "https://astra.cx/awp30",
-            "purchaseCashApp": "https://rbxproduct.mysellix.io/product/awp-7-days-copy",
-            "robux": {
-              "purchase": "https://bloxproducts.com/soon?1143735259",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/awp30"
-            },
-            "price": {
-              "$": 23.99,
-              "⏣": 8700
-            },
-            "lifetime": false,
-            "subscriptionPeriod": "30 Days",
-            "device": "https://i.imgur.com/SqcIr7C.png",
-            "features": [
-              "*Undetected",
-              "AWP for Windows",
-              "Monthly license",
-              "Free support",
-              "Easy setup"
-            ],
-            "accent": "#1B3F66",
-            "banner": "https://i.imgur.com/P385A5G.jpeg"
-          }
-        ]
-    },
-      "Zenith": {
-          "accent": "#68AFF2",
-          "logo": "https://i.imgur.com/Q7emBX7.png",
-          "items": [
-                {
-                    "name": "Zenith 7 Days",
-                    "purchasePaypal": "https://astra.cx/paypal/zenith7",
-                    "purchase": "https://zenith-win.mysellauth.com/product/zenith",
-                    "purchaseCard": "https://astra.cx/zenith7",
-                    "purchaseCashApp": "https://rbxproduct.mysellix.io/product/zenith-7-days",
-                    "robux": {
-                        "purchase": "https://bloxproducts.com/soon?1143303718",
-                        "verify": "https://bloxproducts.com/api/newcheckout/robux/zenith7"
-                    },
-                    "price": {
-                        "$": 6.49,
-                        "⏣": 2300
-                    },
-                    "lifetime": false,
-                    "subscriptionPeriod": "7 Days",
-                    "device": "https://i.imgur.com/SqcIr7C.png",
-                    "features": [
-                        "*Cheapest",
-                        "Zenith for Windows",
-                        "Weekly license",
-                        "Free support",
-                        "Best exploit"
-                    ],
-                    "accent": "#388ce8",
-                    "banner": "https://i.imgur.com/I5Ij9Dx.png"
-                },
-                {
-                    "name": "Zenith 30 Days",
-                    "purchasePaypal": "https://astra.cx/paypal/zenith30",
-                    "purchase": "https://zenith-win.mysellauth.com/product/zenith",
-                    "purchaseCard": "https://astra.cx/zenith30",
-                    "purchaseCashApp": "https://rbxproduct.mysellix.io/product/zenith-7-days-copy",
-                    "robux": {
-                        "purchase": "https://bloxproducts.com/soon?1143393493",
-                        "verify": "https://bloxproducts.com/api/newcheckout/robux/zenith30"
-                    },
-                    "price": {
-                        "$": 19.99,
-                        "⏣": 6900
-                    },
-                    "lifetime": false,
-                    "subscriptionPeriod": "30 Days",
-                    "device": "https://i.imgur.com/SqcIr7C.png",
-                    "features": [
-                        "*Most popular",
-                        "Zenith for Windows",
-                        "Monthly license",
-                        "Free support",
-                        "Best exploit"
-                    ],
-                    "accent": "#388ce8",
-                    "banner": "https://i.imgur.com/I5Ij9Dx.png"
-                }
-            ]
-        },
-        "Ronin": {
-          "accent": "#68AFF2",
-          "logo": "https://i.imgur.com/0pNkBqx.png",
-          "items": [
-              {
-                  "name": "Lifetime",
-                  "purchasePaypal": "https://astra.cx/paypal/ronin",
-                  "purchase": "https://rbxproduct.mysellix.io/product/ronin-lifetime-674a033b62915",
-                  "purchaseCard": "https://astra.cx/ronin",
-                  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/ronin-lifetime-674a033b62915",
-                  "robux": {
-                      "purchase": "https://bloxproducts.com/soon?1143523485",
-                      "verify": "https://bloxproducts.com/api/newcheckout/robux/ronin"
-                  },
-                  "price": {
-                      "$": 8.99,
-                      "⏣": 3500
-                  },
-                  "lifetime": true,
-                  "device": "https://i.imgur.com/SqcIr7C.png",
-                  "features": [
-                      "*External",
-                      "OP Aimbot",
-                      "Lifetime License",
-                      "Easy Setup",
-                      "Undetectable"
-                  ],
-                  "accent": "#388ce8",
-                  "banner": "https://i.imgur.com/JaLbMim.png"
-              }
-          ]
-      },
-      "Matcha": {
-          "accent": "#68AFF2",
-          "logo": "https://i.imgur.com/ZSMHmQe.png",
-          "items": [
-              {
-                  "name": "Lifetime",
-                  "purchasePaypal": "https://astra.cx/paypal/matcha",
-                  "purchase": "https://rbxproduct.mysellix.io/product/matcha-lifetime-674a033b62915",
-                  "purchaseCard": "https://astra.cx/matcha",
-                  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/matcha-lifetime-674a033b62915",
-                  "robux": {
-                      "purchase": "https://bloxproducts.com/soon?1143523485",
-                      "verify": "https://bloxproducts.com/api/newcheckout/robux/matcha"
-                  },
-                  "price": {
-                      "$": 9.99,
-                      "⏣": 3500
-                  },
-                  "lifetime": true,
-                  "device": "https://i.imgur.com/SqcIr7C.png",
-                  "features": [
-                      "*External",
-                      "OP Aimbot",
-                      "Lifetime License",
-                      "Easy Setup",
-                      "Undetectable"
-                  ],
-                  "accent": "#388ce8",
-                  "banner": "https://i.imgur.com/JaLbMim.png"
-              }
-          ]
-      },
-      "Cryptic": {
-          "accent": "#68AFF2",
-          "logo": "https://i.imgur.com/DuK3xl7.png",
-          "items": [
-              {
-                  "name": "Cryptic 30 Days",
-                  "purchasePaypal": "https://astra.cx/paypal/cryptic30",
-                  "purchase": "https://rbxproduct.mysellix.io/product/cryptic",
-                  "purchaseCard": "https://astra.cx/cryptic30",
-                  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/cryptic",
-                  "robux": {
-                      "purchase": "https://bloxproducts.com/soon?1143125902",
-                      "verify": "https://bloxproducts.com/api/newcheckout/robux/cryptic30"
-                  },
-                  "price": {
-                      "$": 4.99,
-                      "⏣": 1820
-                  },
-                  "lifetime": false,
-                  "subscriptionPeriod": "30 Days",
-                  "device": "https://i.imgur.com/SWbRkbZ.png",
-                  "features": [
-                      "*Most popular",
-                      "Cryptic for all compatible devices",
-                      "Monthly license",
-                      "Free support",
-                      "!Strings Attached"
-                  ],
-                  "accent": "#1B3F66",
-                  "banner": "https://i.imgur.com/mZ2Syfv.png"
-              },
-              {
-                  "name": "Cryptic 90 Days",
-                  "purchasePaypal": "https://astra.cx/paypal/cryptic90",
-                  "purchase": "https://rbxproduct.mysellix.io/product/cryptic-copy",
-                  "purchaseCard": "https://astra.cx/cryptic90",
-                  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/cryptic-copy",
-                  "robux": {
-                      "purchase": "https://bloxproducts.com/soon?1143479386",
-                      "verify": "https://bloxproducts.com/api/newcheckout/robux/cryptic90"
-                  },
-                  "price": {
-                      "$": 9.99,
-                      "⏣": 3500
-                  },
-                  "lifetime": false,
-                  "subscriptionPeriod": "90 Days",
-                  "device": "https://i.imgur.com/SWbRkbZ.png",
-                  "features": [
-                      "Undetected",
-                      "Cryptic for all compatible devices",
-                      "Quarterly license",
-                      "Free support",
-                      "!Strings Attached"
-                  ],
-                  "accent": "#1B3F66",
-                  "banner": "https://i.imgur.com/mZ2Syfv.png"
-              },
-              {
-                  "name": "Cryptic Lifetime",
-                  "purchasePaypal": "https://astra.cx/paypal/crypticlife",
-                  "purchase": "https://rbxproduct.mysellix.io/product/cryptic-90d-license-copy",
-                  "purchaseCard": "https://astra.cx/crypticlife",
-                  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/cryptic-90d-license-copy",
-                  "robux": {
-                      "purchase": "https://bloxproducts.com/soon?1143393506",
-                      "verify": "https://bloxproducts.com/api/newcheckout/robux/crypticlife"
-                  },
-                  "price": {
-                      "$": 23.99,
-                      "⏣": 6900
-                  },
-                  "lifetime": true,
-                  "device": "https://i.imgur.com/SWbRkbZ.png",
-                  "features": [
-                      "*Most value",
-                      "Cryptic for all compatible devices",
-                      "Lifetime License",
-                      "Free support",
-                      "!Strings Attached"
-                  ],
-                  "accent": "#1B3F66",
-                  "banner": "https://i.imgur.com/mZ2Syfv.png"
-              }
-          ]
-      },
-      "Codex": {
-          "accent": "#68AFF2",
-          "logo": "https://i.imgur.com/nkcJpv3.png",
-          "items": [
-              {
-                  "name": "Codex 30 Days",
-                  "purchasePaypal": "https://astra.cx/paypal/codex30",
-                  "purchase": "https://rbxproduct.mysellix.io/product/66452f49c1a52",
-                  "purchaseCard": "https://astra.cx/codex30",
-                  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/66452f49c1a52",
-                  "robux": {
-                      "purchase": "https://bloxproducts.com/soon?1143723109",
-                      "verify": "https://bloxproducts.com/api/newcheckout/robux/codex30"
-                  },
-                  "price": {
-                      "$": 4.97,
-                      "⏣": 2500
-                  },
-                  "lifetime": false,
-                  "subscriptionPeriod": "30 Days",
-                  "device": "https://i.imgur.com/SWbRkbZ.png",
-                  "features": [
-                      "*Most popular",
-                      "Codex for all compatible devices",
-                      "Monthly license",
-                      "Free support",
-                      "!Strings Attached"
-                  ],
-                  "accent": "#1B3F66",
-                  "banner": "https://i.imgur.com/mZ2Syfv.png"
-              },
-              {
-                  "name": "Codex 90 Days",
-                  "purchasePaypal": "https://astra.cx/paypal/codex90",
-                  "purchase": "https://rbxproduct.mysellix.io/product/66452f6733d63",
-                  "purchaseCard": "https://astra.cx/codex90",
-                  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/66452f6733d63",
-                  "robux": {
-                      "purchase": "https://bloxproducts.com/soon?1143505611",
-                      "verify": "https://bloxproducts.com/api/newcheckout/robux/codex90"
-                  },
-                  "price": {
-                      "$": 9.97,
-                      "⏣": 5000
-                  },
-                  "lifetime": false,
-                  "subscriptionPeriod": "90 Days",
-                  "device": "https://i.imgur.com/SWbRkbZ.png",
-                  "features": [
-                      "Undetected",
-                      "Codex for all compatible devices",
-                      "Quarterly license",
-                      "Free support",
-                      "!Strings Attached"
-                  ],
-                  "accent": "#1B3F66",
-                  "banner": "https://i.imgur.com/mZ2Syfv.png"
-              },
-              {
-                  "name": "Codex Lifetime",
-                  "purchasePaypal": "https://astra.cx/paypal/codexlife",
-                  "purchase": "https://rbxproduct.mysellix.io/product/66452fc8ec9b2",
-                  "purchaseCard": "https://astra.cx/codexlife",
-                  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/66452fc8ec9b2",
-                  "robux": {
-                      "purchase": "https://bloxproducts.com/soon?1143479391",
-                      "verify": "https://bloxproducts.com/api/newcheckout/robux/codexlife"
-                  },
-                  "price": {
-                      "$": 22.47,
-                      "⏣": 10000
-                  },
-                  "lifetime": true,
-                  "device": "https://i.imgur.com/SWbRkbZ.png",
-                  "features": [
-                      "*Most value",
-                      "Codex for all compatible devices",
-                      "Lifetime License",
-                      "Free support",
-                      "!Strings Attached"
-                  ],
-                  "accent": "#1B3F66",
-                  "banner": "https://i.imgur.com/mZ2Syfv.png"
-              }
-          ]
-      },
-      "Aureus": {
-          "accent": "#68AFF2",
-          "logo": "https://i.imgur.com/eHE7vxm.png",
-          "items": [
-              {
-                  "name": "Standard",
-                  "purchasePaypal": "https://astra.cx/paypal/aureusstandard",
-                  "purchase": "https://rbxproduct.mysellix.io/product/aureus-standard-lifetime",
-                  "purchaseCard": "https://astra.cx/aureusstandard",
-                  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/aureus-standard-lifetime",
-                  "robux": {
-                      "purchase": "https://bloxproducts.com/soon?1143641313",
-                      "verify": "https://bloxproducts.com/api/newcheckout/robux/aureusstandard"
-                  },
-                  "price": {
-                      "$": 14.99,
-                      "⏣": 5200
-                  },
-                  "lifetime": true,
-                  "device": "https://i.imgur.com/5VHh2oY.png",
-                  "features": [
-                      "*Affordable",
-                      "Budget-friendly version",
-                      "Lifetime License",
-                      "Free support",
-                      "Undetectable"
-                  ],
-                  "accent": "#000000",
-                  "banner": "https://i.imgur.com/4uqcsKI.png"
-              },
-              {
-                  "name": "Premium",
-                  "purchasePaypal": "https://astra.cx/paypal/aureuspremium",
-                  "purchase": "https://rbxproduct.mysellix.io/product/aureus-premium-lifetime",
-                  "purchaseCard": "https://astra.cx/aureuspremium",
-                  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/aureus-premium-lifetime",
-                  "robux": {
-                      "purchase": "https://bloxproducts.com/soon?1143621371",
-                      "verify": "https://bloxproducts.com/api/newcheckout/robux/aureuspremium"
-                  },
-                  "price": {
-                      "$": 49.99,
-                      "⏣": 17300
-                  },
-                  "lifetime": true,
-                  "device": "https://i.imgur.com/5VHh2oY.png",
-                  "features": [
-                      "*Overpowered",
-                      "Best Serverside",
-                      "Lifetime License",
-                      "Free support",
-                      "Undetectable"
-                  ],
-                  "accent": "#000000",
-                  "banner": "https://i.imgur.com/4uqcsKI.png"
-              }
-          ]
-      },
-      "Exoliner": {
-          "accent": "#68AFF2",
-          "logo": "https://i.imgur.com/Q3Eo1ff.png",
-          "items": [
-              {
-                  "name": "Standard",
-                  "purchasePaypal": "https://astra.cx/paypal/exolinerstandard",
-                  "purchase": "https://rbxproduct.mysellix.io/product/exoliner-standard-lifetime",
-                  "purchaseCard": "https://astra.cx/exolinerstandard",
-                  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/exoliner-standard-lifetime",
-                  "robux": {
-                      "purchase": "https://bloxproducts.com/soon?1156141814",
-                      "verify": "https://bloxproducts.com/api/newcheckout/robux/exolinerstandard"
-                  },
-                  "price": {
-                      "$": 9.99,
-                      "⏣": 3500
-                  },
-                  "lifetime": true,
-                  "device": "https://i.imgur.com/5VHh2oY.png",
-                  "features": [
-                      "*Cheap",
-                      "Budget-friendly SS",
-                      "Lifetime License",
-                      "Free support",
-                      "Undetectable"
-                  ],
-                  "accent": "#000000",
-                  "banner": "https://i.imgur.com/4uqcsKI.png"
-              },
-              {
-                  "name": "Premium",
-                  "purchasePaypal": "https://astra.cx/paypal/exolinerpremium",
-                  "purchase": "https://rbxproduct.mysellix.io/product/exoliner-premium-lifetime",
-                  "purchaseCard": "https://astra.cx/exolinerpremium",
-                  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/exoliner-premium-lifetime",
-                  "robux": {
-                      "purchase": "https://bloxproducts.com/soon?1156073783",
-                      "verify": "https://bloxproducts.com/api/newcheckout/robux/exolinerpremium"
-                  },
-                  "price": {
-                      "$": 39.99,
-                      "⏣": 14000
-                  },
-                  "lifetime": true,
-                  "device": "https://i.imgur.com/5VHh2oY.png",
-                  "features": [
-                      "*Overpowered",
-                      "Best value Serverside",
-                      "Lifetime License",
-                      "Free support",
-                      "Undetectable"
-                  ],
-                  "accent": "#000000",
-                  "banner": "https://i.imgur.com/4uqcsKI.png"
-              }
-          ]
-      },
-      "MacSploit": {
-          "accent": "#68AFF2",
-          "logo": "https://i.imgur.com/7Ph3p74.png",
-          "items": [
-              {
-                  "name": "MacSploit Lifetime",
-                  "purchasePaypal": "https://astra.cx/paypal/macsploit",
-                  "purchase": "https://rbxproduct.mysellix.io/product/66452fc8ec9b2",
-                  "purchaseCard": "https://astra.cx/macsploit",
-                  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/66452fc8ec9b2",
-                  "robux": {
-                      "purchase": "https://bloxproducts.com/soon?1143425540",
-                      "verify": "https://bloxproducts.com/api/newcheckout/robux/macsploit"
-                  },
-                  "price": {
-                      "$": 9.99,
-                      "⏣": 3500
-                  },
-                  "lifetime": true,
-                      "device": "https://i.imgur.com/VmemrA5.png",
-                      "features": [
-                          "*MacOS execution",
-                          "Cheapest on market",
-                          "Lifetime License",
-                          "Free support",
-                          "!Strings Attached"
-                      ],
-                      "accent": "#1B3F66",
-                      "banner": "https://i.imgur.com/mZ2Syfv.png"
-              }
-          ]
-      }
+	"accent-bottom": "#ffffff88",
+	"groups": {
+		"Wave": {
+			"accent": "#68AFF2",
+			"logo": "https://i.imgur.com/9GsSfTc.png",
+			"items": [
+				{
+					"name": "Wave 7 Days",
+					"purchasePaypal": "https://astra.cx/paypal/wave7",
+					"purchase": "https://rbxproduct.mysellix.io/product/wave-7-days",
+					"purchaseCard": "https://astra.cx/wave7",
+					"purchaseCashApp": "https://rbxproduct.mysellix.io/product/wave-7-days",
+					"robux": {
+						"purchase": "https://bloxproducts.com/soon?1158122595",
+						"verify": "https://bloxproducts.com/api/newcheckout/robux/wave7"
+					},
+					"price": {
+						"$": 7.49,
+						"⏣": 2600
+					},
+					"lifetime": false,
+					"subscriptionPeriod": "7 Days",
+					"device": "https://i.imgur.com/SqcIr7C.png",
+					"features": [
+						"*Cheapest",
+						"Wave for Windows",
+						"Weekly license",
+						"Free support",
+						"!Strings Attached"
+					],
+					"accent": "#388ce8",
+					"banner": "https://i.imgur.com/njsuC6C.png"
+				},
+				{
+					"name": "Wave 30 Days",
+					"purchasePaypal": "https://astra.cx/paypal/wave30",
+					"purchase": "https://rbxproduct.mysellix.io/product/wave-30-days",
+					"purchaseCard": "https://astra.cx/wave30",
+					"purchaseCashApp": "https://rbxproduct.mysellix.io/product/wave-30-days",
+					"robux": {
+						"purchase": "https://bloxproducts.com/soon?1158476529",
+						"verify": "https://bloxproducts.com/api/newcheckout/robux/wave30"
+					},
+					"price": {
+						"$": 24.99,
+						"⏣": 7700
+					},
+					"lifetime": false,
+					"subscriptionPeriod": "30 Days",
+					"device": "https://i.imgur.com/SqcIr7C.png",
+					"features": [
+						"*Most popular",
+						"Wave for Windows",
+						"Monthly license",
+						"Free support",
+						"!Strings Attached"
+					],
+					"accent": "#388ce8",
+					"banner": "https://i.imgur.com/njsuC6C.png"
+				}
+			]
+		},
+		"AWP": {
+		  "accent": "#68AFF2",
+		  "logo": "https://i.imgur.com/MmNxRcl.png",
+		  "items": [
+			{
+			  "name": "7 Days",
+			  "purchasePaypal": "https://astra.cx/paypal/awp7",
+			  "purchase": "https://rbxproduct.mysellix.io/product/awp-7-days",
+			  "purchaseCard": "https://astra.cx/awp7",
+			  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/awp-7-days",
+			  "robux": {
+				"purchase": "https://bloxproducts.com/soon?1158214550",
+				"verify": "https://bloxproducts.com/api/newcheckout/robux/awp7"
+			  },
+			  "price": {
+				"$": 6.99,
+				"⏣": 2500
+			  },
+			  "lifetime": false,
+			  "subscriptionPeriod": "7 Days",
+			  "device": "https://i.imgur.com/SqcIr7C.png",
+			  "features": [
+				"*Undetected",
+				"AWP for Windows",
+				"Weekly license",
+				"Free support",
+				"Easy setup"
+			  ],
+			  "accent": "#1B3F66",
+			  "banner": "https://i.imgur.com/P385A5G.jpeg"
+			},
+			{
+			  "name": "30 Days",
+			  "purchasePaypal": "https://astra.cx/paypal/awp30",
+			  "purchase": "https://rbxproduct.mysellix.io/product/awp-7-days-copy",
+			  "purchaseCard": "https://astra.cx/awp30",
+			  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/awp-7-days-copy",
+			  "robux": {
+				"purchase": "https://bloxproducts.com/soon?1158072613",
+				"verify": "https://bloxproducts.com/api/newcheckout/robux/awp30"
+			  },
+			  "price": {
+				"$": 23.99,
+				"⏣": 8700
+			  },
+			  "lifetime": false,
+			  "subscriptionPeriod": "30 Days",
+			  "device": "https://i.imgur.com/SqcIr7C.png",
+			  "features": [
+				"*Undetected",
+				"AWP for Windows",
+				"Monthly license",
+				"Free support",
+				"Easy setup"
+			  ],
+			  "accent": "#1B3F66",
+			  "banner": "https://i.imgur.com/P385A5G.jpeg"
+			}
+		  ]
+	  },
+		"Zenith": {
+			"accent": "#68AFF2",
+			"logo": "https://i.imgur.com/Q7emBX7.png",
+			"items": [
+				  {
+					  "name": "Zenith 7 Days",
+					  "purchasePaypal": "https://astra.cx/paypal/zenith7",
+					  "purchase": "https://zenith-win.mysellauth.com/product/zenith",
+					  "purchaseCard": "https://astra.cx/zenith7",
+					  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/zenith-7-days",
+					  "robux": {
+						  "purchase": "https://bloxproducts.com/soon?1158282658",
+						  "verify": "https://bloxproducts.com/api/newcheckout/robux/zenith7"
+					  },
+					  "price": {
+						  "$": 6.49,
+						  "⏣": 2300
+					  },
+					  "lifetime": false,
+					  "subscriptionPeriod": "7 Days",
+					  "device": "https://i.imgur.com/SqcIr7C.png",
+					  "features": [
+						  "*Cheapest",
+						  "Zenith for Windows",
+						  "Weekly license",
+						  "Free support",
+						  "Best exploit"
+					  ],
+					  "accent": "#388ce8",
+					  "banner": "https://i.imgur.com/I5Ij9Dx.png"
+				  },
+				  {
+					  "name": "Zenith 30 Days",
+					  "purchasePaypal": "https://astra.cx/paypal/zenith30",
+					  "purchase": "https://zenith-win.mysellauth.com/product/zenith",
+					  "purchaseCard": "https://astra.cx/zenith30",
+					  "purchaseCashApp": "https://rbxproduct.mysellix.io/product/zenith-7-days-copy",
+					  "robux": {
+						  "purchase": "https://bloxproducts.com/soon?1158332605",
+						  "verify": "https://bloxproducts.com/api/newcheckout/robux/zenith30"
+					  },
+					  "price": {
+						  "$": 19.99,
+						  "⏣": 6900
+					  },
+					  "lifetime": false,
+					  "subscriptionPeriod": "30 Days",
+					  "device": "https://i.imgur.com/SqcIr7C.png",
+					  "features": [
+						  "*Most popular",
+						  "Zenith for Windows",
+						  "Monthly license",
+						  "Free support",
+						  "Best exploit"
+					  ],
+					  "accent": "#388ce8",
+					  "banner": "https://i.imgur.com/I5Ij9Dx.png"
+				  }
+			  ]
+		  },
+		  "Ronin": {
+			"accent": "#68AFF2",
+			"logo": "https://i.imgur.com/0pNkBqx.png",
+			"items": [
+				{
+					"name": "Lifetime",
+					"purchasePaypal": "https://astra.cx/paypal/ronin",
+					"purchase": "https://rbxproduct.mysellix.io/product/ronin-lifetime-674a033b62915",
+					"purchaseCard": "https://astra.cx/ronin",
+					"purchaseCashApp": "https://rbxproduct.mysellix.io/product/ronin-lifetime-674a033b62915",
+					"robux": {
+						"purchase": "https://bloxproducts.com/soon?1158532466",
+						"verify": "https://bloxproducts.com/api/newcheckout/robux/ronin"
+					},
+					"price": {
+						"$": 8.99,
+						"⏣": 3500
+					},
+					"lifetime": true,
+					"device": "https://i.imgur.com/SqcIr7C.png",
+					"features": [
+						"*External",
+						"OP Aimbot",
+						"Lifetime License",
+						"Easy Setup",
+						"Undetectable"
+					],
+					"accent": "#388ce8",
+					"banner": "https://i.imgur.com/JaLbMim.png"
+				}
+			]
+		},
+		"Matcha": {
+			"accent": "#68AFF2",
+			"logo": "https://i.imgur.com/ZSMHmQe.png",
+			"items": [
+				{
+					"name": "Lifetime",
+					"purchasePaypal": "https://astra.cx/paypal/matcha",
+					"purchase": "https://rbxproduct.mysellix.io/product/matcha-lifetime-674a033b62915",
+					"purchaseCard": "https://astra.cx/matcha",
+					"purchaseCashApp": "https://rbxproduct.mysellix.io/product/matcha-lifetime-674a033b62915",
+					"robux": {
+						"purchase": "https://bloxproducts.com/soon?1158402603",
+						"verify": "https://bloxproducts.com/api/newcheckout/robux/matcha"
+					},
+					"price": {
+						"$": 9.99,
+						"⏣": 3500
+					},
+					"lifetime": true,
+					"device": "https://i.imgur.com/SqcIr7C.png",
+					"features": [
+						"*External",
+						"OP Aimbot",
+						"Lifetime License",
+						"Easy Setup",
+						"Undetectable"
+					],
+					"accent": "#388ce8",
+					"banner": "https://i.imgur.com/JaLbMim.png"
+				}
+			]
+		},
+		"Cryptic": {
+			"accent": "#68AFF2",
+			"logo": "https://i.imgur.com/DuK3xl7.png",
+			"items": [
+				{
+					"name": "Cryptic 30 Days",
+					"purchasePaypal": "https://astra.cx/paypal/cryptic30",
+					"purchase": "https://rbxproduct.mysellix.io/product/cryptic",
+					"purchaseCard": "https://astra.cx/cryptic30",
+					"purchaseCashApp": "https://rbxproduct.mysellix.io/product/cryptic",
+					"robux": {
+						"purchase": "https://bloxproducts.com/soon?1158008604",
+						"verify": "https://bloxproducts.com/api/newcheckout/robux/cryptic30"
+					},
+					"price": {
+						"$": 4.99,
+						"⏣": 1820
+					},
+					"lifetime": false,
+					"subscriptionPeriod": "30 Days",
+					"device": "https://i.imgur.com/SWbRkbZ.png",
+					"features": [
+						"*Most popular",
+						"Cryptic for all compatible devices",
+						"Monthly license",
+						"Free support",
+						"!Strings Attached"
+					],
+					"accent": "#1B3F66",
+					"banner": "https://i.imgur.com/mZ2Syfv.png"
+				},
+				{
+					"name": "Cryptic 90 Days",
+					"purchasePaypal": "https://astra.cx/paypal/cryptic90",
+					"purchase": "https://rbxproduct.mysellix.io/product/cryptic-copy",
+					"purchaseCard": "https://astra.cx/cryptic90",
+					"purchaseCashApp": "https://rbxproduct.mysellix.io/product/cryptic-copy",
+					"robux": {
+						"purchase": "https://bloxproducts.com/soon?1158312398",
+						"verify": "https://bloxproducts.com/api/newcheckout/robux/cryptic90"
+					},
+					"price": {
+						"$": 9.99,
+						"⏣": 3500
+					},
+					"lifetime": false,
+					"subscriptionPeriod": "90 Days",
+					"device": "https://i.imgur.com/SWbRkbZ.png",
+					"features": [
+						"Undetected",
+						"Cryptic for all compatible devices",
+						"Quarterly license",
+						"Free support",
+						"!Strings Attached"
+					],
+					"accent": "#1B3F66",
+					"banner": "https://i.imgur.com/mZ2Syfv.png"
+				},
+				{
+					"name": "Cryptic Lifetime",
+					"purchasePaypal": "https://astra.cx/paypal/crypticlife",
+					"purchase": "https://rbxproduct.mysellix.io/product/cryptic-90d-license-copy",
+					"purchaseCard": "https://astra.cx/crypticlife",
+					"purchaseCashApp": "https://rbxproduct.mysellix.io/product/cryptic-90d-license-copy",
+					"robux": {
+						"purchase": "https://bloxproducts.com/soon?1158064449",
+						"verify": "https://bloxproducts.com/api/newcheckout/robux/crypticlife"
+					},
+					"price": {
+						"$": 23.99,
+						"⏣": 6900
+					},
+					"lifetime": true,
+					"device": "https://i.imgur.com/SWbRkbZ.png",
+					"features": [
+						"*Most value",
+						"Cryptic for all compatible devices",
+						"Lifetime License",
+						"Free support",
+						"!Strings Attached"
+					],
+					"accent": "#1B3F66",
+					"banner": "https://i.imgur.com/mZ2Syfv.png"
+				}
+			]
+		},
+		"Codex": {
+			"accent": "#68AFF2",
+			"logo": "https://i.imgur.com/nkcJpv3.png",
+			"items": [
+				{
+					"name": "Codex 30 Days",
+					"purchasePaypal": "https://astra.cx/paypal/codex30",
+					"purchase": "https://rbxproduct.mysellix.io/product/66452f49c1a52",
+					"purchaseCard": "https://astra.cx/codex30",
+					"purchaseCashApp": "https://rbxproduct.mysellix.io/product/66452f49c1a52",
+					"robux": {
+						"purchase": "https://bloxproducts.com/soon?1158424647",
+						"verify": "https://bloxproducts.com/api/newcheckout/robux/codex30"
+					},
+					"price": {
+						"$": 4.97,
+						"⏣": 2500
+					},
+					"lifetime": false,
+					"subscriptionPeriod": "30 Days",
+					"device": "https://i.imgur.com/SWbRkbZ.png",
+					"features": [
+						"*Most popular",
+						"Codex for all compatible devices",
+						"Monthly license",
+						"Free support",
+						"!Strings Attached"
+					],
+					"accent": "#1B3F66",
+					"banner": "https://i.imgur.com/mZ2Syfv.png"
+				},
+				{
+					"name": "Codex 90 Days",
+					"purchasePaypal": "https://astra.cx/paypal/codex90",
+					"purchase": "https://rbxproduct.mysellix.io/product/66452f6733d63",
+					"purchaseCard": "https://astra.cx/codex90",
+					"purchaseCashApp": "https://rbxproduct.mysellix.io/product/66452f6733d63",
+					"robux": {
+						"purchase": "https://bloxproducts.com/soon?1158578509",
+						"verify": "https://bloxproducts.com/api/newcheckout/robux/codex90"
+					},
+					"price": {
+						"$": 9.97,
+						"⏣": 5000
+					},
+					"lifetime": false,
+					"subscriptionPeriod": "90 Days",
+					"device": "https://i.imgur.com/SWbRkbZ.png",
+					"features": [
+						"Undetected",
+						"Codex for all compatible devices",
+						"Quarterly license",
+						"Free support",
+						"!Strings Attached"
+					],
+					"accent": "#1B3F66",
+					"banner": "https://i.imgur.com/mZ2Syfv.png"
+				},
+				{
+					"name": "Codex Lifetime",
+					"purchasePaypal": "https://astra.cx/paypal/codexlife",
+					"purchase": "https://rbxproduct.mysellix.io/product/66452fc8ec9b2",
+					"purchaseCard": "https://astra.cx/codexlife",
+					"purchaseCashApp": "https://rbxproduct.mysellix.io/product/66452fc8ec9b2",
+					"robux": {
+						"purchase": "https://bloxproducts.com/soon?1158006821",
+						"verify": "https://bloxproducts.com/api/newcheckout/robux/codexlife"
+					},
+					"price": {
+						"$": 22.47,
+						"⏣": 10000
+					},
+					"lifetime": true,
+					"device": "https://i.imgur.com/SWbRkbZ.png",
+					"features": [
+						"*Most value",
+						"Codex for all compatible devices",
+						"Lifetime License",
+						"Free support",
+						"!Strings Attached"
+					],
+					"accent": "#1B3F66",
+					"banner": "https://i.imgur.com/mZ2Syfv.png"
+				}
+			]
+		},
+		"Aureus": {
+			"accent": "#68AFF2",
+			"logo": "https://i.imgur.com/eHE7vxm.png",
+			"items": [
+				{
+					"name": "Standard",
+					"purchasePaypal": "https://astra.cx/paypal/aureusstandard",
+					"purchase": "https://rbxproduct.mysellix.io/product/aureus-standard-lifetime",
+					"purchaseCard": "https://astra.cx/aureusstandard",
+					"purchaseCashApp": "https://rbxproduct.mysellix.io/product/aureus-standard-lifetime",
+					"robux": {
+						"purchase": "https://bloxproducts.com/soon?1158230552",
+						"verify": "https://bloxproducts.com/api/newcheckout/robux/aureusstandard"
+					},
+					"price": {
+						"$": 14.99,
+						"⏣": 5200
+					},
+					"lifetime": true,
+					"device": "https://i.imgur.com/5VHh2oY.png",
+					"features": [
+						"*Affordable",
+						"Budget-friendly version",
+						"Lifetime License",
+						"Free support",
+						"Undetectable"
+					],
+					"accent": "#000000",
+					"banner": "https://i.imgur.com/4uqcsKI.png"
+				},
+				{
+					"name": "Premium",
+					"purchasePaypal": "https://astra.cx/paypal/aureuspremium",
+					"purchase": "https://rbxproduct.mysellix.io/product/aureus-premium-lifetime",
+					"purchaseCard": "https://astra.cx/aureuspremium",
+					"purchaseCashApp": "https://rbxproduct.mysellix.io/product/aureus-premium-lifetime",
+					"robux": {
+						"purchase": "https://bloxproducts.com/soon?1157942737",
+						"verify": "https://bloxproducts.com/api/newcheckout/robux/aureuspremium"
+					},
+					"price": {
+						"$": 49.99,
+						"⏣": 17300
+					},
+					"lifetime": true,
+					"device": "https://i.imgur.com/5VHh2oY.png",
+					"features": [
+						"*Overpowered",
+						"Best Serverside",
+						"Lifetime License",
+						"Free support",
+						"Undetectable"
+					],
+					"accent": "#000000",
+					"banner": "https://i.imgur.com/4uqcsKI.png"
+				}
+			]
+		},
+		"Exoliner": {
+			"accent": "#68AFF2",
+			"logo": "https://i.imgur.com/Q3Eo1ff.png",
+			"items": [
+				{
+					"name": "Standard",
+					"purchasePaypal": "https://astra.cx/paypal/exolinerstandard",
+					"purchase": "https://rbxproduct.mysellix.io/product/exoliner-standard-lifetime",
+					"purchaseCard": "https://astra.cx/exolinerstandard",
+					"purchaseCashApp": "https://rbxproduct.mysellix.io/product/exoliner-standard-lifetime",
+					"robux": {
+						"purchase": "https://bloxproducts.com/soon?1158398577",
+						"verify": "https://bloxproducts.com/api/newcheckout/robux/exolinerstandard"
+					},
+					"price": {
+						"$": 9.99,
+						"⏣": 3500
+					},
+					"lifetime": true,
+					"device": "https://i.imgur.com/5VHh2oY.png",
+					"features": [
+						"*Cheap",
+						"Budget-friendly SS",
+						"Lifetime License",
+						"Free support",
+						"Undetectable"
+					],
+					"accent": "#000000",
+					"banner": "https://i.imgur.com/4uqcsKI.png"
+				},
+				{
+					"name": "Premium",
+					"purchasePaypal": "https://astra.cx/paypal/exolinerpremium",
+					"purchase": "https://rbxproduct.mysellix.io/product/exoliner-premium-lifetime",
+					"purchaseCard": "https://astra.cx/exolinerpremium",
+					"purchaseCashApp": "https://rbxproduct.mysellix.io/product/exoliner-premium-lifetime",
+					"robux": {
+						"purchase": "https://bloxproducts.com/soon?1158214554",
+						"verify": "https://bloxproducts.com/api/newcheckout/robux/exolinerpremium"
+					},
+					"price": {
+						"$": 39.99,
+						"⏣": 14000
+					},
+					"lifetime": true,
+					"device": "https://i.imgur.com/5VHh2oY.png",
+					"features": [
+						"*Overpowered",
+						"Best value Serverside",
+						"Lifetime License",
+						"Free support",
+						"Undetectable"
+					],
+					"accent": "#000000",
+					"banner": "https://i.imgur.com/4uqcsKI.png"
+				}
+			]
+		},
+		"MacSploit": {
+			"accent": "#68AFF2",
+			"logo": "https://i.imgur.com/7Ph3p74.png",
+			"items": [
+				{
+					"name": "MacSploit Lifetime",
+					"purchasePaypal": "https://astra.cx/paypal/macsploit",
+					"purchase": "https://rbxproduct.mysellix.io/product/66452fc8ec9b2",
+					"purchaseCard": "https://astra.cx/macsploit",
+					"purchaseCashApp": "https://rbxproduct.mysellix.io/product/66452fc8ec9b2",
+					"robux": {
+						"purchase": "https://bloxproducts.com/soon?1158246558",
+						"verify": "https://bloxproducts.com/api/newcheckout/robux/macsploit"
+					},
+					"price": {
+						"$": 9.99,
+						"⏣": 3500
+					},
+					"lifetime": true,
+						"device": "https://i.imgur.com/VmemrA5.png",
+						"features": [
+							"*MacOS execution",
+							"Cheapest on market",
+							"Lifetime License",
+							"Free support",
+							"!Strings Attached"
+						],
+						"accent": "#1B3F66",
+						"banner": "https://i.imgur.com/mZ2Syfv.png"
+				}
+			]
+		}
+	}
   }
-}
