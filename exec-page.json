@@ -12,7 +12,7 @@
 					"purchaseCard": "https://astra.cx/wave7",
 					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/wave",
 					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1158122595",
+						"purchase": "https://bloxproducts.com/maintenance?1158122595",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/wave7"
 					},
 					"price": {
@@ -39,7 +39,7 @@
 					"purchaseCard": "https://astra.cx/wave30",
 					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/wave",
 					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1158476529",
+						"purchase": "https://bloxproducts.com/maintenance?1158476529",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/wave30"
 					},
 					"price": {
@@ -72,7 +72,7 @@
 			  "purchaseCard": "https://astra.cx/awp7",
 			  "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/awp",
 			  "robux": {
-				"purchase": "https://www.roblox.com/game-pass/1158214550",
+				"purchase": "https://bloxproducts.com/maintenance?1158214550",
 				"verify": "https://bloxproducts.com/api/newcheckout/robux/awp7"
 			  },
 			  "price": {
@@ -99,7 +99,7 @@
 			  "purchaseCard": "https://astra.cx/awp30",
 			  "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/awp",
 			  "robux": {
-				"purchase": "https://www.roblox.com/game-pass/1158072613",
+				"purchase": "https://bloxproducts.com/maintenance?1158072613",
 				"verify": "https://bloxproducts.com/api/newcheckout/robux/awp30"
 			  },
 			  "price": {
@@ -132,7 +132,7 @@
 					  "purchaseCard": "https://astra.cx/zenith7",
 					  "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/zenith",
 					  "robux": {
-						  "purchase": "https://www.roblox.com/game-pass/1158282658",
+						  "purchase": "https://bloxproducts.com/maintenance?1158282658",
 						  "verify": "https://bloxproducts.com/api/newcheckout/robux/zenith7"
 					  },
 					  "price": {
@@ -159,7 +159,7 @@
 					  "purchaseCard": "https://astra.cx/zenith30",
 					  "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/zenith",
 					  "robux": {
-						  "purchase": "https://www.roblox.com/game-pass/1158332605",
+						  "purchase": "https://bloxproducts.com/maintenance?1158332605",
 						  "verify": "https://bloxproducts.com/api/newcheckout/robux/zenith30"
 					  },
 					  "price": {
@@ -192,7 +192,7 @@
 					"purchaseCard": "https://astra.cx/ronin",
 					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/ronin",
 					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1158532466",
+						"purchase": "https://bloxproducts.com/maintenance?1158532466",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/ronin"
 					},
 					"price": {
@@ -224,7 +224,7 @@
 					"purchaseCard": "https://astra.cx/matcha",
 					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/matcha",
 					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1158402603",
+						"purchase": "https://bloxproducts.com/maintenance?1158402603",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/matcha"
 					},
 					"price": {
@@ -256,7 +256,7 @@
 					"purchaseCard": "https://astra.cx/cryptic30",
 					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/cryptic",
 					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1158008604",
+						"purchase": "https://bloxproducts.com/maintenance?1158008604",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/cryptic30"
 					},
 					"price": {
@@ -283,7 +283,7 @@
 					"purchaseCard": "https://astra.cx/cryptic90",
 					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/cryptic",
 					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1158312398",
+						"purchase": "https://bloxproducts.com/maintenance?1158312398",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/cryptic90"
 					},
 					"price": {
@@ -310,7 +310,7 @@
 					"purchaseCard": "https://astra.cx/crypticlife",
 					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/cryptic",
 					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1158064449",
+						"purchase": "https://bloxproducts.com/maintenance?1158064449",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/crypticlife"
 					},
 					"price": {
@@ -342,7 +342,7 @@
 					"purchaseCard": "https://astra.cx/fluxanmonth",
 					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/fluxus",
 					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1240960834",
+						"purchase": "https://bloxproducts.com/maintenance?1240960834",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/fluxanmonth"
 					},
 					"price": {
@@ -369,7 +369,7 @@
 					"purchaseCard": "https://astra.cx/fluxanlife",
 					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/fluxus",
 					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1241006636",
+						"purchase": "https://bloxproducts.com/maintenance?1241006636",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/fluxanlife"
 					},
 					"price": {
@@ -401,7 +401,7 @@
 					"purchaseCard": "https://astra.cx/aureusstandard",
 					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/aureus",
 					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1158230552",
+						"purchase": "https://bloxproducts.com/maintenance?1158230552",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/aureusstandard"
 					},
 					"price": {
@@ -427,7 +427,7 @@
 					"purchaseCard": "https://astra.cx/aureuspremium",
 					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/aureus",
 					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1157942737",
+						"purchase": "https://bloxproducts.com/maintenance?1157942737",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/aureuspremium"
 					},
 					"price": {
@@ -459,7 +459,7 @@
 					"purchaseCard": "https://astra.cx/exolinerstandard",
 					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/exoliner",
 					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1158398577",
+						"purchase": "https://bloxproducts.com/maintenance?1158398577",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/exolinerstandard"
 					},
 					"price": {
@@ -485,7 +485,7 @@
 					"purchaseCard": "https://astra.cx/exolinerpremium",
 					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/exoliner",
 					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1158214554",
+						"purchase": "https://bloxproducts.com/maintenance?1158214554",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/exolinerpremium"
 					},
 					"price": {
@@ -517,7 +517,7 @@
 					"purchaseCard": "https://astra.cx/macsploit",
 					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/macsploit",
 					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1158246558",
+						"purchase": "https://bloxproducts.com/maintenance?1158246558",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/macsploit"
 					},
 					"price": {
