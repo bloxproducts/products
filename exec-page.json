@@ -196,8 +196,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/ronin"
 					},
 					"price": {
-						"$": 12.49,
-						"⏣": 4300
+						"$": 9.89,
+						"⏣": 3450
 					},
 					"lifetime": true,
 					"device": "https://i.imgur.com/SqcIr7C.png",
