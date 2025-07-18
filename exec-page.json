@@ -8,9 +8,9 @@
 				{
 					"name": "Wave 7 Days",
 					"purchasePaypal": "https://astra.cx/paypal/wave7",
-					"purchase": "https://bloxproducts.mysellauth.com/product/wave",
+					"purchase": "https://bloxproducts.sellauth.com/product/wave",
 					"purchaseCard": "https://astra.cx/wave7",
-					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/wave",
+					"purchaseCashApp": "https://bloxproducts.sellauth.com/product/wave",
 					"robux": {
 						"purchase": "https://www.roblox.com/game-pass/1143561358",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/wave7"
@@ -35,9 +35,9 @@
 				{
 					"name": "Wave 30 Days",
 					"purchasePaypal": "https://astra.cx/paypal/wave30",
-					"purchase": "https://bloxproducts.mysellauth.com/product/wave",
+					"purchase": "https://bloxproducts./product/wave",
 					"purchaseCard": "https://astra.cx/wave30",
-					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/wave",
+					"purchaseCashApp": "https://bloxproducts./product/wave",
 					"robux": {
 						"purchase": "https://www.roblox.com/game-pass/1143495679",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/wave30"
@@ -68,9 +68,9 @@
 			{
 			  "name": "7 Days",
 			  "purchasePaypal": "https://astra.cx/paypal/awp7",
-			  "purchase": "https://bloxproducts.mysellauth.com/product/awp",
+			  "purchase": "https://bloxproducts./product/awp",
 			  "purchaseCard": "https://astra.cx/awp7",
-			  "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/awp",
+			  "purchaseCashApp": "https://bloxproducts./product/awp",
 			  "robux": {
 				"purchase": "https://www.roblox.com/game-pass/1143691259",
 				"verify": "https://bloxproducts.com/api/newcheckout/robux/awp7"
@@ -95,9 +95,9 @@
 			{
 			  "name": "30 Days",
 			  "purchasePaypal": "https://astra.cx/paypal/awp30",
-			  "purchase": "https://bloxproducts.mysellauth.com/product/awp",
+			  "purchase": "https://bloxproducts./product/awp",
 			  "purchaseCard": "https://astra.cx/awp30",
-			  "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/awp",
+			  "purchaseCashApp": "https://bloxproducts.sellauth.com/product/awp",
 			  "robux": {
 				"purchase": "https://www.roblox.com/game-pass/1143735259",
 				"verify": "https://bloxproducts.com/api/newcheckout/robux/awp30"
@@ -128,9 +128,9 @@
 				  {
 					  "name": "Zenith 7 Days",
 					  "purchasePaypal": "https://astra.cx/paypal/zenith7",
-					  "purchase": "https://bloxproducts.mysellauth.com/product/zenith",
+					  "purchase": "https://bloxproducts.sellauth.com/product/zenith",
 					  "purchaseCard": "https://astra.cx/zenith7",
-					  "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/zenith",
+					  "purchaseCashApp": "https://bloxproducts.sellauth.com/product/zenith",
 					  "robux": {
 						  "purchase": "https://www.roblox.com/game-pass/1143303718",
 						  "verify": "https://bloxproducts.com/api/newcheckout/robux/zenith7"
@@ -155,9 +155,9 @@
 				  {
 					  "name": "Zenith 30 Days",
 					  "purchasePaypal": "https://astra.cx/paypal/zenith30",
-					  "purchase": "https://bloxproducts.mysellauth.com/product/zenith",
+					  "purchase": "https://bloxproducts.sellauth.com/product/zenith",
 					  "purchaseCard": "https://astra.cx/zenith30",
-					  "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/zenith",
+					  "purchaseCashApp": "https://bloxproducts.sellauth.com/product/zenith",
 					  "robux": {
 						  "purchase": "https://www.roblox.com/game-pass/1143393493",
 						  "verify": "https://bloxproducts.com/api/newcheckout/robux/zenith30"
@@ -188,9 +188,9 @@
 				{
 					"name": "Lifetime",
 					"purchasePaypal": "https://astra.cx/paypal/ronin",
-					"purchase": "https://bloxproducts.mysellauth.com/product/ronin",
+					"purchase": "https://bloxproducts.sellauth.com/product/ronin",
 					"purchaseCard": "https://astra.cx/ronin",
-					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/ronin",
+					"purchaseCashApp": "https://bloxproducts.sellauth.com/product/ronin",
 					"robux": {
 						"purchase": "https://www.roblox.com/game-pass/1143687496",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/ronin"
@@ -220,9 +220,9 @@
 				{
 					"name": "Lifetime",
 					"purchasePaypal": "https://astra.cx/paypal/matcha",
-					"purchase": "https://bloxproducts.mysellauth.com/product/matcha",
+					"purchase": "https://bloxproducts.sellauth.com/product/matcha",
 					"purchaseCard": "https://astra.cx/matcha",
-					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/matcha",
+					"purchaseCashApp": "https://bloxproducts.sellauth.com/product/matcha",
 					"robux": {
 						"purchase": "https://www.roblox.com/game-pass/1143523485",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/matcha"
@@ -252,9 +252,9 @@
 				{
 					"name": "Cryptic 30 Days",
 					"purchasePaypal": "https://astra.cx/paypal/cryptic30",
-					"purchase": "https://bloxproducts.mysellauth.com/product/cryptic",
+					"purchase": "https://bloxproducts.sellauth.com/product/cryptic",
 					"purchaseCard": "https://astra.cx/cryptic30",
-					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/cryptic",
+					"purchaseCashApp": "https://bloxproducts.sellauth.com/product/cryptic",
 					"robux": {
 						"purchase": "https://www.roblox.com/game-pass/1143125902",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/cryptic30"
@@ -279,9 +279,9 @@
 				{
 					"name": "Cryptic 90 Days",
 					"purchasePaypal": "https://astra.cx/paypal/cryptic90",
-					"purchase": "https://bloxproducts.mysellauth.com/product/cryptic",
+					"purchase": "https://bloxproducts.sellauth.com/product/cryptic",
 					"purchaseCard": "https://astra.cx/cryptic90",
-					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/cryptic",
+					"purchaseCashApp": "https://bloxproducts.sellauth.com/product/cryptic",
 					"robux": {
 						"purchase": "https://www.roblox.com/game-pass/1143479386",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/cryptic90"
@@ -306,9 +306,9 @@
 				{
 					"name": "Cryptic Lifetime",
 					"purchasePaypal": "https://astra.cx/paypal/crypticlife",
-					"purchase": "https://bloxproducts.mysellauth.com/product/cryptic",
+					"purchase": "https://bloxproducts.sellauth.com/product/cryptic",
 					"purchaseCard": "https://astra.cx/crypticlife",
-					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/cryptic",
+					"purchaseCashApp": "https://bloxproducts.sellauth.com/product/cryptic",
 					"robux": {
 						"purchase": "https://www.roblox.com/game-pass/1143393506",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/crypticlife"
@@ -338,9 +338,9 @@
 				{
 					"name": "30 Days",
 					"purchasePaypal": "https://astra.cx/paypal/fluxanmonth",
-					"purchase": "https://bloxproducts.mysellauth.com/product/fluxus",
+					"purchase": "https://bloxproducts.sellauth.com/product/fluxus",
 					"purchaseCard": "https://astra.cx/fluxanmonth",
-					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/fluxus",
+					"purchaseCashApp": "https://bloxproducts.sellauth.com/product/fluxus",
 					"robux": {
 						"purchase": "https://www.roblox.com/game-pass/1290800883",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/fluxanmonth"
@@ -365,9 +365,9 @@
 				{
 					"name": "Lifetime",
 					"purchasePaypal": "https://astra.cx/paypal/fluxanlife",
-					"purchase": "https://bloxproducts.mysellauth.com/product/fluxus",
+					"purchase": "https://bloxproducts.sellauth.com/product/fluxus",
 					"purchaseCard": "https://astra.cx/fluxanlife",
-					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/fluxus",
+					"purchaseCashApp": "https://bloxproducts.sellauth.com/product/fluxus",
 					"robux": {
 						"purchase": "https://www.roblox.com/game-pass/1143425540",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/fluxanlife"
@@ -397,9 +397,9 @@
 				{
 					"name": "Standard",
 					"purchasePaypal": "https://astra.cx/paypal/aureusstandard",
-					"purchase": "https://bloxproducts.mysellauth.com/product/aureus",
+					"purchase": "https://bloxproducts.sellauth.com/product/aureus",
 					"purchaseCard": "https://astra.cx/aureusstandard",
-					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/aureus",
+					"purchaseCashApp": "https://bloxproducts.sellauth.com/product/aureus",
 					"robux": {
 						"purchase": "https://www.roblox.com/game-pass/1143641313",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/aureusstandard"
@@ -423,9 +423,9 @@
 				{
 					"name": "Premium",
 					"purchasePaypal": "https://astra.cx/paypal/aureuspremium",
-					"purchase": "https://bloxproducts.mysellauth.com/product/aureus",
+					"purchase": "https://bloxproducts.sellauth.com/product/aureus",
 					"purchaseCard": "https://astra.cx/aureuspremium",
-					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/aureus",
+					"purchaseCashApp": "https://bloxproducts.sellauth.com/product/aureus",
 					"robux": {
 						"purchase": "https://www.roblox.com/game-pass/1143621371",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/aureuspremium"
@@ -455,9 +455,9 @@
 				{
 					"name": "Standard",
 					"purchasePaypal": "https://astra.cx/paypal/exolinerstandard",
-					"purchase": "https://bloxproducts.mysellauth.com/product/exoliner",
+					"purchase": "https://bloxproducts.sellauth.com/product/exoliner",
 					"purchaseCard": "https://astra.cx/exolinerstandard",
-					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/exoliner",
+					"purchaseCashApp": "https://bloxproducts.sellauth.com/product/exoliner",
 					"robux": {
 						"purchase": "https://www.roblox.com/game-pass/1156141814",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/exolinerstandard"
@@ -481,9 +481,9 @@
 				{
 					"name": "Premium",
 					"purchasePaypal": "https://astra.cx/paypal/exolinerpremium",
-					"purchase": "https://bloxproducts.mysellauth.com/product/exoliner",
+					"purchase": "https://bloxproducts.sellauth.com/product/exoliner",
 					"purchaseCard": "https://astra.cx/exolinerpremium",
-					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/exoliner",
+					"purchaseCashApp": "https://bloxproducts.sellauth.com/product/exoliner",
 					"robux": {
 						"purchase": "https://www.roblox.com/game-pass/1156073783",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/exolinerpremium"
@@ -513,9 +513,9 @@
 				{
 					"name": "MacSploit Lifetime",
 					"purchasePaypal": "https://astra.cx/paypal/macsploit",
-					"purchase": "https://bloxproducts.mysellauth.com/product/macsploit",
+					"purchase": "https://bloxproducts.sellauth.com/product/macsploit",
 					"purchaseCard": "https://astra.cx/macsploit",
-					"purchaseCashApp": "https://bloxproducts.mysellauth.com/product/macsploit",
+					"purchaseCashApp": "https://bloxproducts.sellauth.com/product/macsploit",
 					"robux": {
 						"purchase": "https://www.roblox.com/game-pass/1143425540",
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/macsploit"
