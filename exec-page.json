@@ -130,7 +130,7 @@
 				"purchasePaypal": "https://astra.cx/paypal/serotonin30",
 				"purchase": "https://bloxproducts.sellauth/product/serotonin",
 				"purchaseCard": "https://astra.cx/serotonin30",
-				"purchaseCashApp": "https://bloxproducts.sellauth/product/serotonin",
+				"purchaseCashApp": "https://bloxproducts.sellauth.com/product/serotonin",
 				"robux": {
 					"purchase": "https://www.roblox.com/game-pass/1347563475",
 					"verify": "https://bloxproducts.com/api/newcheckout/robux/serotonin30"
