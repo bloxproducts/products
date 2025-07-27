@@ -167,7 +167,7 @@
 					"⏣": 8500
 				},
 				"lifetime": false,
-				"subscriptionPeriod": "30 Days",
+				"subscriptionPeriod": "90 Days",
 				"device": "https://i.imgur.com/SqcIr7C.png",
 				"features": [
 					"*Undetected",
