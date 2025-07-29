@@ -35,7 +35,7 @@
 				{
 					"name": "Wave 30 Days",
 					"purchasePaypal": "https://astra.cx/paypal/wave30",
-					"purchase": "https://bloxproducts.sellauth/product/wave",
+					"purchase": "https://bloxproducts.sellauth.com/product/wave",
 					"purchaseCard": "https://astra.cx/wave30",
 					"purchaseCashApp": "https://bloxproducts.sellauth.com/product/wave",
 					"robux": {
@@ -128,7 +128,7 @@
 				{
 				"name": "Monthly",
 				"purchasePaypal": "https://astra.cx/paypal/serotonin30",
-				"purchase": "https://bloxproducts.sellauth/product/serotonin",
+				"purchase": "https://bloxproducts.sellauth.com/product/serotonin",
 				"purchaseCard": "https://astra.cx/serotonin30",
 				"purchaseCashApp": "https://bloxproducts.sellauth.com/product/serotonin",
 				"robux": {
@@ -155,7 +155,7 @@
 				{
 				"name": "90 Days",
 				"purchasePaypal": "https://astra.cx/paypal/serotonin90",
-				"purchase": "https://bloxproducts.sellauth/product/serotonin",
+				"purchase": "https://bloxproducts.sellauth.com/product/serotonin",
 				"purchaseCard": "https://astra.cx/serotonin90",
 				"purchaseCashApp": "https://bloxproducts.sellauth.com/product/serotonin",
 				"robux": {
