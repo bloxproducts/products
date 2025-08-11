@@ -45,8 +45,8 @@
               "verify": "https://bloxproducts.com/api/newcheckout/robux/mspaint"
             },
             "price": {
-              "$": 6.99,
-              "⏣": 2500
+              "$": 19.99,
+              "⏣": 6900
             },
             "lifetime": true,
             "device": "https://i.imgur.com/5VHh2oY.png",
