@@ -1,6 +1,66 @@
 {
 	"accent-bottom": "#ffffff88",
 	"groups": {
+		"Zenith": {
+			"accent": "#68AFF2",
+			"logo": "https://i.imgur.com/Q7emBX7.png",
+			"items": [
+				  {
+					  "name": "Zenith 7 Days",
+					  "purchasePaypal": "https://astra.cx/paypal/zenith7",
+					  "purchase": "https://bloxproducts.sellauth.com/product/zenith",
+					  "purchaseCard": "https://astra.cx/zenith7",
+					  "purchaseCashApp": "https://bloxproducts.sellauth.com/product/zenith",
+					  "robux": {
+						  "purchase": "https://www.roblox.com/game-pass/1143303718",
+						  "verify": "https://bloxproducts.com/api/newcheckout/robux/zenith7"
+					  },
+					  "price": {
+						  "$": 6.49,
+						  "⏣": 2300
+					  },
+					  "lifetime": false,
+					  "subscriptionPeriod": "7 Days",
+					  "device": "https://i.imgur.com/SqcIr7C.png",
+					  "features": [
+						  "*Undetected",
+						  "Zenith for Windows",
+						  "Weekly license",
+						  "Free support",
+						  "Best exploit"
+					  ],
+					  "accent": "#388ce8",
+					  "banner": "https://i.imgur.com/I5Ij9Dx.png"
+				  },
+				  {
+					  "name": "Zenith 30 Days",
+					  "purchasePaypal": "https://astra.cx/paypal/zenith30",
+					  "purchase": "https://bloxproducts.sellauth.com/product/zenith",
+					  "purchaseCard": "https://astra.cx/zenith30",
+					  "purchaseCashApp": "https://bloxproducts.sellauth.com/product/zenith",
+					  "robux": {
+						  "purchase": "https://www.roblox.com/game-pass/1143393493",
+						  "verify": "https://bloxproducts.com/api/newcheckout/robux/zenith30"
+					  },
+					  "price": {
+						  "$": 19.99,
+						  "⏣": 6900
+					  },
+					  "lifetime": false,
+					  "subscriptionPeriod": "30 Days",
+					  "device": "https://i.imgur.com/SqcIr7C.png",
+					  "features": [
+						  "*Undetected",
+						  "Zenith for Windows",
+						  "Monthly license",
+						  "Free support",
+						  "Best exploit"
+					  ],
+					  "accent": "#388ce8",
+					  "banner": "https://i.imgur.com/I5Ij9Dx.png"
+				  }
+			  ]
+		  },
 		"Wave": {
 			"accent": "#68AFF2",
 			"logo": "https://i.imgur.com/9GsSfTc.png",
@@ -61,66 +121,6 @@
 				}
 			]
 		},
-		"Zenith": {
-			"accent": "#68AFF2",
-			"logo": "https://i.imgur.com/Q7emBX7.png",
-			"items": [
-				  {
-					  "name": "Zenith 7 Days",
-					  "purchasePaypal": "https://astra.cx/paypal/zenith7",
-					  "purchase": "https://bloxproducts.sellauth.com/product/zenith",
-					  "purchaseCard": "https://astra.cx/zenith7",
-					  "purchaseCashApp": "https://bloxproducts.sellauth.com/product/zenith",
-					  "robux": {
-						  "purchase": "https://www.roblox.com/game-pass/1143303718",
-						  "verify": "https://bloxproducts.com/api/newcheckout/robux/zenith7"
-					  },
-					  "price": {
-						  "$": 6.49,
-						  "⏣": 2300
-					  },
-					  "lifetime": false,
-					  "subscriptionPeriod": "7 Days",
-					  "device": "https://i.imgur.com/SqcIr7C.png",
-					  "features": [
-						  "*Cheapest",
-						  "Zenith for Windows",
-						  "Weekly license",
-						  "Free support",
-						  "Best exploit"
-					  ],
-					  "accent": "#388ce8",
-					  "banner": "https://i.imgur.com/I5Ij9Dx.png"
-				  },
-				  {
-					  "name": "Zenith 30 Days",
-					  "purchasePaypal": "https://astra.cx/paypal/zenith30",
-					  "purchase": "https://bloxproducts.sellauth.com/product/zenith",
-					  "purchaseCard": "https://astra.cx/zenith30",
-					  "purchaseCashApp": "https://bloxproducts.sellauth.com/product/zenith",
-					  "robux": {
-						  "purchase": "https://www.roblox.com/game-pass/1143393493",
-						  "verify": "https://bloxproducts.com/api/newcheckout/robux/zenith30"
-					  },
-					  "price": {
-						  "$": 19.99,
-						  "⏣": 6900
-					  },
-					  "lifetime": false,
-					  "subscriptionPeriod": "30 Days",
-					  "device": "https://i.imgur.com/SqcIr7C.png",
-					  "features": [
-						  "*Most popular",
-						  "Zenith for Windows",
-						  "Monthly license",
-						  "Free support",
-						  "Best exploit"
-					  ],
-					  "accent": "#388ce8",
-					  "banner": "https://i.imgur.com/I5Ij9Dx.png"
-				  }
-			  ]
-		  },
 			"Serotonin": {
 			"accent": "#68AFF2",
 			"logo": "https://i.imgur.com/0sTi7eH.png",
