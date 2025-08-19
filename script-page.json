@@ -34,6 +34,33 @@
       "MSPaint": {
         "logo": "https://i.imgur.com/iDSLZDa.png",
         "items": [
+            {
+            "name": "Monthly",
+            "purchasePaypal": "https://astra.cx/paypal/mspaint30",
+            "purchase": "https://bloxproducts.mysellauth.com/product/mspaint30",
+            "purchaseCard": "https://astra.cx/mspaint30",
+            "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/mspaint",
+            "robux": {
+              "purchase": "https://www.roblox.com/game-pass/1410108994",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/mspaint30"
+            },
+            "price": {
+              "$": 2.99,
+              "⏣": 999
+            },
+            "lifetime": false,
+			"subscriptionPeriod": "Monthly",
+            "device": "https://i.imgur.com/5VHh2oY.png",
+            "features": [
+              "*Best Script Hub",
+              "Best DOORS Script",
+              "Fisch",
+              "3008",
+              "Tons of Supported Games"
+            ],
+            "accent": "#2596be",
+            "banner": "https://i.imgur.com/dNk69d9.png"
+          },
           {
             "name": "Lifetime",
             "purchasePaypal": "https://astra.cx/paypal/mspaint",
@@ -56,6 +83,64 @@
               "Fisch",
               "3008",
               "Tons of Supported Games"
+            ],
+            "accent": "#2596be",
+            "banner": "https://i.imgur.com/dNk69d9.png"
+          }
+        ]
+      },
+      "Xenithhub": {
+        "logo": "https://i.imgur.com/tamThd2.png",
+        "items": [
+            {
+            "name": "Monthly",
+            "purchasePaypal": "https://astra.cx/paypal/xenithhub30",
+            "purchase": "https://bloxproducts.mysellauth.com/product/xenith-hub",
+            "purchaseCard": "https://astra.cx/xenithhub30",
+            "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/xenith-hub",
+            "robux": {
+              "purchase": "https://www.roblox.com/game-pass/1412018276",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/xenithhub30"
+            },
+            "price": {
+              "$": 4.99,
+              "⏣": 1700
+            },
+            "lifetime": false,
+			"subscriptionPeriod": "Monthly",
+            "device": "https://i.imgur.com/5VHh2oY.png",
+            "features": [
+              "*HUGE games library",
+              "Best ToH Script",
+              "Garden Tower Defense",
+              "Fruit Battlegrounds",
+              "Ink Game"
+            ],
+            "accent": "#2596be",
+            "banner": "https://i.imgur.com/dNk69d9.png"
+          },
+          {
+            "name": "Lifetime",
+            "purchasePaypal": "https://astra.cx/paypal/xenithhublifetime",
+            "purchase": "https://bloxproducts.mysellauth.com/product/xenith-hub",
+            "purchaseCard": "https://astra.cx/xenithhublifetime",
+            "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/xenith-hub",
+            "robux": {
+              "purchase": "https://www.roblox.com/game-pass/1411778351",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/xenithhublifetime"
+            },
+            "price": {
+              "$": 19.99,
+              "⏣": 6900
+            },
+            "lifetime": true,
+            "device": "https://i.imgur.com/5VHh2oY.png",
+            "features": [
+              "*HUGE games library",
+              "Best ToH Script",
+              "Garden Tower Defense",
+              "Fruit Battlegrounds",
+              "Ink Game"
             ],
             "accent": "#2596be",
             "banner": "https://i.imgur.com/dNk69d9.png"
