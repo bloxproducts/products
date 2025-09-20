@@ -331,65 +331,6 @@
 				}
 			]
 		},
-		"Fluxus": {
-			"accent": "#68AFF2",
-			"logo": "https://i.imgur.com/I2Wc86S.png",
-			"items": [
-				{
-					"name": "30 Days",
-					"purchasePaypal": "https://astra.cx/paypal/fluxanmonth",
-					"purchase": "https://bloxproducts.sellauth.com/product/fluxus",
-					"purchaseCard": "https://astra.cx/fluxanmonth",
-					"purchaseCashApp": "https://bloxproducts.sellauth.com/product/fluxus",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1290800883",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/fluxanmonth"
-					},
-					"price": {
-						"$": 4.99,
-						"⏣": 1800
-					},
-					"lifetime": false,
-					"subscriptionPeriod": "30 Days",
-					"device": "https://i.imgur.com/SWbRkbZ.png",
-					"features": [
-						"*Most popular",
-						"Fluxus for all compatible devices",
-						"Monthly license",
-						"Free support",
-						"Reputable developers"
-					],
-					"accent": "#1B3F66",
-					"banner": "https://i.imgur.com/mZ2Syfv.png"
-				},
-				{
-					"name": "Lifetime",
-					"purchasePaypal": "https://astra.cx/paypal/fluxanlife",
-					"purchase": "https://bloxproducts.sellauth.com/product/fluxus",
-					"purchaseCard": "https://astra.cx/fluxanlife",
-					"purchaseCashApp": "https://bloxproducts.sellauth.com/product/fluxus",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1143425540",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/fluxanlife"
-					},
-					"price": {
-						"$": 29.99,
-						"⏣": 10400
-					},
-					"lifetime": true,
-					"device": "https://i.imgur.com/SWbRkbZ.png",
-					"features": [
-						"*Most value",
-						"Fluxus for all compatible devices",
-						"Lifetime License",
-						"Free support",
-						"Reputable developers"
-					],
-					"accent": "#1B3F66",
-					"banner": "https://i.imgur.com/mZ2Syfv.png"
-				}
-			]
-		},
 		"Aureus": {
 			"accent": "#68AFF2",
 			"logo": "https://i.imgur.com/eHE7vxm.png",
