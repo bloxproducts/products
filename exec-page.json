@@ -3,7 +3,7 @@
 	"groups": {
 		"Zenith": {
 			"accent": "#68AFF2",
-			"logo": "https://i.imgur.com/Q7emBX7.png",
+			"logo": "https://files.catbox.moe/drcru6.png",
 			"items": [
 				  {
 					  "name": "Zenith 7 Days",
@@ -21,7 +21,7 @@
 					  },
 					  "lifetime": false,
 					  "subscriptionPeriod": "7 Days",
-					  "device": "https://i.imgur.com/SqcIr7C.png",
+					  "device": "https://files.catbox.moe/h1go68.png",
 					  "features": [
 						  "*Undetected",
 						  "Zenith for Windows",
@@ -48,7 +48,7 @@
 					  },
 					  "lifetime": false,
 					  "subscriptionPeriod": "30 Days",
-					  "device": "https://i.imgur.com/SqcIr7C.png",
+					  "device": "https://files.catbox.moe/h1go68.png",
 					  "features": [
 						  "*Undetected",
 						  "Zenith for Windows",
@@ -63,7 +63,7 @@
 		  },
 		"Wave": {
 			"accent": "#68AFF2",
-			"logo": "https://i.imgur.com/9GsSfTc.png",
+			"logo": "https://files.catbox.moe/eug28v.png",
 			"items": [
 				{
 					"name": "Wave 7 Days",
@@ -81,7 +81,7 @@
 					},
 					"lifetime": false,
 					"subscriptionPeriod": "7 Days",
-					"device": "https://i.imgur.com/SqcIr7C.png",
+					"device": "https://files.catbox.moe/h1go68.png",
 					"features": [
 						"*Cheapest",
 						"Wave for Windows",
@@ -108,7 +108,7 @@
 					},
 					"lifetime": false,
 					"subscriptionPeriod": "30 Days",
-					"device": "https://i.imgur.com/SqcIr7C.png",
+					"device": "https://files.catbox.moe/h1go68.png",
 					"features": [
 						"*Most popular",
 						"Wave for Windows",
@@ -123,7 +123,7 @@
 		},
 			"Serotonin": {
 			"accent": "#68AFF2",
-			"logo": "https://i.imgur.com/0sTi7eH.png",
+			"logo": "https://files.catbox.moe/su0ssq.png",
 			"items": [
 				{
 				"name": "Monthly",
@@ -141,7 +141,7 @@
 				},
 				"lifetime": false,
 				"subscriptionPeriod": "Monthly",
-				"device": "https://i.imgur.com/SqcIr7C.png",
+				"device": "https://files.catbox.moe/h1go68.png",
 				"features": [
 					"*Undetected External",
 					"Serotonin for Windows",
@@ -168,7 +168,7 @@
 				},
 				"lifetime": false,
 				"subscriptionPeriod": "90 Days",
-				"device": "https://i.imgur.com/SqcIr7C.png",
+				"device": "https://files.catbox.moe/h1go68.png",
 				"features": [
 					"*Undetected External",
 					"Serotonin for Windows",
@@ -183,7 +183,7 @@
 		},
 		  "Ronin": {
 			"accent": "#68AFF2",
-			"logo": "https://i.imgur.com/0pNkBqx.png",
+			"logo": "https://files.catbox.moe/uz9bq9.png",
 			"items": [
 				{
 					"name": "Lifetime",
@@ -200,7 +200,7 @@
 						"⏣": 3450
 					},
 					"lifetime": true,
-					"device": "https://i.imgur.com/SqcIr7C.png",
+					"device": "https://files.catbox.moe/h1go68.png",
 					"features": [
 						"*External",
 						"OP Aimbot",
@@ -215,7 +215,7 @@
 		},
 		"Matcha": {
 			"accent": "#68AFF2",
-			"logo": "https://i.imgur.com/ZSMHmQe.png",
+			"logo": "https://files.catbox.moe/w7ob4c.png",
 			"items": [
 				{
 					"name": "Lifetime",
@@ -232,7 +232,7 @@
 						"⏣": 3500
 					},
 					"lifetime": true,
-					"device": "https://i.imgur.com/SqcIr7C.png",
+					"device": "https://files.catbox.moe/h1go68.png",
 					"features": [
 						"*External",
 						"OP Aimbot",
@@ -247,7 +247,7 @@
 		},
 		"Cryptic": {
 			"accent": "#68AFF2",
-			"logo": "https://i.imgur.com/DuK3xl7.png",
+			"logo": "https://files.catbox.moe/64ivno.png",
 			"items": [
 				{
 					"name": "Cryptic 30 Days",
@@ -265,7 +265,7 @@
 					},
 					"lifetime": false,
 					"subscriptionPeriod": "30 Days",
-					"device": "https://i.imgur.com/SWbRkbZ.png",
+					"device": "https://files.catbox.moe/4p7zd0.png",
 					"features": [
 						"*Most popular",
 						"Cryptic for all compatible devices",
@@ -292,7 +292,7 @@
 					},
 					"lifetime": false,
 					"subscriptionPeriod": "90 Days",
-					"device": "https://i.imgur.com/SWbRkbZ.png",
+					"device": "https://files.catbox.moe/4p7zd0.png",
 					"features": [
 						"Undetected",
 						"Cryptic for all compatible devices",
@@ -318,7 +318,7 @@
 						"⏣": 6900
 					},
 					"lifetime": true,
-					"device": "https://i.imgur.com/SWbRkbZ.png",
+					"device": "https://files.catbox.moe/4p7zd0.png",
 					"features": [
 						"*Most value",
 						"Cryptic for all compatible devices",
@@ -333,7 +333,7 @@
 		},
 		"Aureus": {
 			"accent": "#68AFF2",
-			"logo": "https://i.imgur.com/eHE7vxm.png",
+			"logo": "https://files.catbox.moe/o4szb9.png",
 			"items": [
 				{
 					"name": "Standard",
@@ -350,7 +350,7 @@
 						"⏣": 5200
 					},
 					"lifetime": true,
-					"device": "https://i.imgur.com/5VHh2oY.png",
+					"device": "https://files.catbox.moe/rimah0.png",
 					"features": [
 						"*Standard",
 						"Budget-friendly version",
@@ -376,7 +376,7 @@
 						"⏣": 17300
 					},
 					"lifetime": true,
-					"device": "https://i.imgur.com/5VHh2oY.png",
+					"device": "https://files.catbox.moe/rimah0.png",
 					"features": [
 						"*Premium (OP)",
 						"Best Serverside",
@@ -391,7 +391,7 @@
 		},
 		"Exoliner": {
 			"accent": "#68AFF2",
-			"logo": "https://i.imgur.com/Q3Eo1ff.png",
+			"logo": "https://files.catbox.moe/xboggl.png",
 			"items": [
 				{
 					"name": "Standard",
@@ -408,7 +408,7 @@
 						"⏣": 3500
 					},
 					"lifetime": true,
-					"device": "https://i.imgur.com/5VHh2oY.png",
+					"device": "https://files.catbox.moe/rimah0.png",
 					"features": [
 						"*Cheap",
 						"Budget-friendly SS",
@@ -434,7 +434,7 @@
 						"⏣": 14000
 					},
 					"lifetime": true,
-					"device": "https://i.imgur.com/5VHh2oY.png",
+					"device": "https://files.catbox.moe/rimah0.png",
 					"features": [
 						"*Overpowered",
 						"Best value Serverside",
@@ -449,7 +449,7 @@
 		},
 		"MacSploit": {
 			"accent": "#68AFF2",
-			"logo": "https://i.imgur.com/7Ph3p74.png",
+			"logo": "https://files.catbox.moe/mklhmb.png",
 			"items": [
 				{
 					"name": "MacSploit Lifetime",
@@ -466,7 +466,7 @@
 						"⏣": 3500
 					},
 					"lifetime": true,
-						"device": "https://i.imgur.com/VmemrA5.png",
+						"device": "https://files.catbox.moe/okxt74.png",
 						"features": [
 							"*MacOS execution",
 							"Cheapest on market",
