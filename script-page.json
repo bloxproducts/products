@@ -1,7 +1,7 @@
 {
     "groups": {
       "Speed Hub X": {
-        "logo": "https://i.imgur.com/rE0X2WJ.png",
+        "logo": "https://files.catbox.moe/019n27.png",
         "items": [
           {
             "name": "Lifetime",
@@ -18,7 +18,7 @@
               "⏣": 3450
             },
             "lifetime": true,
-            "device": "https://i.imgur.com/5VHh2oY.png",
+            "device": "https://files.catbox.moe/rimah0.png",
             "features": [
               "*TONS of games",
               "Best Grow a Garden Script",
@@ -32,7 +32,7 @@
         ]
       },
       "MSPaint": {
-        "logo": "https://i.imgur.com/iDSLZDa.png",
+        "logo": "https://files.catbox.moe/lbeknv.png",
         "items": [
             {
             "name": "Monthly",
@@ -50,7 +50,7 @@
             },
             "lifetime": false,
 			"subscriptionPeriod": "Monthly",
-            "device": "https://i.imgur.com/5VHh2oY.png",
+            "device": "https://files.catbox.moe/rimah0.png",
             "features": [
               "*Best Script Hub",
               "Best DOORS Script",
@@ -76,7 +76,7 @@
               "⏣": 6900
             },
             "lifetime": true,
-            "device": "https://i.imgur.com/5VHh2oY.png",
+            "device": "https://files.catbox.moe/rimah0.png",
             "features": [
               "*Best Script Hub",
               "Best DOORS Script",
@@ -90,7 +90,7 @@
         ]
       },
       "XenithHub": {
-        "logo": "https://i.imgur.com/tamThd2.png",
+        "logo": "https://files.catbox.moe/apn7ky.png",
         "items": [
             {
             "name": "Monthly",
@@ -108,7 +108,7 @@
             },
             "lifetime": false,
 			"subscriptionPeriod": "Monthly",
-            "device": "https://i.imgur.com/5VHh2oY.png",
+            "device": "https://files.catbox.moe/rimah0.png",
             "features": [
               "*HUGE games library",
               "Best ToH Script",
@@ -134,7 +134,7 @@
               "⏣": 6900
             },
             "lifetime": true,
-            "device": "https://i.imgur.com/5VHh2oY.png",
+            "device": "https://files.catbox.moe/rimah0.png",
             "features": [
               "*HUGE games library",
               "Best ToH Script",
