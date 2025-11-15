@@ -59,6 +59,68 @@
 					  "banner": "https://i.imgur.com/I5Ij9Dx.png"
 				  }
 			  ]
+		  },
+		"Zenith Mystery Box": {
+			"accent": "#68AFF2",
+			"logo": "https://files.catbox.moe/lubr7w.png",
+			"items": [
+				  {
+					  "name": "Low Risk",
+					  "purchasePaypal": "https://astra.cx/paypal/zenithmysteryboxlow",
+					  "purchase": "https://bloxproducts.sellauth.com/product/zenithmysteryboxlow",
+					  "purchaseCard": "https://astra.cx/zenithmysteryboxlow",
+					  "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/zenith-mystery-box",
+					  "robux": {
+						  "purchase": "https://www.roblox.com/game-pass/1527523104",
+						  "verify": "https://bloxproducts.com/api/newcheckout/robux/zenithmysteryboxlow"
+					  },
+					  "price": {
+						  "$": 7.99,
+						  "⏣": 2800
+					  },
+					  "lifetime": false,
+					  "subscriptionPeriod": "Random",
+					  "device": "https://files.catbox.moe/h1go68.png",
+					  "features": [
+                          "*HIGH VALUE",
+						  "2% chance to get 3-month key",
+						  "15% chance to get month key",
+						  "83% chance to get weekly key",
+						  "Always a winner",
+						  "24H-SPECIAL"
+					  ],
+					  "accent": "#388ce8",
+					  "banner": "https://i.imgur.com/I5Ij9Dx.png"
+				  },
+				  {
+					  "name": "High Risk",
+					  "purchasePaypal": "https://astra.cx/paypal/zenithmysterybox",
+					  "purchase": "https://bloxproducts.sellauth.com/product/zenithmysterybox",
+					  "purchaseCard": "https://astra.cx/zenithmysterybox",
+					  "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/zenith-mystery-box",
+					  "robux": {
+						  "purchase": "https://www.roblox.com/game-pass/1525086327",
+						  "verify": "https://bloxproducts.com/api/newcheckout/robux/zenithmysterybox"
+					  },
+					  "price": {
+						  "$": 13.99,
+						  "⏣": 4200
+					  },
+					  "lifetime": false,
+					  "subscriptionPeriod": "Random",
+					  "device": "https://files.catbox.moe/h1go68.png",
+					  "features": [
+                          "*EXTREME VALUE",
+						  "10% chance to get 3-month key",
+						  "55% chance to get month key",
+						  "35% chance to get weekly key",
+						  "Always a winner",
+						  "24H-SPECIAL"
+					  ],
+					  "accent": "#388ce8",
+					  "banner": "https://i.imgur.com/I5Ij9Dx.png"
+				  }
+			  ]
 		  }
   
     }
