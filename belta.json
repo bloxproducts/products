@@ -67,7 +67,7 @@
 				  {
 					  "name": "Low Risk",
 					  "purchasePaypal": "https://astra.cx/paypal/zenithmysteryboxlow",
-					  "purchase": "https://bloxproducts.sellauth.com/product/zenithmysteryboxlow",
+					  "purchase": "https://bloxproducts.mysellauth.com/product/zenith-mystery-box",
 					  "purchaseCard": "https://astra.cx/zenithmysteryboxlow",
 					  "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/zenith-mystery-box",
 					  "robux": {
@@ -95,7 +95,7 @@
 				  {
 					  "name": "High Risk",
 					  "purchasePaypal": "https://astra.cx/paypal/zenithmysterybox",
-					  "purchase": "https://bloxproducts.sellauth.com/product/zenithmysterybox",
+					  "purchase": "https://bloxproducts.mysellauth.com/product/zenith-mystery-box",
 					  "purchaseCard": "https://astra.cx/zenithmysterybox",
 					  "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/zenith-mystery-box",
 					  "robux": {
