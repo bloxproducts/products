@@ -7,7 +7,7 @@
 			"items": [
 				{
 					"name": "Wave 7 Days",
-					"purchasePaypal": "https://stealthpay.io/cat/wave-week-key/card",
+					"purchasePaypal": "https://stealthpay.io/cat/wave-week-key",
 					"purchase": "https://bloxproducts.sellauth.com/product/wave",
 					"purchaseCard": "https://stealthpay.io/cat/wave-week-key/card",
 					"purchaseCashApp": "https://stealthpay.io/cat/wave-week-key/card",
@@ -34,7 +34,7 @@
 				},
 				{
 					"name": "Wave 30 Days",
-					"purchasePaypal": "https://stealthpay.io/cat/wave-month-key/card",
+					"purchasePaypal": "https://stealthpay.io/cat/wave-month-key",
 					"purchase": "https://bloxproducts.sellauth.com/product/wave",
 					"purchaseCard": "https://stealthpay.io/cat/wave-month-key/card",
 					"purchaseCashApp": "https://stealthpay.io/cat/wave-month-key/card",
@@ -67,7 +67,7 @@
 			"items": [
 				{
 				"name": "Monthly",
-				"purchasePaypal": "https://stealthpay.io/cat/serotonin-month/card",
+				"purchasePaypal": "https://stealthpay.io/cat/serotonin-month",
 				"purchase": "https://bloxproducts.sellauth.com/product/serotonin",
 				"purchaseCard": "https://stealthpay.io/cat/serotonin-month/card",
 				"purchaseCashApp": "https://stealthpay.io/cat/serotonin-month/card",
@@ -94,7 +94,7 @@
 				},
 				{
 				"name": "90 Days",
-				"purchasePaypal": "https://stealthpay.io/cat/serotonin-90d/card",
+				"purchasePaypal": "https://stealthpay.io/cat/serotonin-90d",
 				"purchase": "https://bloxproducts.sellauth.com/product/serotonin",
 				"purchaseCard": "https://stealthpay.io/cat/serotonin-90d/card",
 				"purchaseCashApp": "https://bloxproducts.sellauth.com/product/serotonin",
@@ -127,7 +127,7 @@
 			"items": [
 				{
 					"name": "Lifetime",
-					"purchasePaypal": "https://stealthpay.io/cat/ronin/card",
+					"purchasePaypal": "https://stealthpay.io/cat/ronin",
 					"purchase": "https://bloxproducts.sellauth.com/product/ronin",
 					"purchaseCard": "https://stealthpay.io/cat/ronin/card",
 					"purchaseCashApp": "https://stealthpay.io/cat/ronin/card",
@@ -159,7 +159,7 @@
 			"items": [
 				{
 					"name": "Lifetime",
-					"purchasePaypal": "https://stealthpay.io/cat/matcha/card",
+					"purchasePaypal": "https://stealthpay.io/cat/matcha",
 					"purchase": "https://bloxproducts.sellauth.com/product/matcha",
 					"purchaseCard": "https://stealthpay.io/cat/matcha/card",
 					"purchaseCashApp": "https://stealthpay.io/cat/matcha/card",
@@ -191,7 +191,7 @@
 			"items": [
 				{
 					"name": "Cryptic 30 Days",
-					"purchasePaypal": "https://stealthpay.io/cat/cryptic-30-days/card",
+					"purchasePaypal": "https://stealthpay.io/cat/cryptic-30-days",
 					"purchase": "https://bloxproducts.sellauth.com/product/cryptic",
 					"purchaseCard": "https://stealthpay.io/cat/cryptic-30-days/card",
 					"purchaseCashApp": "https://stealthpay.io/cat/cryptic-30-days/card",
@@ -218,7 +218,7 @@
 				},
 				{
 					"name": "Cryptic 90 Days",
-					"purchasePaypal": "https://stealthpay.io/cat/cryptic-90-days/card",
+					"purchasePaypal": "https://stealthpay.io/cat/cryptic-90-days",
 					"purchase": "https://bloxproducts.sellauth.com/product/cryptic",
 					"purchaseCard": "https://stealthpay.io/cat/cryptic-90-days/card",
 					"purchaseCashApp": "https://stealthpay.io/cat/cryptic-90-days/card",
@@ -245,7 +245,7 @@
 				},
 				{
 					"name": "Cryptic Lifetime",
-					"purchasePaypal": "https://stealthpay.io/cat/cryptic-lifetime/card",
+					"purchasePaypal": "https://stealthpay.io/cat/cryptic-lifetime",
 					"purchase": "https://bloxproducts.sellauth.com/product/cryptic",
 					"purchaseCard": "https://stealthpay.io/cat/cryptic-lifetime/card",
 					"purchaseCashApp": "https://stealthpay.io/cat/cryptic-lifetime/card",
@@ -277,7 +277,7 @@
 			"items": [
 				{
 					"name": "Standard",
-					"purchasePaypal": "https://stealthpay.io/cat/aureus-standard/card",
+					"purchasePaypal": "https://stealthpay.io/cat/aureus-standard",
 					"purchase": "https://bloxproducts.sellauth.com/product/aureus",
 					"purchaseCard": "https://stealthpay.io/cat/aureus-standard/card",
 					"purchaseCashApp": "https://stealthpay.io/cat/aureus-standard/card",
@@ -303,7 +303,7 @@
 				},
 				{
 					"name": "Premium",
-					"purchasePaypal": "https://stealthpay.io/cat/aureus-premium/card",
+					"purchasePaypal": "https://stealthpay.io/cat/aureus-premium",
 					"purchase": "https://bloxproducts.sellauth.com/product/aureus",
 					"purchaseCard": "https://stealthpay.io/cat/aureus-premium/card",
 					"purchaseCashApp": "https://stealthpay.io/cat/aureus-premium/card",
@@ -335,7 +335,7 @@
 			"items": [
 				{
 					"name": "Standard",
-					"purchasePaypal": "https://stealthpay.io/cat/exoliner-standard/card",
+					"purchasePaypal": "https://stealthpay.io/cat/exoliner-standard",
 					"purchase": "https://bloxproducts.sellauth.com/product/exoliner",
 					"purchaseCard": "https://stealthpay.io/cat/exoliner-standard/card",
 					"purchaseCashApp": "https://stealthpay.io/cat/exoliner-standard/card",
@@ -361,7 +361,7 @@
 				},
 				{
 					"name": "Premium",
-					"purchasePaypal": "https://stealthpay.io/cat/exoliner-premium/card",
+					"purchasePaypal": "https://stealthpay.io/cat/exoliner-premium",
 					"purchase": "https://bloxproducts.sellauth.com/product/exoliner",
 					"purchaseCard": "https://stealthpay.io/cat/exoliner-premium/card",
 					"purchaseCashApp": "https://stealthpay.io/cat/exoliner-premium/card",
@@ -393,7 +393,7 @@
 			"items": [
 				{
 					"name": "MacSploit Lifetime",
-					"purchasePaypal": "https://stealthpay.io/cat/macsploit/card",
+					"purchasePaypal": "https://stealthpay.io/cat/macsploit",
 					"purchase": "https://bloxproducts.sellauth.com/product/macsploit",
 					"purchaseCard": "https://stealthpay.io/cat/macsploit/card",
 					"purchaseCashApp": "https://stealthpay.io/cat/macsploit/card",
