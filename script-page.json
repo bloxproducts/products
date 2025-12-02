@@ -5,10 +5,10 @@
         "items": [
           {
             "name": "Lifetime",
-            "purchasePaypal": "https://astra.cx/paypal/speedhubx",
+            "purchasePaypal": "https://stealthpay.io/cat/speed-hub-x/card",
             "purchase": "https://bloxproducts.mysellauth.com/product/speedhubx",
-            "purchaseCard": "https://astra.cx/speedhubx",
-            "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/speedhubx",
+            "purchaseCard": "https://stealthpay.io/cat/speed-hub-x/card",
+            "purchaseCashApp": "https://stealthpay.io/cat/speed-hub-x/card",
             "robux": {
               "purchase": "https://www.roblox.com/game-pass/1347279564",
               "verify": "https://bloxproducts.com/api/newcheckout/robux/speedhubx"
@@ -36,10 +36,10 @@
         "items": [
             {
             "name": "Monthly",
-            "purchasePaypal": "https://astra.cx/paypal/mspaint30",
+            "purchasePaypal": "https://stealthpay.io/cat/mspaint/card",
             "purchase": "https://bloxproducts.mysellauth.com/product/mspaint30",
-            "purchaseCard": "https://astra.cx/mspaint30",
-            "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/mspaint",
+            "purchaseCard": "https://stealthpay.io/cat/mspaint/card",
+            "purchaseCashApp": "https://stealthpay.io/cat/mspaint/card",
             "robux": {
               "purchase": "https://www.roblox.com/game-pass/1410108994",
               "verify": "https://bloxproducts.com/api/newcheckout/robux/mspaint30"
@@ -63,10 +63,10 @@
           },
           {
             "name": "Lifetime",
-            "purchasePaypal": "https://astra.cx/paypal/mspaint",
+            "purchasePaypal": "https://stealthpay.io/cat/mspaint-lifetime/card",
             "purchase": "https://bloxproducts.mysellauth.com/product/mspaint",
-            "purchaseCard": "https://astra.cx/mspaint",
-            "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/mspaint",
+            "purchaseCard": "https://stealthpay.io/cat/mspaint-lifetime/card",
+            "purchaseCashApp": "https://stealthpay.io/cat/mspaint-lifetime/card",
             "robux": {
               "purchase": "https://www.roblox.com/game-pass/1143425541",
               "verify": "https://bloxproducts.com/api/newcheckout/robux/mspaint"
@@ -94,10 +94,10 @@
         "items": [
             {
             "name": "Monthly",
-            "purchasePaypal": "https://astra.cx/paypal/xenithhub30",
+            "purchasePaypal": "https://stealthpay.io/cat/xenith-hub-monthly/card",
             "purchase": "https://bloxproducts.mysellauth.com/product/xenith-hub",
-            "purchaseCard": "https://astra.cx/xenithhub30",
-            "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/xenith-hub",
+            "purchaseCard": "https://stealthpay.io/cat/xenith-hub-monthly/card",
+            "purchaseCashApp": "https://stealthpay.io/cat/xenith-hub-monthly/card",
             "robux": {
               "purchase": "https://www.roblox.com/game-pass/1412018276",
               "verify": "https://bloxproducts.com/api/newcheckout/robux/xenithhub30"
@@ -121,10 +121,10 @@
           },
           {
             "name": "Lifetime",
-            "purchasePaypal": "https://astra.cx/paypal/xenithhublifetime",
+            "purchasePaypal": "https://stealthpay.io/cat/xenith-hub-lifetime/card",
             "purchase": "https://bloxproducts.mysellauth.com/product/xenith-hub",
-            "purchaseCard": "https://astra.cx/xenithhublifetime",
-            "purchaseCashApp": "https://bloxproducts.mysellauth.com/product/xenith-hub",
+            "purchaseCard": "https://stealthpay.io/cat/xenith-hub-lifetime/card",
+            "purchaseCashApp": "https://stealthpay.io/cat/xenith-hub-lifetime/card",
             "robux": {
               "purchase": "https://www.roblox.com/game-pass/1411778351",
               "verify": "https://bloxproducts.com/api/newcheckout/robux/xenithhublifetime"
