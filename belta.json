@@ -6,7 +6,7 @@
 			"items": [
 				{
 					"name": "Wave 7 Days",
-					"purchasePaypal": "https://stealthpay.io/cat/wave-week-key/card",
+					"purchasePaypal": "https://stealthpay.io/cat/wave-week-key",
 					"purchase": "https://bloxproducts.sellauth.com/product/wave",
 					"purchaseCard": "https://stealthpay.io/cat/wave-week-key/card",
 					"purchaseCashApp": "https://stealthpay.io/cat/wave-week-key/card",
@@ -33,7 +33,7 @@
 				},
 				{
 					"name": "Wave 30 Days",
-					"purchasePaypal": "https://stealthpay.io/cat/wave-month-key/card",
+					"purchasePaypal": "https://stealthpay.io/cat/wave-month-key",
 					"purchase": "https://bloxproducts.sellauth.com/product/wave",
 					"purchaseCard": "https://astra.cx/wave30",
 					"purchaseCashApp": "https://bloxproducts.sellauth.com/product/wave",
