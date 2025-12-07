@@ -61,6 +61,38 @@
 				}
 			]
 		},
+		"Potassium": {
+			"accent": "#68AFF2",
+			"logo": "https://files.catbox.moe/w86ifa.png",
+			"items": [
+				{
+					"name": "Lifetime",
+					"purchasePaypal": "https://stealthpay.io/cat/potassium",
+					"purchase": "https://bloxproducts.sellauth.com/product/potassium",
+					"purchaseCard": "https://stealthpay.io/cat/potassium/card",
+					"purchaseCashApp": "https://stealthpay.io/cat/potassium/card",
+					"robux": {
+						"purchase": "https://www.roblox.com/game-pass/1525285295",
+						"verify": "https://bloxproducts.com/api/newcheckout/robux/potassium"
+					},
+					"price": {
+						"$": 19.99,
+						"⏣": 7000
+					},
+					"lifetime": true,
+					"device": "https://files.catbox.moe/h1go68.png",
+					"features": [
+						"*LIFETIME",
+						"Executes ALL Scripts",
+						"Undetected",
+						"Easy Setup",
+						"Works on Windows 10 & 11"
+					],
+					"accent": "#388ce8",
+					"banner": "https://i.imgur.com/JaLbMim.png"
+				}
+			]
+		},
 			"Serotonin": {
 			"accent": "#68AFF2",
 			"logo": "https://files.catbox.moe/su0ssq.png",
