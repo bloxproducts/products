@@ -272,6 +272,27 @@
         "afterpay",
         "klarna"
       ]
+    },
+    "volt": {
+      "7": {
+        "price": "7.95",
+        "url": "https://bloxproducts.com/#Volt",
+        "deal": true
+      },
+      "30": {
+        "price": "24.95",
+        "url": "https://bloxproducts.com/#Volt",
+        "deal": true
+      },
+      "payments": [
+        "Robux",
+        "PayPal",
+        "Crypto",
+        "Cash App",
+        "Card",
+        "Bank Tranfer",
+        "iDeal"
+      ]
     }
   }
 }
