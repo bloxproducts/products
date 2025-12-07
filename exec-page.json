@@ -61,66 +61,6 @@
 				}
 			]
 		},
-		"Volt": {
-			"accent": "#68AFF2",
-			"logo": "https://files.catbox.moe/2e9a3y.png",
-			"items": [
-				{
-					"name": "Volt 7 Days",
-					"purchasePaypal": "https://stealthpay.io/cat/volt-week-key",
-					"purchase": "https://stealthpay.io/cat/volt-week-key",
-					"purchaseCard": "https://stealthpay.io/cat/volt-week-key/card",
-					"purchaseCashApp": "https://stealthpay.io/cat/volt-week-key/card",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1614553194",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/volt7"
-					},
-					"price": {
-						"$": 7.99,
-						"⏣": 2700
-					},
-					"lifetime": false,
-					"subscriptionPeriod": "7 Days",
-					"device": "https://files.catbox.moe/h1go68.png",
-					"features": [
-						"*UNDETECTED",
-						"Volt for Windows",
-						"Weekly license",
-						"Free support",
-						"Longest running"
-					],
-					"accent": "#388ce8",
-					"banner": "https://i.imgur.com/njsuC6C.png"
-				},
-				{
-					"name": "Volt 30 Days",
-					"purchasePaypal": "https://stealthpay.io/cat/volt-month-key",
-					"purchase": "https://stealthpay.io/cat/volt-month-key",
-					"purchaseCard": "https://stealthpay.io/cat/volt-month-key/card",
-					"purchaseCashApp": "https://stealthpay.io/cat/volt-month-key/card",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1613305357",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/volt30"
-					},
-					"price": {
-						"$": 24.99,
-						"⏣": 7800
-					},
-					"lifetime": false,
-					"subscriptionPeriod": "30 Days",
-					"device": "https://files.catbox.moe/h1go68.png",
-					"features": [
-						"*UNDETECTED",
-						"Volt for Windows",
-						"Monthly license",
-						"Free support",
-						"Longest running"
-					],
-					"accent": "#388ce8",
-					"banner": "https://i.imgur.com/njsuC6C.png"
-				}
-			]
-		},
 			"Serotonin": {
 			"accent": "#68AFF2",
 			"logo": "https://files.catbox.moe/su0ssq.png",
