@@ -68,7 +68,7 @@
 				{
 					"name": "Lifetime",
 					"purchasePaypal": "https://stealthpay.io/cat/potassium",
-					"purchase": "https://bloxproducts.sellauth.com/product/potassium",
+					"purchase": "https://stealthpay.io/cat/potassium",
 					"purchaseCard": "https://stealthpay.io/cat/potassium/card",
 					"purchaseCashApp": "https://stealthpay.io/cat/potassium/card",
 					"robux": {
