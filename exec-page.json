@@ -76,8 +76,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/potassium"
 					},
 					"price": {
-						"$": 19.99,
-						"⏣": 7000
+						"$": 22.99,
+						"⏣": 7500
 					},
 					"lifetime": true,
 					"device": "https://files.catbox.moe/h1go68.png",
