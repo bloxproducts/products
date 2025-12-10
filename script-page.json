@@ -146,6 +146,91 @@
             "banner": "https://i.imgur.com/dNk69d9.png"
           }
         ]
+      },
+      "LuminHub": {
+        "logo": "https://files.catbox.moe/ylrar7.png",
+        "items": [
+          {
+            "name": "Weekly",
+            "purchasePaypal": "https://stealthpay.io/cat/lumin-hub-weekly",
+            "purchase": "https://stealthpay.io/cat/lumin-hub-weekly",
+            "purchaseCard": "https://stealthpay.io/cat/lumin-hub-weekly/card",
+            "purchaseCashApp": "https://stealthpay.io/cat/lumin-hub-weekly/card",
+            "robux": {
+              "purchase": "https://www.roblox.com/game-pass/1527217254",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/luminhub30"
+            },
+            "price": {
+              "$": 2.29,
+              "⏣": 800
+            },
+            "lifetime": false,
+			"subscriptionPeriod": "Weekly",
+            "device": "https://files.catbox.moe/rimah0.png",
+            "features": [
+              "*POPULAR GAMES",
+              "Steal a Brainrot",
+              "Grow a Garden",
+              "Plants vs Brainrots",
+              "Forsaken"
+            ],
+            "accent": "#2596be",
+            "banner": "https://i.imgur.com/dNk69d9.png"
+          },
+            {
+            "name": "Monthly",
+            "purchasePaypal": "https://stealthpay.io/cat/lumin-hub-monthly",
+            "purchase": "https://stealthpay.io/cat/lumin-hub-monthly",
+            "purchaseCard": "https://stealthpay.io/cat/lumin-hub-monthly/card",
+            "purchaseCashApp": "https://stealthpay.io/cat/lumin-hub-monthly/card",
+            "robux": {
+              "purchase": "https://www.roblox.com/game-pass/1525645645",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/luminhub30"
+            },
+            "price": {
+              "$": 6.99,
+              "⏣": 2400
+            },
+            "lifetime": false,
+			"subscriptionPeriod": "Monthly",
+            "device": "https://files.catbox.moe/rimah0.png",
+            "features": [
+              "*POPULAR GAMES",
+              "Steal a Brainrot",
+              "Grow a Garden",
+              "Plants vs Brainrots",
+              "Forsaken"
+            ],
+            "accent": "#2596be",
+            "banner": "https://i.imgur.com/dNk69d9.png"
+          },
+          {
+            "name": "Lifetime",
+            "purchasePaypal": "https://stealthpay.io/cat/lumin-hub-lifetime",
+            "purchase": "https://stealthpay.io/cat/lumin-hub-lifetime",
+            "purchaseCard": "https://stealthpay.io/cat/lumin-hub-lifetime/card",
+            "purchaseCashApp": "https://stealthpay.io/cat/lumin-hub-lifetime/card",
+            "robux": {
+              "purchase": "https://www.roblox.com/game-pass/1526821633",
+              "verify": "https://bloxproducts.com/api/newcheckout/robux/luminhublifetime"
+            },
+            "price": {
+              "$": 11.59,
+              "⏣": 4000
+            },
+            "lifetime": true,
+            "device": "https://files.catbox.moe/rimah0.png",
+            "features": [
+              "*POPULAR GAMES",
+              "Steal a Brainrot",
+              "Grow a Garden",
+              "Plants vs Brainrots",
+              "Forsaken"
+            ],
+            "accent": "#2596be",
+            "banner": "https://i.imgur.com/dNk69d9.png"
+          }
+        ]
       }
     }
   }
