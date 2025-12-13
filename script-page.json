@@ -6,7 +6,7 @@
           {
             "name": "Lifetime",
             "purchasePaypal": "https://stealthpay.io/cat/speed-hub-x",
-            "purchase": "https://bloxproducts.mysellauth.com/product/speedhubx",
+            "purchase": "https://stealthpay.io/cat/speed-hub-x",
             "purchaseCard": "https://stealthpay.io/cat/speed-hub-x/card",
             "purchaseCashApp": "https://stealthpay.io/cat/speed-hub-x/card",
             "robux": {
@@ -37,7 +37,7 @@
             {
             "name": "Monthly",
             "purchasePaypal": "https://stealthpay.io/cat/mspaint",
-            "purchase": "https://bloxproducts.mysellauth.com/product/mspaint30",
+            "purchase": "https://stealthpay.io/cat/mspaint",
             "purchaseCard": "https://stealthpay.io/cat/mspaint/card",
             "purchaseCashApp": "https://stealthpay.io/cat/mspaint/card",
             "robux": {
@@ -64,7 +64,7 @@
           {
             "name": "Lifetime",
             "purchasePaypal": "https://stealthpay.io/cat/mspaint-lifetime",
-            "purchase": "https://bloxproducts.mysellauth.com/product/mspaint",
+            "purchase": "https://stealthpay.io/cat/mspaint-lifetime",
             "purchaseCard": "https://stealthpay.io/cat/mspaint-lifetime/card",
             "purchaseCashApp": "https://stealthpay.io/cat/mspaint-lifetime/card",
             "robux": {
@@ -95,7 +95,7 @@
             {
             "name": "Monthly",
             "purchasePaypal": "https://stealthpay.io/cat/xenith-hub-monthly",
-            "purchase": "https://bloxproducts.mysellauth.com/product/xenith-hub",
+            "purchase": "https://stealthpay.io/cat/xenith-hub-monthly",
             "purchaseCard": "https://stealthpay.io/cat/xenith-hub-monthly/card",
             "purchaseCashApp": "https://stealthpay.io/cat/xenith-hub-monthly/card",
             "robux": {
@@ -122,7 +122,7 @@
           {
             "name": "Lifetime",
             "purchasePaypal": "https://stealthpay.io/cat/xenith-hub-lifetime",
-            "purchase": "https://bloxproducts.mysellauth.com/product/xenith-hub",
+            "purchase": "https://stealthpay.io/cat/xenith-hub-lifetime",
             "purchaseCard": "https://stealthpay.io/cat/xenith-hub-lifetime/card",
             "purchaseCashApp": "https://stealthpay.io/cat/xenith-hub-lifetime/card",
             "robux": {
