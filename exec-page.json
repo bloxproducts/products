@@ -76,8 +76,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/volt7"
 					},
 					"price": {
-						"$": 7.99,
-						"⏣": 2700
+						"$": 5.59,
+						"⏣": 1850
 					},
 					"lifetime": false,
 					"subscriptionPeriod": "7 Days",
@@ -103,8 +103,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/volt30"
 					},
 					"price": {
-						"$": 24.99,
-						"⏣": 7800
+						"$": 18.59,
+						"⏣": 6400
 					},
 					"lifetime": false,
 					"subscriptionPeriod": "30 Days",
