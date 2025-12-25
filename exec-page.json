@@ -137,7 +137,7 @@
 					},
 					"price": {
 						"$": 18.99,
-						"⏣": 6500
+						"⏣": 5500
 					},
 					"lifetime": true,
 					"device": "https://files.catbox.moe/h1go68.png",
