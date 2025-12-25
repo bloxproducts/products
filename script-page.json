@@ -14,8 +14,8 @@
               "verify": "https://bloxproducts.com/api/newcheckout/robux/speedhubx"
             },
             "price": {
-              "$": 9.99,
-              "⏣": 3450
+              "$": 8.99,
+              "⏣": 3000
             },
             "lifetime": true,
             "device": "https://files.catbox.moe/rimah0.png",
@@ -45,8 +45,8 @@
               "verify": "https://bloxproducts.com/api/newcheckout/robux/mspaint30"
             },
             "price": {
-              "$": 2.99,
-              "⏣": 999
+              "$": 2.49,
+              "⏣": 799
             },
             "lifetime": false,
 			"subscriptionPeriod": "Monthly",
@@ -72,8 +72,8 @@
               "verify": "https://bloxproducts.com/api/newcheckout/robux/mspaint"
             },
             "price": {
-              "$": 19.99,
-              "⏣": 6900
+              "$": 17.99,
+              "⏣": 6000
             },
             "lifetime": true,
             "device": "https://files.catbox.moe/rimah0.png",
@@ -103,8 +103,8 @@
               "verify": "https://bloxproducts.com/api/newcheckout/robux/xenithhub30"
             },
             "price": {
-              "$": 4.99,
-              "⏣": 1700
+              "$": 4.39,
+              "⏣": 1500
             },
             "lifetime": false,
 			"subscriptionPeriod": "Monthly",
@@ -130,8 +130,8 @@
               "verify": "https://bloxproducts.com/api/newcheckout/robux/xenithhublifetime"
             },
             "price": {
-              "$": 19.99,
-              "⏣": 6900
+              "$": 17.99,
+              "⏣": 6000
             },
             "lifetime": true,
             "device": "https://files.catbox.moe/rimah0.png",
@@ -161,8 +161,8 @@
               "verify": "https://bloxproducts.com/api/newcheckout/robux/luminhub7"
             },
             "price": {
-              "$": 2.29,
-              "⏣": 800
+              "$": 1.99,
+              "⏣": 600
             },
             "lifetime": false,
 			"subscriptionPeriod": "Weekly",
@@ -188,8 +188,8 @@
               "verify": "https://bloxproducts.com/api/newcheckout/robux/luminhub30"
             },
             "price": {
-              "$": 6.99,
-              "⏣": 2400
+              "$": 6.19,
+              "⏣": 2200
             },
             "lifetime": false,
 			"subscriptionPeriod": "Monthly",
@@ -215,8 +215,8 @@
               "verify": "https://bloxproducts.com/api/newcheckout/robux/luminhublifetime"
             },
             "price": {
-              "$": 11.59,
-              "⏣": 4000
+              "$": 10.59,
+              "⏣": 3600
             },
             "lifetime": true,
             "device": "https://files.catbox.moe/rimah0.png",
