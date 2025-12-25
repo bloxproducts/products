@@ -15,8 +15,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/wave7"
 					},
 					"price": {
-						"$": 7.49,
-						"⏣": 2600
+						"$": 5.99,
+						"⏣": 2200
 					},
 					"lifetime": false,
 					"subscriptionPeriod": "7 Days",
@@ -42,8 +42,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/wave30"
 					},
 					"price": {
-						"$": 24.99,
-						"⏣": 7700
+						"$": 21.99,
+						"⏣": 7000
 					},
 					"lifetime": false,
 					"subscriptionPeriod": "30 Days",
