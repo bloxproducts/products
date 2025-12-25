@@ -16,8 +16,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/wave7"
 					},
 					"price": {
-						"$": 7.49,
-						"⏣": 2600
+						"$": 5.99,
+						"⏣": 2200
 					},
 					"lifetime": false,
 					"subscriptionPeriod": "7 Days",
@@ -43,8 +43,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/wave30"
 					},
 					"price": {
-						"$": 24.49,
-						"⏣": 7700
+						"$": 21.99,
+						"⏣": 7000
 					},
 					"lifetime": false,
 					"subscriptionPeriod": "30 Days",
@@ -76,8 +76,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/volt7"
 					},
 					"price": {
-						"$": 5.39,
-						"⏣": 1850
+						"$": 4.99,
+						"⏣": 1500
 					},
 					"lifetime": false,
 					"subscriptionPeriod": "7 Days",
@@ -103,8 +103,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/volt30"
 					},
 					"price": {
-						"$": 18.59,
-						"⏣": 6400
+						"$": 16.99,
+						"⏣": 5800
 					},
 					"lifetime": false,
 					"subscriptionPeriod": "30 Days",
@@ -136,8 +136,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/potassium"
 					},
 					"price": {
-						"$": 22.99,
-						"⏣": 7500
+						"$": 18.99,
+						"⏣": 6500
 					},
 					"lifetime": true,
 					"device": "https://files.catbox.moe/h1go68.png",
@@ -168,8 +168,8 @@
 					"verify": "https://bloxproducts.com/api/newcheckout/robux/serotonin30"
 				},
 				"price": {
-					"$": 9.79,
-					"⏣": 3450
+					"$": 8.49,
+					"⏣": 3000
 				},
 				"lifetime": false,
 				"subscriptionPeriod": "Monthly",
@@ -195,8 +195,8 @@
 					"verify": "https://bloxproducts.com/api/newcheckout/robux/serotonin90"
 				},
 				"price": {
-					"$": 23.99,
-					"⏣": 8500
+					"$": 19.99,
+					"⏣": 6000
 				},
 				"lifetime": false,
 				"subscriptionPeriod": "90 Days",
@@ -228,8 +228,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/ronin"
 					},
 					"price": {
-						"$": 9.89,
-						"⏣": 3450
+						"$": 7.99,
+						"⏣": 2800
 					},
 					"lifetime": true,
 					"device": "https://files.catbox.moe/h1go68.png",
@@ -260,8 +260,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/matcha"
 					},
 					"price": {
-						"$": 9.99,
-						"⏣": 3500
+						"$": 8.99,
+						"⏣": 3100
 					},
 					"lifetime": true,
 					"device": "https://files.catbox.moe/h1go68.png",
@@ -292,8 +292,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/cryptic30"
 					},
 					"price": {
-						"$": 4.99,
-						"⏣": 1820
+						"$": 4.39,
+						"⏣": 1500
 					},
 					"lifetime": false,
 					"subscriptionPeriod": "30 Days",
@@ -319,8 +319,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/cryptic90"
 					},
 					"price": {
-						"$": 9.99,
-						"⏣": 3500
+						"$": 8.99,
+						"⏣": 3000
 					},
 					"lifetime": false,
 					"subscriptionPeriod": "90 Days",
@@ -346,8 +346,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/crypticlife"
 					},
 					"price": {
-						"$": 23.99,
-						"⏣": 6900
+						"$": 21.99,
+						"⏣": 6000
 					},
 					"lifetime": true,
 					"device": "https://files.catbox.moe/4p7zd0.png",
@@ -378,8 +378,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/aureusstandard"
 					},
 					"price": {
-						"$": 14.99,
-						"⏣": 5200
+						"$": 13.99,
+						"⏣": 4500
 					},
 					"lifetime": true,
 					"device": "https://files.catbox.moe/rimah0.png",
@@ -404,8 +404,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/aureuspremium"
 					},
 					"price": {
-						"$": 49.99,
-						"⏣": 17300
+						"$": 44.99,
+						"⏣": 15500
 					},
 					"lifetime": true,
 					"device": "https://files.catbox.moe/rimah0.png",
@@ -436,8 +436,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/exolinerstandard"
 					},
 					"price": {
-						"$": 9.99,
-						"⏣": 3500
+						"$": 8.99,
+						"⏣": 3000
 					},
 					"lifetime": true,
 					"device": "https://files.catbox.moe/rimah0.png",
@@ -462,8 +462,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/exolinerpremium"
 					},
 					"price": {
-						"$": 39.99,
-						"⏣": 14000
+						"$": 35.99,
+						"⏣": 13000
 					},
 					"lifetime": true,
 					"device": "https://files.catbox.moe/rimah0.png",
@@ -494,8 +494,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/macsploit"
 					},
 					"price": {
-						"$": 9.99,
-						"⏣": 3500
+						"$": 8.99,
+						"⏣": 3000
 					},
 					"lifetime": true,
 						"device": "https://files.catbox.moe/okxt74.png",
