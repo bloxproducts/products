@@ -76,8 +76,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/volt7"
 					},
 					"price": {
-						"$": 4.99,
-						"⏣": 1500
+						"$": 5.19,
+						"⏣": 1700
 					},
 					"lifetime": false,
 					"subscriptionPeriod": "7 Days",
