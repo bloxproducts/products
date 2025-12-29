@@ -260,8 +260,8 @@
 						"verify": "https://bloxproducts.com/api/newcheckout/robux/matcha"
 					},
 					"price": {
-						"$": 9.99,
-						"⏣": 3500
+						"$": 11.99,
+						"⏣": 4000
 					},
 					"lifetime": true,
 					"device": "https://files.catbox.moe/h1go68.png",
