@@ -1,237 +1,140 @@
 {
     "groups": {
-      "Speed Hub X": {
-        "logo": "https://files.catbox.moe/019n27.png",
-        "items": [
-          {
-            "name": "Lifetime",
-            "purchasePaypal": "https://stealthpay.io/cat/speed-hub-x",
-            "purchase": "https://stealthpay.io/cat/speed-hub-x",
-            "purchaseCard": "https://stealthpay.io/cat/speed-hub-x/card",
-            "purchaseCashApp": "https://stealthpay.io/cat/speed-hub-x/card",
-            "robux": {
-              "purchase": "https://www.roblox.com/game-pass/1347279564",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/speedhubx"
-            },
-            "price": {
-              "$": 8.99,
-              "⏣": 3000
-            },
-            "lifetime": true,
-            "device": "https://files.catbox.moe/rimah0.png",
-            "features": [
-              "*TONS of games",
-              "Best Grow a Garden Script",
-              "BloxFruit ",
-              "The Strongest Battlegrounds",
-              "Tons of main-page games"
-            ],
-            "accent": "#2596be",
-            "banner": "https://i.imgur.com/dNk69d9.png"
-          }
-        ]
-      },
-      "MSPaint": {
-        "logo": "https://files.catbox.moe/lbeknv.png",
-        "items": [
-            {
-            "name": "Monthly",
-            "purchasePaypal": "https://stealthpay.io/cat/mspaint",
-            "purchase": "https://stealthpay.io/cat/mspaint",
-            "purchaseCard": "https://stealthpay.io/cat/mspaint/card",
-            "purchaseCashApp": "https://stealthpay.io/cat/mspaint/card",
-            "robux": {
-              "purchase": "https://www.roblox.com/game-pass/1410108994",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/mspaint30"
-            },
-            "price": {
-              "$": 2.49,
-              "⏣": 799
-            },
-            "lifetime": false,
-			"subscriptionPeriod": "Monthly",
-            "device": "https://files.catbox.moe/rimah0.png",
-            "features": [
-              "*Best Script Hub",
-              "Best DOORS Script",
-              "Fisch",
-              "3008",
-              "Tons of Supported Games"
-            ],
-            "accent": "#2596be",
-            "banner": "https://i.imgur.com/dNk69d9.png"
-          },
-          {
-            "name": "Lifetime",
-            "purchasePaypal": "https://stealthpay.io/cat/mspaint-lifetime",
-            "purchase": "https://stealthpay.io/cat/mspaint-lifetime",
-            "purchaseCard": "https://stealthpay.io/cat/mspaint-lifetime/card",
-            "purchaseCashApp": "https://stealthpay.io/cat/mspaint-lifetime/card",
-            "robux": {
-              "purchase": "https://www.roblox.com/game-pass/1143425541",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/mspaint"
-            },
-            "price": {
-              "$": 17.99,
-              "⏣": 6000
-            },
-            "lifetime": true,
-            "device": "https://files.catbox.moe/rimah0.png",
-            "features": [
-              "*Best Script Hub",
-              "Best DOORS Script",
-              "Fisch",
-              "3008",
-              "Tons of Supported Games"
-            ],
-            "accent": "#2596be",
-            "banner": "https://i.imgur.com/dNk69d9.png"
-          }
-        ]
-      },
-      "XenithHub": {
-        "logo": "https://files.catbox.moe/apn7ky.png",
-        "items": [
-            {
-            "name": "Monthly",
-            "purchasePaypal": "https://stealthpay.io/cat/xenith-hub-monthly",
-            "purchase": "https://stealthpay.io/cat/xenith-hub-monthly",
-            "purchaseCard": "https://stealthpay.io/cat/xenith-hub-monthly/card",
-            "purchaseCashApp": "https://stealthpay.io/cat/xenith-hub-monthly/card",
-            "robux": {
-              "purchase": "https://www.roblox.com/game-pass/1412018276",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/xenithhub30"
-            },
-            "price": {
-              "$": 4.39,
-              "⏣": 1500
-            },
-            "lifetime": false,
-			"subscriptionPeriod": "Monthly",
-            "device": "https://files.catbox.moe/rimah0.png",
-            "features": [
-              "*HUGE games library",
-              "Best ToH Script",
-              "Garden Tower Defense",
-              "Fruit Battlegrounds",
-              "Ink Game"
-            ],
-            "accent": "#2596be",
-            "banner": "https://i.imgur.com/dNk69d9.png"
-          },
-          {
-            "name": "Lifetime",
-            "purchasePaypal": "https://stealthpay.io/cat/xenith-hub-lifetime",
-            "purchase": "https://stealthpay.io/cat/xenith-hub-lifetime",
-            "purchaseCard": "https://stealthpay.io/cat/xenith-hub-lifetime/card",
-            "purchaseCashApp": "https://stealthpay.io/cat/xenith-hub-lifetime/card",
-            "robux": {
-              "purchase": "https://www.roblox.com/game-pass/1411778351",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/xenithhublifetime"
-            },
-            "price": {
-              "$": 17.99,
-              "⏣": 6000
-            },
-            "lifetime": true,
-            "device": "https://files.catbox.moe/rimah0.png",
-            "features": [
-              "*HUGE games library",
-              "Best ToH Script",
-              "Garden Tower Defense",
-              "Fruit Battlegrounds",
-              "Ink Game"
-            ],
-            "accent": "#2596be",
-            "banner": "https://i.imgur.com/dNk69d9.png"
-          }
-        ]
-      },
-      "LuminHub": {
-        "logo": "https://files.catbox.moe/ylrar7.png",
-        "items": [
-          {
-            "name": "Weekly",
-            "purchasePaypal": "https://stealthpay.io/cat/lumin-hub-weekly",
-            "purchase": "https://stealthpay.io/cat/lumin-hub-weekly",
-            "purchaseCard": "https://stealthpay.io/cat/lumin-hub-weekly/card",
-            "purchaseCashApp": "https://stealthpay.io/cat/lumin-hub-weekly/card",
-            "robux": {
-              "purchase": "https://www.roblox.com/game-pass/1527217254",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/luminhub7"
-            },
-            "price": {
-              "$": 1.99,
-              "⏣": 600
-            },
-            "lifetime": false,
-			"subscriptionPeriod": "Weekly",
-            "device": "https://files.catbox.moe/rimah0.png",
-            "features": [
-              "*POPULAR GAMES",
-              "Steal a Brainrot",
-              "Grow a Garden",
-              "Plants vs Brainrots",
-              "Forsaken"
-            ],
-            "accent": "#2596be",
-            "banner": "https://i.imgur.com/dNk69d9.png"
-          },
-            {
-            "name": "Monthly",
-            "purchasePaypal": "https://stealthpay.io/cat/lumin-hub-monthly",
-            "purchase": "https://stealthpay.io/cat/lumin-hub-monthly",
-            "purchaseCard": "https://stealthpay.io/cat/lumin-hub-monthly/card",
-            "purchaseCashApp": "https://stealthpay.io/cat/lumin-hub-monthly/card",
-            "robux": {
-              "purchase": "https://www.roblox.com/game-pass/1525645645",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/luminhub30"
-            },
-            "price": {
-              "$": 6.19,
-              "⏣": 2200
-            },
-            "lifetime": false,
-			"subscriptionPeriod": "Monthly",
-            "device": "https://files.catbox.moe/rimah0.png",
-            "features": [
-              "*POPULAR GAMES",
-              "Steal a Brainrot",
-              "Grow a Garden",
-              "Plants vs Brainrots",
-              "Forsaken"
-            ],
-            "accent": "#2596be",
-            "banner": "https://i.imgur.com/dNk69d9.png"
-          },
-          {
-            "name": "Lifetime",
-            "purchasePaypal": "https://stealthpay.io/cat/lumin-hub-lifetime",
-            "purchase": "https://stealthpay.io/cat/lumin-hub-lifetime",
-            "purchaseCard": "https://stealthpay.io/cat/lumin-hub-lifetime/card",
-            "purchaseCashApp": "https://stealthpay.io/cat/lumin-hub-lifetime/card",
-            "robux": {
-              "purchase": "https://www.roblox.com/game-pass/1526821633",
-              "verify": "https://bloxproducts.com/api/newcheckout/robux/luminhublifetime"
-            },
-            "price": {
-              "$": 10.59,
-              "⏣": 3600
-            },
-            "lifetime": true,
-            "device": "https://files.catbox.moe/rimah0.png",
-            "features": [
-              "*POPULAR GAMES",
-              "Steal a Brainrot",
-              "Grow a Garden",
-              "Plants vs Brainrots",
-              "Forsaken"
-            ],
-            "accent": "#2596be",
-            "banner": "https://i.imgur.com/dNk69d9.png"
-          }
-        ]
-      }
+        "Speed Hub X": {
+            "logo": "https://files.catbox.moe/019n27.png",
+            "items": [
+                {
+                    "name": "Lifetime",
+                    "purchase": "https://stealthpay.io/cat/speed-hub-x",
+                    "price": 8.99,
+                    "lifetime": true,
+                    "device": "https://files.catbox.moe/rimah0.png",
+                    "features": [
+                        "*TONS of games",
+                        "Best Grow a Garden Script",
+                        "BloxFruit ",
+                        "The Strongest Battlegrounds",
+                        "Tons of main-page games"
+                    ]
+                }
+            ]
+        },
+        "MSPaint": {
+            "logo": "https://files.catbox.moe/lbeknv.png",
+            "items": [
+                {
+                    "name": "Monthly",
+                    "purchase": "https://stealthpay.io/cat/mspaint",
+                    "price": 2.49,
+                    "lifetime": false,
+                    "subscriptionPeriod": "Monthly",
+                    "device": "https://files.catbox.moe/rimah0.png",
+                    "features": [
+                        "*Best Script Hub",
+                        "Best DOORS Script",
+                        "Fisch",
+                        "3008",
+                        "Tons of Supported Games"
+                    ]
+                },
+                {
+                    "name": "Lifetime",
+                    "purchase": "https://stealthpay.io/cat/mspaint-lifetime",
+                    "price": 17.99,
+                    "lifetime": true,
+                    "device": "https://files.catbox.moe/rimah0.png",
+                    "features": [
+                        "*Best Script Hub",
+                        "Best DOORS Script",
+                        "Fisch",
+                        "3008",
+                        "Tons of Supported Games"
+                    ]
+                }
+            ]
+        },
+        "XenithHub": {
+            "logo": "https://files.catbox.moe/apn7ky.png",
+            "items": [
+                {
+                    "name": "Monthly",
+                    "purchase": "https://stealthpay.io/cat/xenith-hub-monthly",
+                    "price": 4.39,
+                    "lifetime": false,
+                    "subscriptionPeriod": "Monthly",
+                    "device": "https://files.catbox.moe/rimah0.png",
+                    "features": [
+                        "*HUGE games library",
+                        "Best ToH Script",
+                        "Garden Tower Defense",
+                        "Fruit Battlegrounds",
+                        "Ink Game"
+                    ]
+                },
+                {
+                    "name": "Lifetime",
+                    "purchase": "https://stealthpay.io/cat/xenith-hub-lifetime",
+                    "price": 17.99,
+                    "lifetime": true,
+                    "device": "https://files.catbox.moe/rimah0.png",
+                    "features": [
+                        "*HUGE games library",
+                        "Best ToH Script",
+                        "Garden Tower Defense",
+                        "Fruit Battlegrounds",
+                        "Ink Game"
+                    ]
+                }
+            ]
+        },
+        "LuminHub": {
+            "logo": "https://files.catbox.moe/ylrar7.png",
+            "items": [
+                {
+                    "name": "Weekly",
+                    "purchase": "https://stealthpay.io/cat/lumin-hub-weekly",
+                    "price": 1.99,
+                    "lifetime": false,
+                    "subscriptionPeriod": "Weekly",
+                    "device": "https://files.catbox.moe/rimah0.png",
+                    "features": [
+                        "*POPULAR GAMES",
+                        "Steal a Brainrot",
+                        "Grow a Garden",
+                        "Plants vs Brainrots",
+                        "Forsaken"
+                    ]
+                },
+                {
+                    "name": "Monthly",
+                    "purchase": "https://stealthpay.io/cat/lumin-hub-monthly",
+                    "price": 6.19,
+                    "lifetime": false,
+                    "subscriptionPeriod": "Monthly",
+                    "device": "https://files.catbox.moe/rimah0.png",
+                    "features": [
+                        "*POPULAR GAMES",
+                        "Steal a Brainrot",
+                        "Grow a Garden",
+                        "Plants vs Brainrots",
+                        "Forsaken"
+                    ]
+                },
+                {
+                    "name": "Lifetime",
+                    "purchase": "https://stealthpay.io/cat/lumin-hub-lifetime",
+                    "price": 10.59,
+                    "lifetime": true,
+                    "device": "https://files.catbox.moe/rimah0.png",
+                    "features": [
+                        "*POPULAR GAMES",
+                        "Steal a Brainrot",
+                        "Grow a Garden",
+                        "Plants vs Brainrots",
+                        "Forsaken"
+                    ]
+                }
+            ]
+        }
     }
-  }
-  
+}
