@@ -1,515 +1,315 @@
 {
-	"accent-bottom": "#ffffff88",
-	"groups": {
-		"Wave": {
-			"accent": "#68AFF2",
-			"logo": "https://files.catbox.moe/eug28v.png",
-			"items": [
-				{
-					"name": "Wave 7 Days",
-					"purchasePaypal": "https://stealthpay.io/cat/wave-week-key",
-					"purchase": "https://stealthpay.io/cat/wave-week-key",
-					"purchaseCard": "https://stealthpay.io/cat/wave-week-key/card",
-					"purchaseCashApp": "https://stealthpay.io/cat/wave-week-key/card",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1143561358",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/wave7"
-					},
-					"price": {
-						"$": 5.49,
-						"⏣": 2000
-					},
-					"lifetime": false,
-					"subscriptionPeriod": "7 Days",
-					"device": "https://files.catbox.moe/h1go68.png",
-					"features": [
-						"*Cheapest",
-						"Wave for Windows",
-						"Weekly license",
-						"Free support",
-						"Longest running"
-					],
-					"accent": "#388ce8",
-					"banner": "https://i.imgur.com/njsuC6C.png"
-				},
-				{
-					"name": "Wave 30 Days",
-					"purchasePaypal": "https://stealthpay.io/cat/wave-month-key",
-					"purchase": "https://stealthpay.io/cat/wave-month-key",
-					"purchaseCard": "https://stealthpay.io/cat/wave-month-key/card",
-					"purchaseCashApp": "https://stealthpay.io/cat/wave-month-key/card",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1143495679",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/wave30"
-					},
-					"price": {
-						"$": 18.99,
-						"⏣": 5000
-					},
-					"lifetime": false,
-					"subscriptionPeriod": "30 Days",
-					"device": "https://files.catbox.moe/h1go68.png",
-					"features": [
-						"*Most popular",
-						"Wave for Windows",
-						"Monthly license",
-						"Free support",
-						"Longest running"
-					],
-					"accent": "#388ce8",
-					"banner": "https://i.imgur.com/njsuC6C.png"
-				}
-			]
-		},
-				"Volt": {
-			"accent": "#68AFF2",
-			"logo": "https://files.catbox.moe/2e9a3y.png",
-			"items": [
-				{
-					"name": "Volt 7 Days",
-					"purchasePaypal": "https://stealthpay.io/cat/volt-week-key",
-					"purchase": "https://stealthpay.io/cat/volt-week-key",
-					"purchaseCard": "https://stealthpay.io/cat/volt-week-key/card",
-					"purchaseCashApp": "https://stealthpay.io/cat/volt-week-key/card",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1614553194",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/volt7"
-					},
-					"price": {
-						"$": 5.19,
-						"⏣": 1850
-					},
-					"lifetime": false,
-					"subscriptionPeriod": "7 Days",
-					"device": "https://files.catbox.moe/h1go68.png",
-					"features": [
-						"*UNDETECTED",
-						"Volt for Windows",
-						"Weekly license",
-						"Free support",
-						"Longest running"
-					],
-					"accent": "#388ce8",
-					"banner": "https://i.imgur.com/njsuC6C.png"
-				},
-				{
-					"name": "Volt 30 Days",
-					"purchasePaypal": "https://stealthpay.io/cat/volt-month-key",
-					"purchase": "https://stealthpay.io/cat/volt-month-key",
-					"purchaseCard": "https://stealthpay.io/cat/volt-month-key/card",
-					"purchaseCashApp": "https://stealthpay.io/cat/volt-month-key/card",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1613305357",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/volt30"
-					},
-					"price": {
-						"$": 17.99,
-						"⏣": 6400
-					},
-					"lifetime": false,
-					"subscriptionPeriod": "30 Days",
-					"device": "https://files.catbox.moe/h1go68.png",
-					"features": [
-						"*UNDETECTED",
-						"Volt for Windows",
-						"Monthly license",
-						"Free support",
-						"Longest running"
-					],
-					"accent": "#388ce8",
-					"banner": "https://i.imgur.com/njsuC6C.png"
-				}
-			]
-		},
-		"Potassium": {
-			"accent": "#68AFF2",
-			"logo": "https://files.catbox.moe/w86ifa.png",
-			"items": [
-				{
-					"name": "Lifetime",
-					"purchasePaypal": "https://stealthpay.io/cat/potassium",
-					"purchase": "https://stealthpay.io/cat/potassium",
-					"purchaseCard": "https://stealthpay.io/cat/potassium/card",
-					"purchaseCashApp": "https://stealthpay.io/cat/potassium/card",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1525285295",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/potassium"
-					},
-					"price": {
-						"$": 18.99,
-						"⏣": 5500
-					},
-					"lifetime": true,
-					"device": "https://files.catbox.moe/h1go68.png",
-					"features": [
-						"*LIFETIME",
-						"Executes ALL Scripts",
-						"Undetected",
-						"Easy Setup",
-						"Works on Windows 10 & 11"
-					],
-					"accent": "#388ce8",
-					"banner": "https://i.imgur.com/JaLbMim.png"
-				}
-			]
-		},
-			"Serotonin": {
-			"accent": "#68AFF2",
-			"logo": "https://files.catbox.moe/su0ssq.png",
-			"items": [
-				{
-				"name": "Monthly",
-				"purchasePaypal": "https://stealthpay.io/cat/serotonin-month",
-				"purchase": "https://stealthpay.io/cat/serotonin-month",
-				"purchaseCard": "https://stealthpay.io/cat/serotonin-month/card",
-				"purchaseCashApp": "https://stealthpay.io/cat/serotonin-month/card",
-				"robux": {
-					"purchase": "https://www.roblox.com/game-pass/1347563475",
-					"verify": "https://bloxproducts.com/api/newcheckout/robux/serotonin30"
-				},
-				"price": {
-					"$": 8.49,
-					"⏣": 3000
-				},
-				"lifetime": false,
-				"subscriptionPeriod": "Monthly",
-				"device": "https://files.catbox.moe/h1go68.png",
-				"features": [
-					"*Undetected External",
-					"Serotonin for Windows",
-					"Monthly license",
-					"Free support",
-					"Easy setup"
-				],
-				"accent": "#1B3F66",
-				"banner": "https://i.imgur.com/P385A5G.jpeg"
-				},
-				{
-				"name": "90 Days",
-				"purchasePaypal": "https://stealthpay.io/cat/serotonin-90d",
-				"purchase": "https://stealthpay.io/cat/serotonin-90d",
-				"purchaseCard": "https://stealthpay.io/cat/serotonin-90d/card",
-				"purchaseCashApp": "https://bloxproducts.sellauth.com/product/serotonin",
-				"robux": {
-					"purchase": "https://www.roblox.com/game-pass/1346243654",
-					"verify": "https://bloxproducts.com/api/newcheckout/robux/serotonin90"
-				},
-				"price": {
-					"$": 19.99,
-					"⏣": 6000
-				},
-				"lifetime": false,
-				"subscriptionPeriod": "90 Days",
-				"device": "https://files.catbox.moe/h1go68.png",
-				"features": [
-					"*Undetected External",
-					"Serotonin for Windows",
-					"90-Day license",
-					"Free support",
-					"Easy setup"
-				],
-				"accent": "#1B3F66",
-				"banner": "https://i.imgur.com/P385A5G.jpeg"
-				}
-			]
-		},
-		  "Ronin": {
-			"accent": "#68AFF2",
-			"logo": "https://files.catbox.moe/uz9bq9.png",
-			"items": [
-				{
-					"name": "Lifetime",
-					"purchasePaypal": "https://stealthpay.io/cat/ronin",
-					"purchase": "https://stealthpay.io/cat/ronin",
-					"purchaseCard": "https://stealthpay.io/cat/ronin/card",
-					"purchaseCashApp": "https://stealthpay.io/cat/ronin/card",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1143687496",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/ronin"
-					},
-					"price": {
-						"$": 7.99,
-						"⏣": 2800
-					},
-					"lifetime": true,
-					"device": "https://files.catbox.moe/h1go68.png",
-					"features": [
-						"*External",
-						"OP Aimbot",
-						"Lifetime License",
-						"Easy Setup",
-						"Undetectable"
-					],
-					"accent": "#388ce8",
-					"banner": "https://i.imgur.com/JaLbMim.png"
-				}
-			]
-		},
-		"Matcha": {
-			"accent": "#68AFF2",
-			"logo": "https://files.catbox.moe/w7ob4c.png",
-			"items": [
-				{
-					"name": "Lifetime",
-					"purchasePaypal": "https://stealthpay.io/cat/matcha",
-					"purchase": "https://stealthpay.io/cat/matcha",
-					"purchaseCard": "https://stealthpay.io/cat/matcha/card",
-					"purchaseCashApp": "https://stealthpay.io/cat/matcha/card",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1143523485",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/matcha"
-					},
-					"price": {
-						"$": 11.99,
-						"⏣": 4000
-					},
-					"lifetime": true,
-					"device": "https://files.catbox.moe/h1go68.png",
-					"features": [
-						"*External",
-						"OP Aimbot",
-						"Lifetime License",
-						"Easy Setup",
-						"Undetectable"
-					],
-					"accent": "#388ce8",
-					"banner": "https://i.imgur.com/JaLbMim.png"
-				}
-			]
-		},
-		"Cryptic": {
-			"accent": "#68AFF2",
-			"logo": "https://files.catbox.moe/64ivno.png",
-			"items": [
-				{
-					"name": "Cryptic 30 Days",
-					"purchasePaypal": "https://stealthpay.io/cat/cryptic-30-days",
-					"purchase": "https://stealthpay.io/cat/cryptic-30-days",
-					"purchaseCard": "https://stealthpay.io/cat/cryptic-30-days/card",
-					"purchaseCashApp": "https://stealthpay.io/cat/cryptic-30-days/card",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1143125902",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/cryptic30"
-					},
-					"price": {
-						"$": 4.39,
-						"⏣": 1500
-					},
-					"lifetime": false,
-					"subscriptionPeriod": "30 Days",
-					"device": "https://files.catbox.moe/4p7zd0.png",
-					"features": [
-						"*Most popular",
-						"Cryptic for all compatible devices",
-						"Monthly license",
-						"Free support",
-						"Easy setup"
-					],
-					"accent": "#1B3F66",
-					"banner": "https://i.imgur.com/mZ2Syfv.png"
-				},
-				{
-					"name": "Cryptic 90 Days",
-					"purchasePaypal": "https://stealthpay.io/cat/cryptic-90-days",
-					"purchase": "https://stealthpay.io/cat/cryptic-90-days",
-					"purchaseCard": "https://stealthpay.io/cat/cryptic-90-days/card",
-					"purchaseCashApp": "https://stealthpay.io/cat/cryptic-90-days/card",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1143479386",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/cryptic90"
-					},
-					"price": {
-						"$": 8.99,
-						"⏣": 3000
-					},
-					"lifetime": false,
-					"subscriptionPeriod": "90 Days",
-					"device": "https://files.catbox.moe/4p7zd0.png",
-					"features": [
-						"Undetected",
-						"Cryptic for all compatible devices",
-						"Quarterly license",
-						"Free support",
-						"Easy setup"
-					],
-					"accent": "#1B3F66",
-					"banner": "https://i.imgur.com/mZ2Syfv.png"
-				},
-				{
-					"name": "Cryptic Lifetime",
-					"purchasePaypal": "https://stealthpay.io/cat/cryptic-lifetime",
-					"purchase": "https://stealthpay.io/cat/cryptic-lifetime",
-					"purchaseCard": "https://stealthpay.io/cat/cryptic-lifetime/card",
-					"purchaseCashApp": "https://stealthpay.io/cat/cryptic-lifetime/card",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1143393506",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/crypticlife"
-					},
-					"price": {
-						"$": 21.99,
-						"⏣": 6000
-					},
-					"lifetime": true,
-					"device": "https://files.catbox.moe/4p7zd0.png",
-					"features": [
-						"*Most value",
-						"Cryptic for all compatible devices",
-						"Lifetime License",
-						"Free support",
-						"Easy setup"
-					],
-					"accent": "#1B3F66",
-					"banner": "https://i.imgur.com/mZ2Syfv.png"
-				}
-			]
-		},
-		"Aureus": {
-			"accent": "#68AFF2",
-			"logo": "https://files.catbox.moe/o4szb9.png",
-			"items": [
-				{
-					"name": "Standard",
-					"purchasePaypal": "https://stealthpay.io/cat/aureus-standard",
-					"purchase": "https://stealthpay.io/cat/aureus-standard",
-					"purchaseCard": "https://stealthpay.io/cat/aureus-standard/card",
-					"purchaseCashApp": "https://stealthpay.io/cat/aureus-standard/card",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1143641313",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/aureusstandard"
-					},
-					"price": {
-						"$": 13.99,
-						"⏣": 4500
-					},
-					"lifetime": true,
-					"device": "https://files.catbox.moe/rimah0.png",
-					"features": [
-						"*Standard",
-						"Budget-friendly version",
-						"Lifetime License",
-						"Free support",
-						"Undetectable"
-					],
-					"accent": "#000000",
-					"banner": "https://i.imgur.com/4uqcsKI.png"
-				},
-				{
-					"name": "Premium",
-					"purchasePaypal": "https://stealthpay.io/cat/aureus-premium",
-					"purchase": "https://stealthpay.io/cat/aureus-premium",
-					"purchaseCard": "https://stealthpay.io/cat/aureus-premium/card",
-					"purchaseCashApp": "https://stealthpay.io/cat/aureus-premium/card",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1143621371",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/aureuspremium"
-					},
-					"price": {
-						"$": 44.99,
-						"⏣": 15500
-					},
-					"lifetime": true,
-					"device": "https://files.catbox.moe/rimah0.png",
-					"features": [
-						"*Premium (OP)",
-						"Best Serverside",
-						"Lifetime License",
-						"Free support",
-						"Undetectable"
-					],
-					"accent": "#000000",
-					"banner": "https://i.imgur.com/4uqcsKI.png"
-				}
-			]
-		},
-		"Exoliner": {
-			"accent": "#68AFF2",
-			"logo": "https://files.catbox.moe/xboggl.png",
-			"items": [
-				{
-					"name": "Standard",
-					"purchasePaypal": "https://stealthpay.io/cat/exoliner-standard",
-					"purchase": "https://stealthpay.io/cat/exoliner-standard",
-					"purchaseCard": "https://stealthpay.io/cat/exoliner-standard/card",
-					"purchaseCashApp": "https://stealthpay.io/cat/exoliner-standard/card",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1156141814",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/exolinerstandard"
-					},
-					"price": {
-						"$": 8.99,
-						"⏣": 3000
-					},
-					"lifetime": true,
-					"device": "https://files.catbox.moe/rimah0.png",
-					"features": [
-						"*Cheap",
-						"Budget-friendly SS",
-						"Lifetime License",
-						"Free support",
-						"Undetectable"
-					],
-					"accent": "#000000",
-					"banner": "https://i.imgur.com/4uqcsKI.png"
-				},
-				{
-					"name": "Premium",
-					"purchasePaypal": "https://stealthpay.io/cat/exoliner-premium",
-					"purchase": "https://stealthpay.io/cat/exoliner-premium",
-					"purchaseCard": "https://stealthpay.io/cat/exoliner-premium/card",
-					"purchaseCashApp": "https://stealthpay.io/cat/exoliner-premium/card",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1156073783",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/exolinerpremium"
-					},
-					"price": {
-						"$": 35.99,
-						"⏣": 13000
-					},
-					"lifetime": true,
-					"device": "https://files.catbox.moe/rimah0.png",
-					"features": [
-						"*Overpowered",
-						"Best value Serverside",
-						"Lifetime License",
-						"Free support",
-						"Undetectable"
-					],
-					"accent": "#000000",
-					"banner": "https://i.imgur.com/4uqcsKI.png"
-				}
-			]
-		},
-		"MacSploit": {
-			"accent": "#68AFF2",
-			"logo": "https://files.catbox.moe/mklhmb.png",
-			"items": [
-				{
-					"name": "MacSploit Lifetime",
-					"purchasePaypal": "https://stealthpay.io/cat/macsploit",
-					"purchase": "https://stealthpay.io/cat/macsploit",
-					"purchaseCard": "https://stealthpay.io/cat/macsploit/card",
-					"purchaseCashApp": "https://stealthpay.io/cat/macsploit/card",
-					"robux": {
-						"purchase": "https://www.roblox.com/game-pass/1143425540",
-						"verify": "https://bloxproducts.com/api/newcheckout/robux/macsploit"
-					},
-					"price": {
-						"$": 8.99,
-						"⏣": 3000
-					},
-					"lifetime": true,
-						"device": "https://files.catbox.moe/okxt74.png",
-						"features": [
-							"*MacOS execution",
-							"Cheapest on market",
-							"Lifetime License",
-							"Free support",
-							"High UNC"
-						],
-						"accent": "#1B3F66",
-						"banner": "https://i.imgur.com/mZ2Syfv.png"
-				}
-			]
-		}
-	}
-  }
+    "groups": {
+        "Wave": {
+            "logo": "https://files.catbox.moe/eug28v.png",
+            "items": [
+                {
+                    "name": "Wave 7 Days",
+                    "purchase": "https://stealthpay.io/cat/wave-week-key",
+                    "price": 5.49,
+                    "lifetime": false,
+                    "subscriptionPeriod": "7 Days",
+                    "device": "https://files.catbox.moe/h1go68.png",
+                    "features": [
+                        "*Cheapest",
+                        "Wave for Windows",
+                        "Weekly license",
+                        "Free support",
+                        "Longest running"
+                    ]
+                },
+                {
+                    "name": "Wave 30 Days",
+                    "purchase": "https://stealthpay.io/cat/wave-month-key",
+                    "price": 18.99,
+                    "lifetime": false,
+                    "subscriptionPeriod": "30 Days",
+                    "device": "https://files.catbox.moe/h1go68.png",
+                    "features": [
+                        "*Most popular",
+                        "Wave for Windows",
+                        "Monthly license",
+                        "Free support",
+                        "Longest running"
+                    ]
+                }
+            ]
+        },
+        "Volt": {
+            "logo": "https://files.catbox.moe/2e9a3y.png",
+            "items": [
+                {
+                    "name": "Volt 7 Days",
+                    "purchase": "https://stealthpay.io/cat/volt-week-key",
+                    "price": 5.19,
+                    "lifetime": false,
+                    "subscriptionPeriod": "7 Days",
+                    "device": "https://files.catbox.moe/h1go68.png",
+                    "features": [
+                        "*UNDETECTED",
+                        "Volt for Windows",
+                        "Weekly license",
+                        "Free support",
+                        "Longest running"
+                    ]
+                },
+                {
+                    "name": "Volt 30 Days",
+                    "purchase": "https://stealthpay.io/cat/volt-month-key",
+                    "price": 17.99,
+                    "lifetime": false,
+                    "subscriptionPeriod": "30 Days",
+                    "device": "https://files.catbox.moe/h1go68.png",
+                    "features": [
+                        "*UNDETECTED",
+                        "Volt for Windows",
+                        "Monthly license",
+                        "Free support",
+                        "Longest running"
+                    ]
+                },
+                {
+                    "name": "Volt 90 Days",
+                    "purchase": "https://stealthpay.io/cat/volt-month-key",
+                    "price": 17.99,
+                    "lifetime": false,
+                    "subscriptionPeriod": "30 Days",
+                    "device": "https://files.catbox.moe/h1go68.png",
+                    "features": [
+                        "*UNDETECTED",
+                        "Volt for Windows",
+                        "Monthly license",
+                        "Free support",
+                        "Longest running"
+                    ]
+                }
+            ]
+        },
+        "Potassium": {
+            "logo": "https://files.catbox.moe/w86ifa.png",
+            "items": [
+                {
+                    "name": "Lifetime",
+                    "purchase": "https://stealthpay.io/cat/potassium",
+                    "price": 18.99,
+                    "lifetime": true,
+                    "device": "https://files.catbox.moe/h1go68.png",
+                    "features": [
+                        "*LIFETIME",
+                        "Executes ALL Scripts",
+                        "Undetected",
+                        "Easy Setup",
+                        "Works on Windows 10 & 11"
+                    ]
+                }
+            ]
+        },
+        "Serotonin": {
+            "logo": "https://files.catbox.moe/su0ssq.png",
+            "items": [
+                {
+                    "name": "Monthly",
+                    "purchase": "https://stealthpay.io/cat/serotonin-month",
+                    "price": 8.49,
+                    "lifetime": false,
+                    "subscriptionPeriod": "Monthly",
+                    "device": "https://files.catbox.moe/h1go68.png",
+                    "features": [
+                        "*Undetected External",
+                        "Serotonin for Windows",
+                        "Monthly license",
+                        "Free support",
+                        "Easy setup"
+                    ]
+                },
+                {
+                    "name": "90 Days",
+                    "purchase": "https://stealthpay.io/cat/serotonin-90d",
+                    "price": 19.99,
+                    "lifetime": false,
+                    "subscriptionPeriod": "90 Days",
+                    "device": "https://files.catbox.moe/h1go68.png",
+                    "features": [
+                        "*Undetected External",
+                        "Serotonin for Windows",
+                        "90-Day license",
+                        "Free support",
+                        "Easy setup"
+                    ]
+                }
+            ]
+        },
+        "Ronin": {
+            "logo": "https://files.catbox.moe/uz9bq9.png",
+            "items": [
+                {
+                    "name": "Lifetime",
+                    "purchase": "https://stealthpay.io/cat/ronin",
+                    "price": 7.99,
+                    "lifetime": true,
+                    "device": "https://files.catbox.moe/h1go68.png",
+                    "features": [
+                        "*External",
+                        "OP Aimbot",
+                        "Lifetime License",
+                        "Easy Setup",
+                        "Undetectable"
+                    ]
+                }
+            ]
+        },
+        "Matcha": {
+            "logo": "https://files.catbox.moe/w7ob4c.png",
+            "items": [
+                {
+                    "name": "Lifetime",
+                    "purchase": "https://stealthpay.io/cat/matcha",
+                    "price": 11.99,
+                    "lifetime": true,
+                    "device": "https://files.catbox.moe/h1go68.png",
+                    "features": [
+                        "*External",
+                        "OP Aimbot",
+                        "Lifetime License",
+                        "Easy Setup",
+                        "Undetectable"
+                    ]
+                }
+            ]
+        },
+        "Cryptic": {
+            "logo": "https://files.catbox.moe/64ivno.png",
+            "items": [
+                {
+                    "name": "Cryptic 30 Days",
+                    "purchase": "https://stealthpay.io/cat/cryptic-30-days",
+                    "price": 4.39,
+                    "lifetime": false,
+                    "subscriptionPeriod": "30 Days",
+                    "device": "https://files.catbox.moe/4p7zd0.png",
+                    "features": [
+                        "*Most popular",
+                        "Cryptic for all compatible devices",
+                        "Monthly license",
+                        "Free support",
+                        "Easy setup"
+                    ]
+                },
+                {
+                    "name": "Cryptic 90 Days",
+                    "purchase": "https://stealthpay.io/cat/cryptic-90-days",
+                    "price": 8.99,
+                    "lifetime": false,
+                    "subscriptionPeriod": "90 Days",
+                    "device": "https://files.catbox.moe/4p7zd0.png",
+                    "features": [
+                        "Undetected",
+                        "Cryptic for all compatible devices",
+                        "Quarterly license",
+                        "Free support",
+                        "Easy setup"
+                    ]
+                },
+                {
+                    "name": "Cryptic Lifetime",
+                    "purchase": "https://stealthpay.io/cat/cryptic-lifetime",
+                    "price": 21.99,
+                    "lifetime": true,
+                    "device": "https://files.catbox.moe/4p7zd0.png",
+                    "features": [
+                        "*Most value",
+                        "Cryptic for all compatible devices",
+                        "Lifetime License",
+                        "Free support",
+                        "Easy setup"
+                    ]
+                }
+            ]
+        },
+        "Aureus": {
+            "logo": "https://files.catbox.moe/o4szb9.png",
+            "items": [
+                {
+                    "name": "Standard",
+                    "purchase": "https://stealthpay.io/cat/aureus-standard",
+                    "price": 13.99,
+                    "lifetime": true,
+                    "device": "https://files.catbox.moe/rimah0.png",
+                    "features": [
+                        "*Standard",
+                        "Budget-friendly version",
+                        "Lifetime License",
+                        "Free support",
+                        "Undetectable"
+                    ]
+                },
+                {
+                    "name": "Premium",
+                    "purchase": "https://stealthpay.io/cat/aureus-premium",
+                    "price": 44.99,
+                    "lifetime": true,
+                    "device": "https://files.catbox.moe/rimah0.png",
+                    "features": [
+                        "*Premium (OP)",
+                        "Best Serverside",
+                        "Lifetime License",
+                        "Free support",
+                        "Undetectable"
+                    ]
+                }
+            ]
+        },
+        "Exoliner": {
+            "logo": "https://files.catbox.moe/xboggl.png",
+            "items": [
+                {
+                    "name": "Standard",
+                    "purchase": "https://stealthpay.io/cat/exoliner-standard",
+                    "price": 8.99,
+                    "lifetime": true,
+                    "device": "https://files.catbox.moe/rimah0.png",
+                    "features": [
+                        "*Cheap",
+                        "Budget-friendly SS",
+                        "Lifetime License",
+                        "Free support",
+                        "Undetectable"
+                    ]
+                },
+                {
+                    "name": "Premium",
+                    "purchase": "https://stealthpay.io/cat/exoliner-premium",
+                    "price": 35.99,
+                    "lifetime": true,
+                    "device": "https://files.catbox.moe/rimah0.png",
+                    "features": [
+                        "*Overpowered",
+                        "Best value Serverside",
+                        "Lifetime License",
+                        "Free support",
+                        "Undetectable"
+                    ]
+                }
+            ]
+        },
+        "MacSploit": {
+            "logo": "https://files.catbox.moe/mklhmb.png",
+            "items": [
+                {
+                    "name": "MacSploit Lifetime",
+                    "purchase": "https://stealthpay.io/cat/macsploit",
+                    "price": 8.99,
+                    "lifetime": true,
+                    "device": "https://files.catbox.moe/okxt74.png",
+                    "features": [
+                        "*MacOS execution",
+                        "Cheapest on market",
+                        "Lifetime License",
+                        "Free support",
+                        "High UNC"
+                    ]
+                }
+            ]
+        }
+    }
+}
