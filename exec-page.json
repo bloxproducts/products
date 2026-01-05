@@ -67,21 +67,6 @@
                         "Free support",
                         "Longest running"
                     ]
-                },
-                {
-                    "name": "Volt 90 Days",
-                    "purchase": "https://stealthpay.io/cat/volt-month-key",
-                    "price": 17.99,
-                    "lifetime": false,
-                    "subscriptionPeriod": "30 Days",
-                    "device": "https://files.catbox.moe/h1go68.png",
-                    "features": [
-                        "*UNDETECTED",
-                        "Volt for Windows",
-                        "Monthly license",
-                        "Free support",
-                        "Longest running"
-                    ]
                 }
             ]
         },
