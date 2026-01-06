@@ -95,7 +95,7 @@
                 {
                     "name": "Monthly",
                     "purchase": "https://stealthpay.io/cat/serotonin-month",
-                    "price": 8.49,
+                    "price": 9.79,
                     "lifetime": false,
                     "subscriptionPeriod": "Monthly",
                     "device": "https://files.catbox.moe/h1go68.png",
@@ -110,7 +110,7 @@
                 {
                     "name": "90 Days",
                     "purchase": "https://stealthpay.io/cat/serotonin-90d",
-                    "price": 19.99,
+                    "price": 22.99,
                     "lifetime": false,
                     "subscriptionPeriod": "90 Days",
                     "device": "https://files.catbox.moe/h1go68.png",
