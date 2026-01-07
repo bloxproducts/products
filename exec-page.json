@@ -67,6 +67,21 @@
                         "Free support",
                         "Longest running"
                     ]
+                },
+                {
+                    "name": "Volt 90 Days",
+                    "purchase": "https://stealthpay.io/cat/volt-month-key",
+                    "price": 17.99,
+                    "lifetime": false,
+                    "subscriptionPeriod": "30 Days",
+                    "device": "https://files.catbox.moe/h1go68.png",
+                    "features": [
+                        "*UNDETECTED",
+                        "Volt for Windows",
+                        "Monthly license",
+                        "Free support",
+                        "Longest running"
+                    ]
                 }
             ]
         },
@@ -95,7 +110,7 @@
                 {
                     "name": "Monthly",
                     "purchase": "https://stealthpay.io/cat/serotonin-month",
-                    "price": 9.79,
+                    "price": 8.49,
                     "lifetime": false,
                     "subscriptionPeriod": "Monthly",
                     "device": "https://files.catbox.moe/h1go68.png",
@@ -110,7 +125,7 @@
                 {
                     "name": "90 Days",
                     "purchase": "https://stealthpay.io/cat/serotonin-90d",
-                    "price": 22.99,
+                    "price": 19.99,
                     "lifetime": false,
                     "subscriptionPeriod": "90 Days",
                     "device": "https://files.catbox.moe/h1go68.png",
@@ -164,52 +179,106 @@
         },
         "Cryptic": {
             "logo": "https://files.catbox.moe/64ivno.png",
-            "items": [
-                {
-                    "name": "Cryptic 30 Days",
-                    "purchase": "https://stealthpay.io/cat/cryptic-30-days",
-                    "price": 4.39,
-                    "lifetime": false,
-                    "subscriptionPeriod": "30 Days",
-                    "device": "https://files.catbox.moe/4p7zd0.png",
-                    "features": [
-                        "*Most popular",
-                        "Cryptic for all compatible devices",
-                        "Monthly license",
-                        "Free support",
-                        "Easy setup"
+            "defaultPlatform": "windows",
+            "platforms": {
+                "android": {
+                    "items": [
+                        {
+                            "name": "Cryptic 30 Days",
+                            "purchase": "https://stealthpay.io/cat/cryptic-30-days",
+                            "price": 4.39,
+                            "lifetime": false,
+                            "subscriptionPeriod": "30 Days",
+                            "device": "https://files.catbox.moe/4p7zd0.png",
+                            "features": [
+                                "*Most popular",
+                                "Cryptic for Android",
+                                "Monthly license",
+                                "Free support",
+                                "Easy setup"
+                            ]
+                        },
+                        {
+                            "name": "Cryptic 90 Days",
+                            "purchase": "https://stealthpay.io/cat/cryptic-90-days",
+                            "price": 8.99,
+                            "lifetime": false,
+                            "subscriptionPeriod": "90 Days",
+                            "device": "https://files.catbox.moe/4p7zd0.png",
+                            "features": [
+                                "Undetected",
+                                "Cryptic for Android",
+                                "Quarterly license",
+                                "Free support",
+                                "Easy setup"
+                            ]
+                        },
+                        {
+                            "name": "Cryptic Lifetime",
+                            "purchase": "https://stealthpay.io/cat/cryptic-lifetime",
+                            "price": 21.99,
+                            "lifetime": true,
+                            "device": "https://files.catbox.moe/4p7zd0.png",
+                            "features": [
+                                "*Most value",
+                                "Cryptic for Android",
+                                "Lifetime License",
+                                "Free support",
+                                "Easy setup"
+                            ]
+                        }
                     ]
                 },
-                {
-                    "name": "Cryptic 90 Days",
-                    "purchase": "https://stealthpay.io/cat/cryptic-90-days",
-                    "price": 8.99,
-                    "lifetime": false,
-                    "subscriptionPeriod": "90 Days",
-                    "device": "https://files.catbox.moe/4p7zd0.png",
-                    "features": [
-                        "Undetected",
-                        "Cryptic for all compatible devices",
-                        "Quarterly license",
-                        "Free support",
-                        "Easy setup"
-                    ]
-                },
-                {
-                    "name": "Cryptic Lifetime",
-                    "purchase": "https://stealthpay.io/cat/cryptic-lifetime",
-                    "price": 21.99,
-                    "lifetime": true,
-                    "device": "https://files.catbox.moe/4p7zd0.png",
-                    "features": [
-                        "*Most value",
-                        "Cryptic for all compatible devices",
-                        "Lifetime License",
-                        "Free support",
-                        "Easy setup"
+                "windows": {
+                    "items": [
+                        {
+                            "name": "Cryptic Weekly",
+                            "purchase": "https://stealthpay.io/cat/cryptic-windows-weekly",
+                            "price": 4.99,
+                            "lifetime": false,
+                            "subscriptionPeriod": "7 Days",
+                            "device": "https://files.catbox.moe/h1go68.png",
+                            "features": [
+                                "*Most popular",
+                                "Cryptic for Windows",
+                                "Monthly license",
+                                "Free support",
+                                "Easy setup"
+                            ]
+                        },
+                        {
+                            "name": "Cryptic Monthly",
+                            "purchase": "https://stealthpay.io/cat/cryptic-windows-monthly",
+                            "price": 17.99,
+                            "lifetime": false,
+                            "subscriptionPeriod": "30 Days",
+                            "device": "https://files.catbox.moe/h1go68.png",
+                            "features": [
+                                "*MONTHLY",
+                                "Cryptic for Windows",
+                                "Monthly license",
+                                "Free support",
+                                "Easy setup"
+                            ]
+                        },
+                        {
+                            "name": "Cryptic 90 Days",
+                            "purchase": "https://stealthpay.io/cat/cryptic-windows-90-days",
+                            "price": 39.99,
+                            "lifetime": false,
+                            "subscriptionPeriod": "90 Days",
+                            "device": "https://files.catbox.moe/h1go68.png",
+                            "features": [
+                                "Undetected",
+                                "Cryptic for Windows",
+                                "Quarterly license",
+                                "Free support",
+                                "Easy setup"
+                            ]
+                        }
                     ]
                 }
-            ]
+            }
         },
         "Aureus": {
             "logo": "https://files.catbox.moe/o4szb9.png",
