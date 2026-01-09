@@ -6,7 +6,7 @@
                 {
                     "name": "Wave 7 Days",
                     "purchase": "https://stealthpay.io/cat/wave-week-key",
-                    "price": 5.99,
+                    "price": 5.49,
                     "lifetime": false,
                     "subscriptionPeriod": "7 Days",
                     "device": "https://files.catbox.moe/h1go68.png",
@@ -70,15 +70,15 @@
                 },
                 {
                     "name": "Volt 90 Days",
-                    "purchase": "https://stealthpay.io/cat/volt-month-key",
-                    "price": 17.99,
+                    "purchase": "https://stealthpay.io/cat/volt-quarterly-key",
+                    "price": 44.99,
                     "lifetime": false,
-                    "subscriptionPeriod": "30 Days",
+                    "subscriptionPeriod": "90 Days",
                     "device": "https://files.catbox.moe/h1go68.png",
                     "features": [
                         "*UNDETECTED",
                         "Volt for Windows",
-                        "Monthly license",
+                        "Quarterly license",
                         "Free support",
                         "Longest running"
                     ]
@@ -91,7 +91,7 @@
                 {
                     "name": "Lifetime",
                     "purchase": "https://stealthpay.io/cat/potassium",
-                    "price": 24.99,
+                    "price": 18.99,
                     "lifetime": true,
                     "device": "https://files.catbox.moe/h1go68.png",
                     "features": [
