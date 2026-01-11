@@ -6,7 +6,7 @@
                 {
                     "name": "Wave 7 Days",
                     "purchase": "https://stealthpay.io/cat/wave-week-key",
-                    "price": 5.49,
+                    "price": 5.99,
                     "lifetime": false,
                     "subscriptionPeriod": "7 Days",
                     "device": "https://files.catbox.moe/h1go68.png",
@@ -41,7 +41,7 @@
                 {
                     "name": "Volt 7 Days",
                     "purchase": "https://stealthpay.io/cat/volt-week-key",
-                    "price": 5.19,
+                    "price": 7.99,
                     "lifetime": false,
                     "subscriptionPeriod": "7 Days",
                     "device": "https://files.catbox.moe/h1go68.png",
@@ -56,7 +56,7 @@
                 {
                     "name": "Volt 30 Days",
                     "purchase": "https://stealthpay.io/cat/volt-month-key",
-                    "price": 17.99,
+                    "price": 24.99,
                     "lifetime": false,
                     "subscriptionPeriod": "30 Days",
                     "device": "https://files.catbox.moe/h1go68.png",
@@ -71,7 +71,7 @@
                 {
                     "name": "Volt 90 Days",
                     "purchase": "https://stealthpay.io/cat/volt-quarterly-key",
-                    "price": 44.99,
+                    "price": 59.99,
                     "lifetime": false,
                     "subscriptionPeriod": "90 Days",
                     "device": "https://files.catbox.moe/h1go68.png",
@@ -110,7 +110,7 @@
                 {
                     "name": "Monthly",
                     "purchase": "https://stealthpay.io/cat/serotonin-month",
-                    "price": 8.49,
+                    "price": 9.49,
                     "lifetime": false,
                     "subscriptionPeriod": "Monthly",
                     "device": "https://files.catbox.moe/h1go68.png",
@@ -125,7 +125,7 @@
                 {
                     "name": "90 Days",
                     "purchase": "https://stealthpay.io/cat/serotonin-90d",
-                    "price": 19.99,
+                    "price": 22.99,
                     "lifetime": false,
                     "subscriptionPeriod": "90 Days",
                     "device": "https://files.catbox.moe/h1go68.png",
