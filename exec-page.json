@@ -145,7 +145,7 @@
                 {
                     "name": "Lifetime",
                     "purchase": "https://stealthpay.io/cat/ronin",
-                    "price": 7.99,
+                    "price": 9.59,
                     "lifetime": true,
                     "device": "https://files.catbox.moe/h1go68.png",
                     "features": [
@@ -186,7 +186,7 @@
                         {
                             "name": "Cryptic 30 Days",
                             "purchase": "https://stealthpay.io/cat/cryptic-30-days",
-                            "price": 4.39,
+                            "price": 4.99,
                             "lifetime": false,
                             "subscriptionPeriod": "30 Days",
                             "device": "https://files.catbox.moe/4p7zd0.png",
@@ -201,7 +201,7 @@
                         {
                             "name": "Cryptic 90 Days",
                             "purchase": "https://stealthpay.io/cat/cryptic-90-days",
-                            "price": 8.99,
+                            "price": 9.99,
                             "lifetime": false,
                             "subscriptionPeriod": "90 Days",
                             "device": "https://files.catbox.moe/4p7zd0.png",
@@ -216,7 +216,7 @@
                         {
                             "name": "Cryptic Lifetime",
                             "purchase": "https://stealthpay.io/cat/cryptic-lifetime",
-                            "price": 21.99,
+                            "price": 23.99,
                             "lifetime": true,
                             "device": "https://files.catbox.moe/4p7zd0.png",
                             "features": [
@@ -286,7 +286,7 @@
                 {
                     "name": "Standard",
                     "purchase": "https://stealthpay.io/cat/aureus-standard",
-                    "price": 13.99,
+                    "price": 14.99,
                     "lifetime": true,
                     "device": "https://files.catbox.moe/rimah0.png",
                     "features": [
@@ -300,7 +300,7 @@
                 {
                     "name": "Premium",
                     "purchase": "https://stealthpay.io/cat/aureus-premium",
-                    "price": 44.99,
+                    "price": 49.99,
                     "lifetime": true,
                     "device": "https://files.catbox.moe/rimah0.png",
                     "features": [
@@ -319,7 +319,7 @@
                 {
                     "name": "Standard",
                     "purchase": "https://stealthpay.io/cat/exoliner-standard",
-                    "price": 8.99,
+                    "price": 9.99,
                     "lifetime": true,
                     "device": "https://files.catbox.moe/rimah0.png",
                     "features": [
@@ -333,7 +333,7 @@
                 {
                     "name": "Premium",
                     "purchase": "https://stealthpay.io/cat/exoliner-premium",
-                    "price": 35.99,
+                    "price": 39.99,
                     "lifetime": true,
                     "device": "https://files.catbox.moe/rimah0.png",
                     "features": [
@@ -352,7 +352,7 @@
                 {
                     "name": "MacSploit Lifetime",
                     "purchase": "https://stealthpay.io/cat/macsploit",
-                    "price": 8.99,
+                    "price": 9.99,
                     "lifetime": true,
                     "device": "https://files.catbox.moe/okxt74.png",
                     "features": [
