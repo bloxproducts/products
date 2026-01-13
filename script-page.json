@@ -6,7 +6,7 @@
                 {
                     "name": "Lifetime",
                     "purchase": "https://stealthpay.io/cat/speed-hub-x",
-                    "price": 8.99,
+                    "price": 9.99,
                     "lifetime": true,
                     "device": "https://files.catbox.moe/rimah0.png",
                     "features": [
@@ -25,7 +25,7 @@
                 {
                     "name": "Monthly",
                     "purchase": "https://stealthpay.io/cat/mspaint",
-                    "price": 2.49,
+                    "price": 2.99,
                     "lifetime": false,
                     "subscriptionPeriod": "Monthly",
                     "device": "https://files.catbox.moe/rimah0.png",
@@ -40,7 +40,7 @@
                 {
                     "name": "Lifetime",
                     "purchase": "https://stealthpay.io/cat/mspaint-lifetime",
-                    "price": 17.99,
+                    "price": 19.99,
                     "lifetime": true,
                     "device": "https://files.catbox.moe/rimah0.png",
                     "features": [
