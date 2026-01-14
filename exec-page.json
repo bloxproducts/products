@@ -1,7 +1,7 @@
 {
     "groups": {
         "Wave": {
-            "logo": "https://files.catbox.moe/eug28v.png",
+            "logo": "https://bloxproducts.com/assets/images/wave.png",
             "items": [
                 {
                     "name": "Wave 7 Days",
@@ -9,7 +9,7 @@
                     "price": 5.99,
                     "lifetime": false,
                     "subscriptionPeriod": "7 Days",
-                    "device": "https://files.catbox.moe/h1go68.png",
+                    "device": "https://bloxproducts.com/assets/images/windows.png",
                     "features": [
                         "*Cheapest",
                         "Wave for Windows",
@@ -24,7 +24,7 @@
                     "price": 18.99,
                     "lifetime": false,
                     "subscriptionPeriod": "30 Days",
-                    "device": "https://files.catbox.moe/h1go68.png",
+                    "device": "https://bloxproducts.com/assets/images/windows.png",
                     "features": [
                         "*Most popular",
                         "Wave for Windows",
@@ -36,7 +36,7 @@
             ]
         },
         "Volt": {
-            "logo": "https://files.catbox.moe/2e9a3y.png",
+            "logo": "https://bloxproducts.com/assets/images/volt.png",
             "items": [
                 {
                     "name": "Volt 7 Days",
@@ -44,7 +44,7 @@
                     "price": 7.99,
                     "lifetime": false,
                     "subscriptionPeriod": "7 Days",
-                    "device": "https://files.catbox.moe/h1go68.png",
+                    "device": "https://bloxproducts.com/assets/images/windows.png",
                     "features": [
                         "*UNDETECTED",
                         "Volt for Windows",
@@ -59,7 +59,7 @@
                     "price": 24.99,
                     "lifetime": false,
                     "subscriptionPeriod": "30 Days",
-                    "device": "https://files.catbox.moe/h1go68.png",
+                    "device": "https://bloxproducts.com/assets/images/windows.png",
                     "features": [
                         "*UNDETECTED",
                         "Volt for Windows",
@@ -74,7 +74,7 @@
                     "price": 59.99,
                     "lifetime": false,
                     "subscriptionPeriod": "90 Days",
-                    "device": "https://files.catbox.moe/h1go68.png",
+                    "device": "https://bloxproducts.com/assets/images/windows.png",
                     "features": [
                         "*UNDETECTED",
                         "Volt for Windows",
@@ -86,14 +86,14 @@
             ]
         },
         "Potassium": {
-            "logo": "https://files.catbox.moe/w86ifa.png",
+            "logo": "https://bloxproducts.com/assets/images/potassium.png",
             "items": [
                 {
                     "name": "Lifetime",
                     "purchase": "https://stealthpay.io/cat/potassium",
                     "price": 24.99,
                     "lifetime": true,
-                    "device": "https://files.catbox.moe/h1go68.png",
+                    "device": "https://bloxproducts.com/assets/images/windows.png",
                     "features": [
                         "*LIFETIME",
                         "Executes ALL Scripts",
@@ -105,7 +105,7 @@
             ]
         },
         "Serotonin": {
-            "logo": "https://files.catbox.moe/su0ssq.png",
+            "logo": "https://bloxproducts.com/assets/images/serotonin.png",
             "items": [
                 {
                     "name": "Monthly",
@@ -113,7 +113,7 @@
                     "price": 9.49,
                     "lifetime": false,
                     "subscriptionPeriod": "Monthly",
-                    "device": "https://files.catbox.moe/h1go68.png",
+                    "device": "https://bloxproducts.com/assets/images/windows.png",
                     "features": [
                         "*Undetected External",
                         "Serotonin for Windows",
@@ -128,7 +128,7 @@
                     "price": 22.99,
                     "lifetime": false,
                     "subscriptionPeriod": "90 Days",
-                    "device": "https://files.catbox.moe/h1go68.png",
+                    "device": "https://bloxproducts.com/assets/images/windows.png",
                     "features": [
                         "*Undetected External",
                         "Serotonin for Windows",
@@ -140,14 +140,14 @@
             ]
         },
         "Ronin": {
-            "logo": "https://files.catbox.moe/uz9bq9.png",
+            "logo": "https://bloxproducts.com/assets/images/ronin.png",
             "items": [
                 {
                     "name": "Lifetime",
                     "purchase": "https://stealthpay.io/cat/ronin",
                     "price": 9.59,
                     "lifetime": true,
-                    "device": "https://files.catbox.moe/h1go68.png",
+                    "device": "https://bloxproducts.com/assets/images/windows.png",
                     "features": [
                         "*External",
                         "OP Aimbot",
@@ -159,14 +159,14 @@
             ]
         },
         "Matcha": {
-            "logo": "https://files.catbox.moe/w7ob4c.png",
+            "logo": "https://bloxproducts.com/assets/images/matcha.png",
             "items": [
                 {
                     "name": "Lifetime",
                     "purchase": "https://stealthpay.io/cat/matcha",
                     "price": 11.99,
                     "lifetime": true,
-                    "device": "https://files.catbox.moe/h1go68.png",
+                    "device": "https://bloxproducts.com/assets/images/windows.png",
                     "features": [
                         "*External",
                         "OP Aimbot",
@@ -178,7 +178,7 @@
             ]
         },
         "Cryptic": {
-            "logo": "https://files.catbox.moe/64ivno.png",
+            "logo": "https://bloxproducts.com/assets/images/cryptic.png",
             "defaultPlatform": "windows",
             "platforms": {
                 "android": {
@@ -189,7 +189,7 @@
                             "price": 4.99,
                             "lifetime": false,
                             "subscriptionPeriod": "30 Days",
-                            "device": "https://files.catbox.moe/4p7zd0.png",
+                            "device": "https://bloxproducts.com/assets/images/android.png",
                             "features": [
                                 "*Most popular",
                                 "Cryptic for Android",
@@ -204,7 +204,7 @@
                             "price": 9.99,
                             "lifetime": false,
                             "subscriptionPeriod": "90 Days",
-                            "device": "https://files.catbox.moe/4p7zd0.png",
+                            "device": "https://bloxproducts.com/assets/images/android.png",
                             "features": [
                                 "Undetected",
                                 "Cryptic for Android",
@@ -218,7 +218,7 @@
                             "purchase": "https://stealthpay.io/cat/cryptic-lifetime",
                             "price": 23.99,
                             "lifetime": true,
-                            "device": "https://files.catbox.moe/4p7zd0.png",
+                            "device": "https://bloxproducts.com/assets/images/android.png",
                             "features": [
                                 "*Most value",
                                 "Cryptic for Android",
@@ -237,7 +237,7 @@
                             "price": 4.99,
                             "lifetime": false,
                             "subscriptionPeriod": "7 Days",
-                            "device": "https://files.catbox.moe/h1go68.png",
+                            "device": "https://bloxproducts.com/assets/images/windows.png",
                             "features": [
                                 "*Most popular",
                                 "Cryptic for Windows",
@@ -252,7 +252,7 @@
                             "price": 17.99,
                             "lifetime": false,
                             "subscriptionPeriod": "30 Days",
-                            "device": "https://files.catbox.moe/h1go68.png",
+                            "device": "https://bloxproducts.com/assets/images/windows.png",
                             "features": [
                                 "*MONTHLY",
                                 "Cryptic for Windows",
@@ -267,7 +267,7 @@
                             "price": 39.99,
                             "lifetime": false,
                             "subscriptionPeriod": "90 Days",
-                            "device": "https://files.catbox.moe/h1go68.png",
+                            "device": "https://bloxproducts.com/assets/images/windows.png",
                             "features": [
                                 "Undetected",
                                 "Cryptic for Windows",
@@ -281,14 +281,14 @@
             }
         },
         "Aureus": {
-            "logo": "https://files.catbox.moe/o4szb9.png",
+            "logo": "https://bloxproducts.com/assets/images/aureus.png",
             "items": [
                 {
                     "name": "Standard",
                     "purchase": "https://stealthpay.io/cat/aureus-standard",
                     "price": 14.99,
                     "lifetime": true,
-                    "device": "https://files.catbox.moe/rimah0.png",
+                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
                     "features": [
                         "*Standard",
                         "Budget-friendly version",
@@ -302,7 +302,7 @@
                     "purchase": "https://stealthpay.io/cat/aureus-premium",
                     "price": 49.99,
                     "lifetime": true,
-                    "device": "https://files.catbox.moe/rimah0.png",
+                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
                     "features": [
                         "*Premium (OP)",
                         "Best Serverside",
@@ -314,14 +314,14 @@
             ]
         },
         "Exoliner": {
-            "logo": "https://files.catbox.moe/xboggl.png",
+            "logo": "https://bloxproducts.com/assets/images/exoliner.png",
             "items": [
                 {
                     "name": "Standard",
                     "purchase": "https://stealthpay.io/cat/exoliner-standard",
                     "price": 9.99,
                     "lifetime": true,
-                    "device": "https://files.catbox.moe/rimah0.png",
+                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
                     "features": [
                         "*Cheap",
                         "Budget-friendly SS",
@@ -335,7 +335,7 @@
                     "purchase": "https://stealthpay.io/cat/exoliner-premium",
                     "price": 39.99,
                     "lifetime": true,
-                    "device": "https://files.catbox.moe/rimah0.png",
+                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
                     "features": [
                         "*Overpowered",
                         "Best value Serverside",
@@ -347,14 +347,14 @@
             ]
         },
         "MacSploit": {
-            "logo": "https://files.catbox.moe/mklhmb.png",
+            "logo": "https://bloxproducts.com/assets/images/macsploit.png",
             "items": [
                 {
                     "name": "MacSploit Lifetime",
                     "purchase": "https://stealthpay.io/cat/macsploit",
                     "price": 9.99,
                     "lifetime": true,
-                    "device": "https://files.catbox.moe/okxt74.png",
+                    "device": "https://bloxproducts.com/assets/images/mac.png",
                     "features": [
                         "*MacOS execution",
                         "Cheapest on market",
