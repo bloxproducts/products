@@ -1,14 +1,14 @@
 {
     "groups": {
         "Speed Hub X": {
-            "logo": "https://files.catbox.moe/019n27.png",
+            "logo": "https://bloxproducts.com/assets/images/speedhubx.png",
             "items": [
                 {
                     "name": "Lifetime",
                     "purchase": "https://stealthpay.io/cat/speed-hub-x",
                     "price": 9.99,
                     "lifetime": true,
-                    "device": "https://files.catbox.moe/rimah0.png",
+                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
                     "features": [
                         "*TONS of games",
                         "Best Grow a Garden Script",
@@ -20,7 +20,7 @@
             ]
         },
         "MSPaint": {
-            "logo": "https://files.catbox.moe/lbeknv.png",
+            "logo": "https://bloxproducts.com/assets/images/mspaint.png",
             "items": [
                 {
                     "name": "Monthly",
@@ -28,7 +28,7 @@
                     "price": 2.99,
                     "lifetime": false,
                     "subscriptionPeriod": "Monthly",
-                    "device": "https://files.catbox.moe/rimah0.png",
+                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
                     "features": [
                         "*Best Script Hub",
                         "Best DOORS Script",
@@ -42,7 +42,7 @@
                     "purchase": "https://stealthpay.io/cat/mspaint-lifetime",
                     "price": 19.99,
                     "lifetime": true,
-                    "device": "https://files.catbox.moe/rimah0.png",
+                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
                     "features": [
                         "*Best Script Hub",
                         "Best DOORS Script",
@@ -53,8 +53,8 @@
                 }
             ]
         },
-        "XenithHub": {
-            "logo": "https://files.catbox.moe/apn7ky.png",
+        "AxonHub": {
+            "logo": "https://bloxproducts.com/assets/images/axonhub.png",
             "items": [
                 {
                     "name": "Monthly",
@@ -62,7 +62,7 @@
                     "price": 4.39,
                     "lifetime": false,
                     "subscriptionPeriod": "Monthly",
-                    "device": "https://files.catbox.moe/rimah0.png",
+                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
                     "features": [
                         "*HUGE games library",
                         "Best ToH Script",
@@ -76,7 +76,7 @@
                     "purchase": "https://stealthpay.io/cat/xenith-hub-lifetime",
                     "price": 17.99,
                     "lifetime": true,
-                    "device": "https://files.catbox.moe/rimah0.png",
+                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
                     "features": [
                         "*HUGE games library",
                         "Best ToH Script",
@@ -88,7 +88,7 @@
             ]
         },
         "LuminHub": {
-            "logo": "https://files.catbox.moe/ylrar7.png",
+            "logo": "https://bloxproducts.com/assets/images/luminhub.png",
             "items": [
                 {
                     "name": "Weekly",
@@ -96,7 +96,7 @@
                     "price": 1.99,
                     "lifetime": false,
                     "subscriptionPeriod": "Weekly",
-                    "device": "https://files.catbox.moe/rimah0.png",
+                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
                     "features": [
                         "*POPULAR GAMES",
                         "Steal a Brainrot",
@@ -111,7 +111,7 @@
                     "price": 6.19,
                     "lifetime": false,
                     "subscriptionPeriod": "Monthly",
-                    "device": "https://files.catbox.moe/rimah0.png",
+                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
                     "features": [
                         "*POPULAR GAMES",
                         "Steal a Brainrot",
@@ -125,7 +125,7 @@
                     "purchase": "https://stealthpay.io/cat/lumin-hub-lifetime",
                     "price": 10.59,
                     "lifetime": true,
-                    "device": "https://files.catbox.moe/rimah0.png",
+                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
                     "features": [
                         "*POPULAR GAMES",
                         "Steal a Brainrot",
