@@ -139,6 +139,41 @@
                 }
             ]
         },
+        "RbxCli": {
+            "logo": "https://bloxproducts.com/assets/images/rbxcli.png",
+            "items": [
+                {
+                    "name": "Weekly",
+                    "purchase": "https://stealthpay.io/cat/rbxcli-weekly",
+                    "price": 3.99,
+                    "lifetime": false,
+                    "subscriptionPeriod": "Weekly",
+                    "device": "https://bloxproducts.com/assets/images/windows.png",
+                    "features": [
+                        "*Undetected External",
+                        "RbxCli for Windows",
+                        "Weekly license",
+                        "Free support",
+                        "Easy setup"
+                    ]
+                },
+                {
+                    "name": "Monthly",
+                    "purchase": "https://stealthpay.io/cat/rbxcli-monthly",
+                    "price": 7.99,
+                    "lifetime": false,
+                    "subscriptionPeriod": "Monthly",
+                    "device": "https://bloxproducts.com/assets/images/windows.png",
+                    "features": [
+                        "*Undetected External",
+                        "RbxCli for Windows",
+                        "Monthly license",
+                        "Free support",
+                        "Easy setup"
+                    ]
+                }
+            ]
+        },
         "Ronin": {
             "logo": "https://bloxproducts.com/assets/images/ronin.png",
             "items": [
