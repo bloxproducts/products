@@ -199,7 +199,7 @@
                 {
                     "name": "Lifetime",
                     "purchase": "https://stealthpay.io/cat/matcha",
-                    "price": 11.99,
+                    "price": 9.99,
                     "lifetime": true,
                     "device": "https://bloxproducts.com/assets/images/windows.png",
                     "features": [
