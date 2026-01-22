@@ -41,7 +41,7 @@
                 {
                     "name": "Volt 7 Days",
                     "purchase": "https://stealthpay.io/cat/volt-week-key",
-                    "price": 7.99,
+                    "price": 5.99,
                     "lifetime": false,
                     "subscriptionPeriod": "7 Days",
                     "device": "https://bloxproducts.com/assets/images/windows.png",
@@ -56,7 +56,7 @@
                 {
                     "name": "Volt 30 Days",
                     "purchase": "https://stealthpay.io/cat/volt-month-key",
-                    "price": 24.99,
+                    "price": 19.99,
                     "lifetime": false,
                     "subscriptionPeriod": "30 Days",
                     "device": "https://bloxproducts.com/assets/images/windows.png",
@@ -71,7 +71,7 @@
                 {
                     "name": "Volt 90 Days",
                     "purchase": "https://stealthpay.io/cat/volt-quarterly-key",
-                    "price": 59.99,
+                    "price": 49.99,
                     "lifetime": false,
                     "subscriptionPeriod": "90 Days",
                     "device": "https://bloxproducts.com/assets/images/windows.png",
