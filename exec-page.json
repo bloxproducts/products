@@ -91,7 +91,7 @@
                 {
                     "name": "Lifetime",
                     "purchase": "https://stealthpay.io/cat/potassium",
-                    "price": 24.99,
+                    "price": 22.99,
                     "lifetime": true,
                     "device": "https://bloxproducts.com/assets/images/windows.png",
                     "features": [
