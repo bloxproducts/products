@@ -139,6 +139,25 @@
                 }
             ]
         },
+        "Severe": {
+            "logo": "https://bloxproducts.com/assets/images/severe.png",
+            "items": [
+                {
+                    "name": "Lifetime",
+                    "purchase": "https://stealthpay.io/cat/severe-lifetime-key",
+                    "price": 19.99,
+                    "lifetime": true,
+                    "device": "https://bloxproducts.com/assets/images/windows.png",
+                    "features": [
+                        "*External",
+                        "TOP-RATED",
+                        "Lifetime License",
+                        "Easy Setup",
+                        "Undetectable"
+                    ]
+                }
+            ]
+        },
         "RbxCli": {
             "logo": "https://bloxproducts.com/assets/images/rbxcli.png",
             "items": [
