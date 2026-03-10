@@ -104,6 +104,41 @@
                 }
             ]
         },
+        "Synapse Z": {
+            "logo": "https://bloxproducts.com/assets/images/synz.png",
+            "items": [
+                {
+                    "name": "Synapse Z 7 Days",
+                    "purchase": "https://stealthpay.io/cat/synapse-z-week-key",
+                    "price": 3.99,
+                    "lifetime": false,
+                    "subscriptionPeriod": "7 Days",
+                    "device": "https://bloxproducts.com/assets/images/windows.png",
+                    "features": [
+                        "*Cheapest",
+                        "Synapse Z for Windows",
+                        "7-Day license",
+                        "Free support",
+                        "STABLE"
+                    ]
+                },
+                {
+                    "name": "Synapse Z 30 Days",
+                    "purchase": "https://stealthpay.io/cat/synapse-z-month-key",
+                    "price": 11.99,
+                    "lifetime": false,
+                    "subscriptionPeriod": "30 Days",
+                    "device": "https://bloxproducts.com/assets/images/windows.png",
+                    "features": [
+                        "*Most popular",
+                        "Synapse Z for Windows",
+                        "30-Day license",
+                        "Free support",
+                        "STABLE"
+                    ]
+                }
+            ]
+        },
         "Serotonin": {
             "logo": "https://bloxproducts.com/assets/images/serotonin.png",
             "items": [
