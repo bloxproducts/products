@@ -1,143 +1,164 @@
 {
-    "groups": {
-        "Speed Hub X": {
-            "logo": "https://bloxproducts.com/assets/images/speedhubx.png",
-            "items": [
-                {
-                    "name": "Lifetime",
-                    "purchase": "https://stealthpay.io/cat/speed-hub-x",
-                    "price": 9.99,
-                    "lifetime": true,
-                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
-                    "features": [
-                        "*TONS of games",
-                        "Best Grow a Garden Script",
-                        "BloxFruit ",
-                        "The Strongest Battlegrounds",
-                        "Tons of main-page games"
-                    ]
-                }
-            ]
-        },
-        "MSPaint": {
-            "logo": "https://bloxproducts.com/assets/images/mspaint.png",
-            "items": [
-                {
-                    "name": "Monthly",
-                    "purchase": "https://stealthpay.io/cat/mspaint",
-                    "price": 2.99,
-                    "lifetime": false,
-                    "subscriptionPeriod": "Monthly",
-                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
-                    "features": [
-                        "*Best Script Hub",
-                        "Best DOORS Script",
-                        "Fisch",
-                        "3008",
-                        "Tons of Supported Games"
-                    ]
-                },
-                {
-                    "name": "Lifetime",
-                    "purchase": "https://stealthpay.io/cat/mspaint-lifetime",
-                    "price": 19.99,
-                    "lifetime": true,
-                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
-                    "features": [
-                        "*Best Script Hub",
-                        "Best DOORS Script",
-                        "Fisch",
-                        "3008",
-                        "Tons of Supported Games"
-                    ]
-                }
-            ]
-        },
-        "AxonHub": {
-            "logo": "https://bloxproducts.com/assets/images/axonhub.png",
-            "items": [
-                {
-                    "name": "Monthly",
-                    "purchase": "https://stealthpay.io/cat/xenith-hub-monthly",
-                    "price": 4.39,
-                    "lifetime": false,
-                    "subscriptionPeriod": "Monthly",
-                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
-                    "features": [
-                        "*HUGE games library",
-                        "Best ToH Script",
-                        "Garden Tower Defense",
-                        "Fruit Battlegrounds",
-                        "Ink Game"
-                    ]
-                },
-                {
-                    "name": "Lifetime",
-                    "purchase": "https://stealthpay.io/cat/xenith-hub-lifetime",
-                    "price": 17.99,
-                    "lifetime": true,
-                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
-                    "features": [
-                        "*HUGE games library",
-                        "Best ToH Script",
-                        "Garden Tower Defense",
-                        "Fruit Battlegrounds",
-                        "Ink Game"
-                    ]
-                }
-            ]
-        },
-        "LuminHub": {
-            "logo": "https://bloxproducts.com/assets/images/luminhub.png",
-            "items": [
-                {
-                    "name": "Weekly",
-                    "purchase": "https://stealthpay.io/cat/lumin-hub-weekly",
-                    "price": 1.99,
-                    "lifetime": false,
-                    "subscriptionPeriod": "Weekly",
-                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
-                    "features": [
-                        "*POPULAR GAMES",
-                        "Steal a Brainrot",
-                        "Garden Horizons",
-                        "99 Nights In the Forest",
-                        "Forsaken",
-                        "Rivals"
-                    ]
-                },
-                {
-                    "name": "Monthly",
-                    "purchase": "https://stealthpay.io/cat/lumin-hub-monthly",
-                    "price": 6.19,
-                    "lifetime": false,
-                    "subscriptionPeriod": "Monthly",
-                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
-                    "features": [
-                        "*POPULAR GAMES",
-                        "Steal a Brainrot",
-                        "Garden Horizons",
-                        "99 Nights In the Forest",
-                        "Forsaken",
-                        "Rivals"
-                    ]
-                },
-                {
-                    "name": "Lifetime",
-                    "purchase": "https://stealthpay.io/cat/lumin-hub-lifetime",
-                    "price": 10.59,
-                    "lifetime": true,
-                    "device": "https://bloxproducts.com/assets/images/alldevices.png",
-                    "features": [
-                        "*POPULAR GAMES",
-                        "Steal a Brainrot",
-                        "Garden Horizons",
-                        "99 Nights In the Forest",
-                        "Forsaken",
-                        "Rivals"
-                    ]
-                }
-            ]
+  "groups": {
+    "Speed Hub X": {
+      "logo": "https://bloxproducts.com/assets/images/speedhubx.png",
+      "items": [
+        {
+          "name": "Lifetime",
+          "purchase": "https://stealthpay.io/cat/speed-hub-x",
+          "price": 9.99,
+          "lifetime": true,
+          "device": "https://bloxproducts.com/assets/images/alldevices.png",
+          "features": [
+            "*TONS of games",
+            "Best Grow a Garden Script",
+            "BloxFruit ",
+            "The Strongest Battlegrounds",
+            "Tons of main-page games"
+          ]
         }
+      ]
+    },
+    "MSPaint": {
+      "logo": "https://bloxproducts.com/assets/images/mspaint.png",
+      "items": [
+        {
+          "name": "Monthly",
+          "purchase": "https://stealthpay.io/cat/mspaint",
+          "price": 2.99,
+          "lifetime": false,
+          "subscriptionPeriod": "Monthly",
+          "device": "https://bloxproducts.com/assets/images/alldevices.png",
+          "features": [
+            "*Best Script Hub",
+            "Best DOORS Script",
+            "Fisch",
+            "3008",
+            "Tons of Supported Games"
+          ]
+        },
+        {
+          "name": "Lifetime",
+          "purchase": "https://stealthpay.io/cat/mspaint-lifetime",
+          "price": 19.99,
+          "lifetime": true,
+          "device": "https://bloxproducts.com/assets/images/alldevices.png",
+          "features": [
+            "*Best Script Hub",
+            "Best DOORS Script",
+            "Fisch",
+            "3008",
+            "Tons of Supported Games"
+          ]
+        }
+      ]
+    },
+    "AxonHub": {
+      "logo": "https://bloxproducts.com/assets/images/axonhub.png",
+      "items": [
+        {
+          "name": "Monthly",
+          "purchase": "https://stealthpay.io/cat/xenith-hub-monthly",
+          "price": 4.39,
+          "lifetime": false,
+          "subscriptionPeriod": "Monthly",
+          "device": "https://bloxproducts.com/assets/images/alldevices.png",
+          "features": [
+            "*HUGE games library",
+            "Best ToH Script",
+            "Garden Tower Defense",
+            "Fruit Battlegrounds",
+            "Ink Game"
+          ]
+        },
+        {
+          "name": "Lifetime",
+          "purchase": "https://stealthpay.io/cat/xenith-hub-lifetime",
+          "price": 17.99,
+          "lifetime": true,
+          "device": "https://bloxproducts.com/assets/images/alldevices.png",
+          "features": [
+            "*HUGE games library",
+            "Best ToH Script",
+            "Garden Tower Defense",
+            "Fruit Battlegrounds",
+            "Ink Game"
+          ]
+        }
+      ]
+    },
+    "LuminHub": {
+      "logo": "https://bloxproducts.com/assets/images/luminhub.png",
+      "items": [
+        {
+          "name": "Weekly",
+          "purchase": "https://stealthpay.io/cat/lumin-hub-weekly",
+          "price": 1.99,
+          "lifetime": false,
+          "subscriptionPeriod": "Weekly",
+          "device": "https://bloxproducts.com/assets/images/alldevices.png",
+          "features": [
+            "*POPULAR GAMES",
+            "Steal a Brainrot",
+            "Garden Horizons",
+            "99 Nights In the Forest",
+            "Forsaken",
+            "Rivals"
+          ]
+        },
+        {
+          "name": "Monthly",
+          "purchase": "https://stealthpay.io/cat/lumin-hub-monthly",
+          "price": 6.19,
+          "lifetime": false,
+          "subscriptionPeriod": "Monthly",
+          "device": "https://bloxproducts.com/assets/images/alldevices.png",
+          "features": [
+            "*POPULAR GAMES",
+            "Steal a Brainrot",
+            "Garden Horizons",
+            "99 Nights In the Forest",
+            "Forsaken",
+            "Rivals"
+          ]
+        },
+        {
+          "name": "Lifetime",
+          "purchase": "https://stealthpay.io/cat/lumin-hub-lifetime",
+          "price": 10.59,
+          "lifetime": true,
+          "device": "https://bloxproducts.com/assets/images/alldevices.png",
+          "features": [
+            "*POPULAR GAMES",
+            "Steal a Brainrot",
+            "Garden Horizons",
+            "99 Nights In the Forest",
+            "Forsaken",
+            "Rivals"
+          ]
+        }
+      ]
+    },
+    "LuminRest": {
+      "logo": "https://bloxproducts.com/assets/images/luminrest.png",
+      "items": [
+        {
+          "name": "Lifetime",
+          "purchase": "https://stealthpay.io/cat/luminrest",
+          "price": 9.99,
+          "lifetime": true,
+          "device": "https://bloxproducts.com/assets/images/alldevices.png",
+          "features": [
+            "*POPULAR GAMES",
+            "Tower of Hell",
+            "Grace",
+            "Build a Boat for Treasure",
+            "ZOO or OOF",
+            "Murder Mystery 2",
+            "And more"
+          ]
+        }
+      ]
     }
+  }
 }
