@@ -138,27 +138,6 @@
           ]
         }
       ]
-    },
-    "LuminRest": {
-      "logo": "https://bloxproducts.com/assets/images/luminrest.png",
-      "items": [
-        {
-          "name": "Lifetime",
-          "purchase": "https://stealthpay.io/cat/luminrest",
-          "price": 9.99,
-          "lifetime": true,
-          "device": "https://bloxproducts.com/assets/images/alldevices.png",
-          "features": [
-            "*POPULAR GAMES",
-            "Tower of Hell",
-            "Grace",
-            "Build a Boat for Treasure",
-            "ZOO or OOF",
-            "Murder Mystery 2",
-            "And more"
-          ]
-        }
-      ]
     }
   }
 }
