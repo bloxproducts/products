@@ -53,40 +53,6 @@
         }
       ]
     },
-    "AxonHub": {
-      "logo": "https://bloxproducts.com/assets/images/axonhub.png",
-      "items": [
-        {
-          "name": "Monthly",
-          "purchase": "https://stealthpay.io/cat/xenith-hub-monthly",
-          "price": 4.39,
-          "lifetime": false,
-          "subscriptionPeriod": "Monthly",
-          "device": "https://bloxproducts.com/assets/images/alldevices.png",
-          "features": [
-            "*HUGE games library",
-            "Best ToH Script",
-            "Garden Tower Defense",
-            "Fruit Battlegrounds",
-            "Ink Game"
-          ]
-        },
-        {
-          "name": "Lifetime",
-          "purchase": "https://stealthpay.io/cat/xenith-hub-lifetime",
-          "price": 17.99,
-          "lifetime": true,
-          "device": "https://bloxproducts.com/assets/images/alldevices.png",
-          "features": [
-            "*HUGE games library",
-            "Best ToH Script",
-            "Garden Tower Defense",
-            "Fruit Battlegrounds",
-            "Ink Game"
-          ]
-        }
-      ]
-    },
     "LuminHub": {
       "logo": "https://bloxproducts.com/assets/images/luminhub.png",
       "items": [
