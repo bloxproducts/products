@@ -401,6 +401,20 @@
             "Free support",
             "Undetectable"
           ]
+        },
+        {
+          "name": "Ultimate",
+          "purchase": "https://stealthpay.io/cat/exoliner-ultimate",
+          "price": 99.99,
+          "lifetime": true,
+          "device": "https://bloxproducts.com/assets/images/alldevices.png",
+          "features": [
+            "*ZERO RESTRICTIONS",
+            "Top-tier Serverside",
+            "Lifetime License",
+            "Free support",
+            "Undetectable"
+          ]
         }
       ]
     },
