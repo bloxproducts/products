@@ -6,7 +6,7 @@
         {
           "name": "Wave 7 Days",
           "purchase": "https://stealthpay.io/cat/wave-week-key",
-          "price": 5.99,
+          "price": 4.99,
           "lifetime": false,
           "subscriptionPeriod": "7 Days",
           "device": "https://bloxproducts.com/assets/images/windows.png",
@@ -21,7 +21,7 @@
         {
           "name": "Wave 30 Days",
           "purchase": "https://stealthpay.io/cat/wave-month-key",
-          "price": 18.99,
+          "price": 16.99,
           "lifetime": false,
           "subscriptionPeriod": "30 Days",
           "device": "https://bloxproducts.com/assets/images/windows.png",
