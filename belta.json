@@ -105,41 +105,6 @@
         }
       ]
     },
-    "RbxCli": {
-      "logo": "https://bloxproducts.com/assets/images/rbxcli.png",
-      "items": [
-        {
-          "name": "Low risk",
-          "purchase": "https://stealthpay.io/cat/rbxcli-mystery-box-low-risk",
-          "price": 5.69,
-          "lifetime": false,
-          "subscriptionPeriod": "Per Box",
-          "device": "https://bloxproducts.com/assets/images/windows.png",
-          "features": [
-            "*Low risk",
-            "RbxCli for Windows",
-            "MYSTERY BOX",
-            "Free support",
-            "Easy setup"
-          ]
-        },
-        {
-          "name": "High risk",
-          "purchase": "https://stealthpay.io/cat/rbxcli-mystery-box-high-risk",
-          "price": 4.17,
-          "lifetime": false,
-          "subscriptionPeriod": "Per Box",
-          "device": "https://bloxproducts.com/assets/images/windows.png",
-          "features": [
-            "*High risk",
-            "RbxCli for Windows",
-            "MYSTERY BOX",
-            "Free support",
-            "Easy setup"
-          ]
-        }
-      ]
-    },
     "Aureus": {
       "logo": "https://bloxproducts.com/assets/images/aureus.png",
       "items": [
