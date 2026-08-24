@@ -104,6 +104,59 @@
           ]
         }
       ]
+    },
+    "Nonomy": {
+      "logo": "https://bloxproducts.com/assets/images/nonomy.png",
+      "items": [
+        {
+          "name": "Weekly",
+          "purchase": "https://stealthpay.io/cat/nonomy-weekly",
+          "price": 5.99,
+          "lifetime": false,
+          "subscriptionPeriod": "Weekly",
+          "device": "https://bloxproducts.com/assets/images/alldevices.png",
+          "features": [
+            "*Top Games",
+            "Deepwoken",
+            "Phantom Forces",
+            "Jailbreak",
+            "Rivals",
+            "Grow a Garden"
+          ]
+        },
+        {
+          "name": "Monthly",
+          "purchase": "https://stealthpay.io/cat/nonomy-monthly",
+          "price": 15.99,
+          "lifetime": false,
+          "subscriptionPeriod": "Monthly",
+          "device": "https://bloxproducts.com/assets/images/alldevices.png",
+          "features": [
+            "*Top Games",
+            "Murder Mystery 2",
+            "Blox Fruits",
+            "Fisch",
+            "The Strongest Battlegrounds",
+            "Forsaken"
+          ]
+        },
+        {
+          "name": "6 Months",
+          "purchase": "https://stealthpay.io/cat/nonomy-6-months",
+          "price": 79.99,
+          "lifetime": false,
+          "subscriptionPeriod": "6 Months",
+          "device": "https://bloxproducts.com/assets/images/alldevices.png",
+          "features": [
+            "*Top Games",
+            "99 Nights in the Forest",
+            "Doors",
+            "Volleyball Legends",
+            "Blade Ball",
+            "Build A Boat For Treasure"
+          ]
+        }
+      ]
     }
   }
 }
