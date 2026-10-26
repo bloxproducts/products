@@ -212,25 +212,6 @@
         }
       ]
     },
-    "Ronin": {
-      "logo": "https://bloxproducts.com/assets/images/ronin.png",
-      "items": [
-        {
-          "name": "Lifetime",
-          "purchase": "https://stealthpay.io/cat/ronin",
-          "price": 9.59,
-          "lifetime": true,
-          "device": "https://bloxproducts.com/assets/images/windows.png",
-          "features": [
-            "*External",
-            "OP Aimbot",
-            "Lifetime License",
-            "Easy Setup",
-            "Undetectable"
-          ]
-        }
-      ]
-    },
     "Matcha": {
       "logo": "https://bloxproducts.com/assets/images/matcha.png",
       "items": [
