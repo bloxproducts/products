@@ -1,36 +1,20 @@
 {
   "groups": {
-    "Wave": {
-      "logo": "https://bloxproducts.com/assets/images/wave.png",
+    "Potassium": {
+      "logo": "https://bloxproducts.com/assets/images/potassium.png",
       "items": [
         {
-          "name": "Wave 7 Days",
-          "purchase": "https://stealthpay.io/cat/wave-week-key",
-          "price": 4.99,
-          "lifetime": false,
-          "subscriptionPeriod": "7 Days",
+          "name": "Lifetime",
+          "purchase": "https://stealthpay.io/cat/potassium",
+          "price": 22.99,
+          "lifetime": true,
           "device": "https://bloxproducts.com/assets/images/windows.png",
           "features": [
-            "*Cheapest",
-            "Wave for Windows",
-            "7-Day license",
-            "Free support",
-            "Longest running"
-          ]
-        },
-        {
-          "name": "Wave 30 Days",
-          "purchase": "https://stealthpay.io/cat/wave-month-key",
-          "price": 16.99,
-          "lifetime": false,
-          "subscriptionPeriod": "30 Days",
-          "device": "https://bloxproducts.com/assets/images/windows.png",
-          "features": [
-            "*Most popular",
-            "Wave for Windows",
-            "30-Day license",
-            "Free support",
-            "Longest running"
+            "*LIFETIME",
+            "Executes ALL Scripts",
+            "Undetected",
+            "Easy Setup",
+            "Works on Windows 10 & 11"
           ]
         }
       ]
@@ -85,21 +69,87 @@
         }
       ]
     },
-    "Potassium": {
-      "logo": "https://bloxproducts.com/assets/images/potassium.png",
+    "Lucid": {
+      "logo": "https://bloxproducts.com/assets/images/LucidLogo.png",
       "items": [
         {
-          "name": "Lifetime",
-          "purchase": "https://stealthpay.io/cat/potassium",
-          "price": 22.99,
-          "lifetime": true,
+          "name": "Weekly",
+          "purchase": "https://stealthpay.io/cat/lucid-weekly",
+          "price": 5.99,
+          "lifetime": false,
+          "subscriptionPeriod": "7 Days",
           "device": "https://bloxproducts.com/assets/images/windows.png",
           "features": [
-            "*LIFETIME",
-            "Executes ALL Scripts",
-            "Undetected",
-            "Easy Setup",
-            "Works on Windows 10 & 11"
+            "*UNDETECTED",
+            "Most optimized",
+            "Top-tier stability",
+            "7-Day License",
+            "Windows"
+          ]
+        },
+        {
+          "name": "Monthly",
+          "purchase": "https://stealthpay.io/cat/lucid-monthly",
+          "price": 19.99,
+          "lifetime": false,
+          "subscriptionPeriod": "30 Days",
+          "device": "https://bloxproducts.com/assets/images/windows.png",
+          "features": [
+            "*UNDETECTED",
+            "Most optimized",
+            "Top-tier stability",
+            "30-Day License",
+            "Windows"
+          ]
+        },
+        {
+          "name": "Quarterly",
+          "purchase": "https://stealthpay.io/cat/lucid-quarterly",
+          "price": 39.99,
+          "lifetime": false,
+          "subscriptionPeriod": "90 Days",
+          "device": "https://bloxproducts.com/assets/images/windows.png",
+          "features": [
+            "*UNDETECTED",
+            "Most optimized",
+            "Top-tier stability",
+            "90-Day License",
+            "Windows"
+          ]
+        }
+      ]
+    },
+    "Wave": {
+      "logo": "https://bloxproducts.com/assets/images/wave.png",
+      "items": [
+        {
+          "name": "Wave 7 Days",
+          "purchase": "https://stealthpay.io/cat/wave-week-key",
+          "price": 4.99,
+          "lifetime": false,
+          "subscriptionPeriod": "7 Days",
+          "device": "https://bloxproducts.com/assets/images/windows.png",
+          "features": [
+            "*Cheapest",
+            "Wave for Windows",
+            "7-Day license",
+            "Free support",
+            "Longest running"
+          ]
+        },
+        {
+          "name": "Wave 30 Days",
+          "purchase": "https://stealthpay.io/cat/wave-month-key",
+          "price": 16.99,
+          "lifetime": false,
+          "subscriptionPeriod": "30 Days",
+          "device": "https://bloxproducts.com/assets/images/windows.png",
+          "features": [
+            "*Most popular",
+            "Wave for Windows",
+            "30-Day license",
+            "Free support",
+            "Longest running"
           ]
         }
       ]
@@ -280,56 +330,6 @@
             "OP Aimbot/Silent-Aim & More",
             "AI Assistant",
             "Undetectable"
-          ]
-        }
-      ]
-    },
-    "Lucid": {
-      "logo": "https://bloxproducts.com/assets/images/LucidLogo.png",
-      "items": [
-        {
-          "name": "Weekly",
-          "purchase": "https://stealthpay.io/cat/lucid-weekly",
-          "price": 5.99,
-          "lifetime": false,
-          "subscriptionPeriod": "7 Days",
-          "device": "https://bloxproducts.com/assets/images/windows.png",
-          "features": [
-            "*UNDETECTED",
-            "Most optimized",
-            "Top-tier stability",
-            "7-Day License",
-            "Windows"
-          ]
-        },
-        {
-          "name": "Monthly",
-          "purchase": "https://stealthpay.io/cat/lucid-monthly",
-          "price": 19.99,
-          "lifetime": false,
-          "subscriptionPeriod": "30 Days",
-          "device": "https://bloxproducts.com/assets/images/windows.png",
-          "features": [
-            "*UNDETECTED",
-            "Most optimized",
-            "Top-tier stability",
-            "30-Day License",
-            "Windows"
-          ]
-        },
-        {
-          "name": "Quarterly",
-          "purchase": "https://stealthpay.io/cat/lucid-quarterly",
-          "price": 39.99,
-          "lifetime": false,
-          "subscriptionPeriod": "90 Days",
-          "device": "https://bloxproducts.com/assets/images/windows.png",
-          "features": [
-            "*UNDETECTED",
-            "Most optimized",
-            "Top-tier stability",
-            "90-Day License",
-            "Windows"
           ]
         }
       ]
