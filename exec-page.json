@@ -119,6 +119,25 @@
         }
       ]
     },
+    "Madium": {
+      "logo": "https://bloxproducts.com/assets/images/madium.png",
+      "items": [
+        {
+          "name": "Lifetime",
+          "purchase": "https://stealthpay.io/cat/madium-lifetime",
+          "price": 19.99,
+          "lifetime": true,
+          "device": "https://bloxproducts.com/assets/images/windows.png",
+          "features": [
+            "*LIFETIME",
+            "EMULATES",
+            "FAST UPDATES",
+            "WINDOWS",
+            "THEMES"
+          ]
+        }
+      ]
+    },
     "Wave": {
       "logo": "https://bloxproducts.com/assets/images/wave.png",
       "items": [
