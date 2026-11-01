@@ -138,6 +138,26 @@
         }
       ]
     },
+    "Lync": {
+      "logo": "https://bloxproducts.com/assets/images/lynx.png",
+      "items": [
+        {
+          "name": "Lifetime",
+          "purchase": "https://stealthpay.io/cat/lynx-lifetime",
+          "price": 14.99,
+          "lifetime": true,
+          "device": "https://bloxproducts.com/assets/images/windows.png",
+          "features": [
+            "*Feature-packed Executor",
+            "Hyperion Emulator",
+            "Unlimited Multi Instances",
+            "Full RakNet / OTH / ImGui Libraries",
+            "Custom Decompiler & Saveinstance",
+            "Clean UI & Advanced Hooks"
+          ]
+        }
+      ]
+    },
     "Wave": {
       "logo": "https://bloxproducts.com/assets/images/wave.png",
       "items": [
