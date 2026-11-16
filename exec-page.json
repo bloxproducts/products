@@ -319,59 +319,6 @@
         }
       ]
     },
-    "Axis": {
-      "logo": "https://bloxproducts.com/assets/images/axis.png",
-      "items": [
-        {
-          "name": "Basic",
-          "purchase": "https://stealthpay.io/cat/axis-basic",
-          "price": 4.99,
-          "lifetime": false,
-          "subscriptionPeriod": "30 Days",
-          "device": "https://bloxproducts.com/assets/images/windows.png",
-          "features": [
-            "*External",
-            "Axis Basic for Windows",
-            "30-Day License",
-            "OP Aimbot/Silent-Aim & More",
-            "Undetectable",
-            "Easy Setup"
-          ]
-        },
-        {
-          "name": "Standard",
-          "purchase": "https://stealthpay.io/cat/axis-standard",
-          "price": 9.99,
-          "lifetime": false,
-          "subscriptionPeriod": "30 Days",
-          "device": "https://bloxproducts.com/assets/images/windows.png",
-          "features": [
-            "*External",
-            "Axis Standard for Windows",
-            "30-Day License",
-            "OP Aimbot/Silent-Aim & More",
-            "Undetectable",
-            "Easy Setup"
-          ]
-        },
-        {
-          "name": "Premium",
-          "purchase": "https://stealthpay.io/cat/axis-premium",
-          "price": 12.99,
-          "lifetime": false,
-          "subscriptionPeriod": "30 Days",
-          "device": "https://bloxproducts.com/assets/images/windows.png",
-          "features": [
-            "*External",
-            "Axis Premium for Windows",
-            "30-Day License",
-            "OP Aimbot/Silent-Aim & More",
-            "AI Assistant",
-            "Undetectable"
-          ]
-        }
-      ]
-    },
     "Aureus": {
       "logo": "https://bloxproducts.com/assets/images/aureus.png",
       "items": [
